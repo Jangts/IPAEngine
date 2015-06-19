@@ -5,6 +5,7 @@ Created on 31 May 2015
 '''
 if __name__ == '__main__':
     
+    
     b={'B':['0x62','0x0253', '0x0299', '0x03B2']}
     c={'C':['0x63','0x0254', '0x0255', '0x00E7']}
     d={'D':['0x64','0x0257', '0x0256', '0x00F0', '0x02A4']}
@@ -22,46 +23,38 @@ if __name__ == '__main__':
     t={'T':['0x74','0x0288', '0x02A7']}
     v={'V':['0x76','0x028B', '0x2C71']}
 
-    soundDictionary = [b, c, d, f, g, h, j, k, l, m, n, r, p, s, t, v]
-    soundGroupDictionaryBPFV = [b, f, p, v]
-    soundGroupDictionaryDTS = [d, t, s]
-    soundGroupDictionaryGJ = [g, j, h, k]
-    soundGroupDictionaryLMNR = [l, m, n, r] 
-    
     def findMatch(firstWord, secondWord):
         foundCounter = 0
         for c in firstWord:
-#             exact match
             found = secondWord.find(c)
             if found > -1:
                 foundCounter = foundCounter + 1
             else:
-                for soundDictionaryEntry in soundDictionary:
-                    for sound_group, sounds in soundDictionaryEntry.iteritems():
-                        for sound in sounds:
-                            if unichr(int(sound, 16))== c:
-                                for sound in sounds:
-                                    found = secondWord.find(unichr(int(sound, 16)))
-                                    if found > -1:
-                                        foundCounter = foundCounter + 1
+                for sound_group, sounds in m.iteritems():
+                    for sound in sounds:
+                        found = secondWord.find(unichr(int(sound, 16)))
+                        if found > -1:
+                            foundCounter = foundCounter + 1
             
         firstWordLength = len(firstWord)
         halffirstWordLength = firstWordLength/2
         if foundCounter >=halffirstWordLength:
             print 'high probability' 
             print foundCounter
-        return foundCounter   
+        return foundCounter
+    
+    
 #                     s           t            type of m           d
     stand = unichr(0x73)+unichr(0x74)+unichr(0x0271)+unichr(0x64)
 #                     s           t            m            d
     stamb = unichr(0x73)+unichr(0x74)+unichr(0x6d)+unichr(0x62)
     
+    
     naice = unichr(0x6e) + unichr(0x73)
     naish = unichr(0x6e) + unichr(0x0283)
-    
-    sea = unichr(0x73)
-    zea = unichr(0x0282)
-    
     findMatch(naice, naish)
+    
+    
+           
     
     pass

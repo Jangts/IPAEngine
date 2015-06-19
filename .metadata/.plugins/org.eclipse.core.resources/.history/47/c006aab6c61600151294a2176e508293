@@ -24,9 +24,10 @@ if __name__ == '__main__':
 
     soundDictionary = [b, c, d, f, g, h, j, k, l, m, n, r, p, s, t, v]
     soundGroupDictionaryBPFV = [b, f, p, v]
-    soundGroupDictionaryDTS = [d, t, s]
+    soundGroupDictionaryDT = [d, t]
     soundGroupDictionaryGJ = [g, j, h, k]
-    soundGroupDictionaryLMNR = [l, m, n, r] 
+    soundGroupDictionaryLMNR = [l, m, n, r]
+    soundGroupDictionarySZ = [s] 
     
     def findMatch(firstWord, secondWord):
         foundCounter = 0
@@ -50,7 +51,8 @@ if __name__ == '__main__':
         if foundCounter >=halffirstWordLength:
             print 'high probability' 
             print foundCounter
-        return foundCounter   
+        return foundCounter
+    
 #                     s           t            type of m           d
     stand = unichr(0x73)+unichr(0x74)+unichr(0x0271)+unichr(0x64)
 #                     s           t            m            d

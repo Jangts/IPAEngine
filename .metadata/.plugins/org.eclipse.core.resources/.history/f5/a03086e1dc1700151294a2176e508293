@@ -23,11 +23,18 @@ if __name__ == '__main__':
     v=['0x76','0x028B', '0x2C71']
 
     soundDictionary = [b, c, d, f, g, h, j, k, l, m, n, r, p, s, t, v]
-    
     shiftGroupBPFV = [b, f, p, v] 
-    shiftGroupDTS = [d, t, s]
-    shiftGroupGJHK = [g, j, h, k]
-    shiftGroupLMNR = [l, m, n, r]
+    shiftGroupDTS = [d,
+                     t,
+                     s]
+    shiftGroupGJHK = [g, 
+                    j, 
+                    h, 
+                    k]
+    shiftGroupLMNR = [l,
+                      m, 
+                      m,
+                       r]
     shiftDictionary = [shiftGroupBPFV,
                        shiftGroupDTS,
                        shiftGroupGJHK,

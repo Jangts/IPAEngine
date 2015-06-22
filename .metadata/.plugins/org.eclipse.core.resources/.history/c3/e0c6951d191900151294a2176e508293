@@ -1,0 +1,26 @@
+import unittest
+
+from src.annakeren.ipa.engine.main import Engine
+
+class EngineTest(unittest.TestCase):
+    def testStandStamb(self):
+        stand = unichr(0x73)+unichr(0x74)+unichr(0x6e)+unichr(0x64)
+#                     s           t            m            b
+        stamb = unichr(0x73)+unichr(0x74)+unichr(0x6d)+unichr(0x62)
+
+        naice = unichr(0x6e) + unichr(0x73)
+        naish = unichr(0x6e) + unichr(0x0283)
+    
+        sea = unichr(0x73)
+        zea = unichr(0x0282)
+    
+        sneg = unichr(0x73) + unichr(0x6e) + unichr(0x67)
+        snow = unichr(0x73) + unichr(0x6e)
+        sheleg = unichr(0x0283) + unichr(0x6c) + unichr(0x67)
+        
+       
+#         engine = src.annakeren.ipa.engine.main.Engine.Engine()
+#         engine.findMatch(stand, stamb)
+#     Engin
+#     findMatch(sneg, snow)
+#     self.assertEqual(first, second, msg)

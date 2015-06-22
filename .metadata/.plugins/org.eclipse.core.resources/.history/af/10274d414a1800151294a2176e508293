@@ -1,0 +1,7 @@
+import unittest
+import Engine
+
+class EngineTest(unittest.TestCase):
+    def testStandStamb(self):
+        findMatch()
+        self.assertEqual(first, second, msg)

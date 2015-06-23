@@ -7,7 +7,7 @@ class EngineTest(unittest.TestCase):
         stand = unichr(0x73)+unichr(0x74)+unichr(0x6e)+unichr(0x64)
         stamb = unichr(0x73)+unichr(0x74)+unichr(0x6d)+unichr(0x62)
         actual = Engine.Engine.findMatch(stamb, stand)
-        self.assertEqual(4, actual, "msg")
+        self.assertEqual(3, actual, "msg")
         
     def testNaiceNaish(self):
         naice = unichr(0x6e) + unichr(0x73)
@@ -27,10 +27,10 @@ class EngineTest(unittest.TestCase):
         sheleg = unichr(0x0283) + unichr(0x6c) + unichr(0x67)
         
         actualSnegSnow = Engine.Engine.findMatch(sneg, snow)
-        self.assertEqual(3, actualSnegSnow, "msg")
+        self.assertEqual(2, actualSnegSnow, "msg")
         
         actualSnowSheleg = Engine.Engine.findMatch(snow, sheleg)
-        self.assertEqual(2, actualSnowSheleg, "msg")
+        self.assertEqual(0, actualSnowSheleg, "msg")
         
         actualSnegSheleg = Engine.Engine.findMatch(sneg, sheleg)
-        self.assertEqual(3, actualSnegSheleg, "msg")
+        self.assertEqual(1, actualSnegSheleg, "msg")

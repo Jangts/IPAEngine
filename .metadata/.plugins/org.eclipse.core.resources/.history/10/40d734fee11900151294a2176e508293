@@ -7,7 +7,7 @@ class EngineTest(unittest.TestCase):
         stand = unichr(0x73)+unichr(0x74)+unichr(0x6e)+unichr(0x64)
         stamb = unichr(0x73)+unichr(0x74)+unichr(0x6d)+unichr(0x62)
         actual = Engine.Engine.findMatch(stamb, stand)
-        self.assertEqual(4, actual, "msg")
+        self.assertEqual(3, actual, "msg")
         
     def testNaiceNaish(self):
         naice = unichr(0x6e) + unichr(0x73)

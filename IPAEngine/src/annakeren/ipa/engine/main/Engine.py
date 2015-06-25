@@ -4,8 +4,15 @@ Created on 31 May 2015
 @author: annakeren
 '''
     
-class Engine(object):    
+class Engine(object):
     
+    @staticmethod    
+    def percentage(firstWordLength, secondWordLength):
+        percent = (float(firstWordLength)/float(secondWordLength))*100.0
+        if percent > 100:
+            percent = percent - 100
+        return percent
+      
     @staticmethod
     def findMatch(firstWord, secondWord):
         b=['0x62','0x0253', '0x0299', '0x03B2']
@@ -72,7 +79,16 @@ class Engine(object):
         
         firstWordLength = len(firstWord)
         halffirstWordLength = firstWordLength/2
+        secondWordLength = len(secondWord)
+        
+        percent = Engine.percentage(firstWordLength, secondWordLength)
         if foundCounter >=halffirstWordLength:
-            print 'high probability' 
-            print foundCounter
+            print 'high probability of common origin, 50 % or more consonants match' 
+            
+        if foundCounter >= 40.0:
+            print 'medium probability'
+        
+        print 'number of match consonants: '
+        print foundCounter
+        print percent 
         return foundCounter

@@ -1,0 +1,23 @@
+to do 
+
+Engine - V
+False positive
+Low probability
+False tests
+add more tests
+silk - mesi - sholk
+result - resultat
+school - shkola
+wind - veter 
+shabat - subbota
+Input - both
+reading file
+cli
+Input form
+full transcript words -> eliminate vowels
+store every run result in DB like mongodb 
+document 
+basicWord {_id: id, word:’word’, language:’language’, consonantTranscript:’consonantTranscript’, fullTranscript:’fullTranscript’}
+how to express connections - references 
+how to express probability or percentage - another document
+create a commonOrigin document (or add to existing one and extend it) every time there is a probability of more than 30 % (30-40 - low probability) commonOrigin{_id:id, references:[…]}

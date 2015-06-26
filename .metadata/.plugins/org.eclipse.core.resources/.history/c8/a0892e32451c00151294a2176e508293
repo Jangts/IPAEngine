@@ -53,7 +53,7 @@ class EngineTest(unittest.TestCase):
         solnze = unichr(0x73) + unichr(0x6c) + unichr(0x6e) + unichr(0x74) + unichr(0x73)
         shemesh = unichr(0x0283) + unichr(0x6d) + unichr(0x0283)
         print '(solnze)' + solnze + ' vs ' + sun + '(sun)'
-
+# 
         actualSolnzeSun = Engine.Engine.findMatch(solnze, sun)
         self.assertEqual(5, actualSolnzeSun, "msg")
         

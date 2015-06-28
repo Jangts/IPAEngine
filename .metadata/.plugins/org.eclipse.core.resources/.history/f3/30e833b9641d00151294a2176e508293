@@ -1,0 +1,17 @@
+'''
+Created on 28 Jun 2015
+
+@author: annakeren
+'''
+import pymongo
+
+class MongoPersistence(object):
+    '''
+    classdocs
+    '''
+
+    def __init__(self, params):
+        '''
+        Constructor
+        '''
+        

@@ -1,6 +1,6 @@
-INSTUPsrc.annakeren.ipa.persist.MongoPersistence
-/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/MongoPersistence.py
+INSTUPannakeren.ipa.engine.test.EngineTest
+/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/EngineTest.py
 INFOS:&&1|1|2|0&&2|3|2|1
-MongoPersistence=1
-src.annakeren.ipa.persist.MongoPersistence=2
-connect=3
+EngineTest=1
+testNasichKnyazi=3
+annakeren.ipa.engine.test.EngineTest=2

@@ -111,6 +111,6 @@ class Engine(object):
         
         print 'number of match consonants: '
         print foundCounter
-        print "%:"
+        print "%"
         print percent 
         return foundCounter

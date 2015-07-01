@@ -1,6 +1,9 @@
-INSTUPsrc.annakeren.ipa.engine.test.EngineTest
-/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/EngineTest.py
-INFOS:&&1|1|2|0&&2|3|2|1
-EngineTest=1
-testNasichKnyazi=3
-src.annakeren.ipa.engine.test.EngineTest=2
+INSTUPsrc.annakeren.ipa.engine.test.PersistenceTest
+/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/PersistenceTest.py
+INFOS:&&1|1|2|0&&2|3|2|1&&2|4|2|1&&2|5|2|1&&2|6|2|1
+Test=1
+src.annakeren.ipa.engine.test.PersistenceTest=2
+testConnectToMongo=5
+setUp=3
+testInsert=6
+tearDown=4

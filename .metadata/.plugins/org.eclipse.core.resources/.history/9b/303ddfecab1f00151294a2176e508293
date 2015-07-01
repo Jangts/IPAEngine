@@ -1,0 +1,38 @@
+'''
+Created on 28 Jun 2015
+
+@author: annakeren
+'''
+import unittest
+from src.annakeren.ipa.persist import MongoPersistence
+
+class Test(unittest.TestCase):
+
+
+    def setUp(self):
+        pass
+
+
+    def tearDown(self):
+        pass
+
+
+    def testConnectToMongo(self):
+        params = ['localhost', 27017]
+        db = MongoPersistence.MongoPersistence.connect(params)
+        print db
+        pass
+
+    def testInsert(self):
+        params = ['localhost', 27017]
+        db = MongoPersistence.MongoPersistence.connect(params)
+        basicWord = {'_id': 'id1', 
+                     'word':'word', 
+                     'language':'language', 
+                     'consonantTranscript':'consonantTranscript', 
+                     'fullTranscript':'fullTranscript'}
+        collection = MongoPersistence.MongoPersistence.insert(db, basicWord)
+        print collection
+if __name__ == "__main__":
+    #import sys;sys.argv = ['', 'Test.testConnectToMongo']
+    unittest.main()

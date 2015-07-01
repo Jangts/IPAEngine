@@ -1,7 +1,0 @@
-import unittest
-import src.annakeren.ipa.engine.*
-
-class EngineTest(unittest.TestCase):
-    def testStandStamb(self):
-        findMatch()
-        self.assertEqual(first, second, msg)

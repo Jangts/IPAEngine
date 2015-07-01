@@ -18,10 +18,22 @@ class Test(unittest.TestCase):
 
 
     def testConnectToMongo(self):
-        MongoPersistence.MongoPersistence.connect("params")
+        params = ['localhost', 27017]
+        db = MongoPersistence.MongoPersistence.connect(params)
+        print db
         pass
 
-
+    def testInsert(self):
+        params = ['localhost', 27017]
+        db = MongoPersistence.MongoPersistence.connect(params)
+        db.collection.remove({})
+        basicWord = {'_id': 'id', 
+                     'word':'word', 
+                     'language':'language', 
+                     'consonantTranscript':'consonantTranscript', 
+                     'fullTranscript':'fullTranscript'}
+        posts = MongoPersistence.MongoPersistence.insert(db, basicWord)
+        print posts.find_one()
 if __name__ == "__main__":
     #import sys;sys.argv = ['', 'Test.testConnectToMongo']
     unittest.main()

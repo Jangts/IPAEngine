@@ -1,8 +1,24 @@
 import unittest
 
 from src.annakeren.ipa.engine.main import Engine
+from src.annakeren.ipa.engine.main import ComparisonPersistence
 
 class EngineTest(unittest.TestCase):
+    def testComparePersist(self):
+        print 'English consonant shift in connected speech:'
+        stand = unichr(0x73)+unichr(0x74)+unichr(0x6e)+unichr(0x64)
+        stamb = unichr(0x73)+unichr(0x74)+unichr(0x6d)+unichr(0x62)
+        print '(stand)' + stand + ' vs ' + stamb + '(like in stand back)'
+        
+        words  = [
+                  'stand', 'English', 'stand', stand,
+                  'stand', 'English', 'stamb', stamb
+                  ]
+        connectionParams = ['localhost', 27017]
+        dbConnection = ComparisonPersistence.ComparisonPersistence.connectToDB(connectionParams)
+        ComparisonPersistence.ComparisonPersistence.compareAndPerist(words, dbConnection)
+        
+    
     def testStandStamb(self):
         print 'English consonant shift in connected speech:'
         stand = unichr(0x73)+unichr(0x74)+unichr(0x6e)+unichr(0x64)

@@ -26,14 +26,14 @@ class Test(unittest.TestCase):
     def testInsert(self):
         params = ['localhost', 27017]
         db = MongoPersistence.MongoPersistence.connect(params)
-        db.collection.remove({})
+        db.ipa_engine.drop()
+        
         basicWord = {'_id': 'id', 
                      'word':'word', 
                      'language':'language', 
                      'consonantTranscript':'consonantTranscript', 
                      'fullTranscript':'fullTranscript'}
-        posts = MongoPersistence.MongoPersistence.insert(db, basicWord)
-        print posts.find_one()
+        db.ipa_engine.insert(basicWord)
+        print db.ipa_engine.find_one()
 if __name__ == "__main__":
-    #import sys;sys.argv = ['', 'Test.testConnectToMongo']
     unittest.main()

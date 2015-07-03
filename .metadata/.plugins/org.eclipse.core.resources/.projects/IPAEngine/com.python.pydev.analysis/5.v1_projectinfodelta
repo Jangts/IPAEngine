@@ -1,9 +1,1 @@
-INSTUPannakeren.ipa.engine.test.PersistenceTest
-/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/PersistenceTest.py
-INFOS:&&1|1|2|0&&2|3|2|1&&2|4|2|1&&2|5|2|1&&2|6|2|1
-Test=1
-annakeren.ipa.engine.test.PersistenceTest=2
-testConnectToMongo=5
-setUp=3
-testInsert=6
-tearDown=4
+DELSTRsrc.annakeren.ipa.engine.main.Engine

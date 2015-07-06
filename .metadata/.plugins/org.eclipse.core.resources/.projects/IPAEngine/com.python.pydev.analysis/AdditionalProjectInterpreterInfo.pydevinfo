@@ -14,45 +14,47 @@ annakeren.ipa.engine.test.PersistenceTest|1435903626000|/Users/annakeren/Documen
 src.annakeren.ipa.engine.main.ComparisonPersistence|1436010502000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/main/ComparisonPersistence.py
 annakeren.ipa.persist.MongoPersistence|1435726193000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/MongoPersistence.py
 src.annakeren.ipa.persist.MongoPersistence|1435726193000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/MongoPersistence.py
+src.annakeren.ipa.engine.test.EngineTest|1436212390000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/EngineTest.py
 __init__|1433103491000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/__init__.py
-annakeren.ipa.engine.test.EngineTest|1436011387000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/EngineTest.py
+annakeren.ipa.engine.test.EngineTest|1436212147000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/EngineTest.py
 annakeren.ipa.persist.__init__|1435474707000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/__init__.py
 -- END DISKCACHE
 -- START DICTIONARY
-14
+15
 2=annakeren.ipa.engine.main.ComparisonPersistence
-8=src.annakeren.ipa.engine.test.PersistenceTest
+9=src.annakeren.ipa.engine.test.PersistenceTest
 4=annakeren.ipa.engine.main.Engine
 3=src.annakeren.ipa.engine.main.Engine
-10=ComparisonPersistence
-14=EngineTest
-9=annakeren.ipa.engine.test.PersistenceTest
-13=Test
+11=ComparisonPersistence
+15=EngineTest
+10=annakeren.ipa.engine.test.PersistenceTest
+14=Test
 1=src.annakeren.ipa.engine.main.ComparisonPersistence
-11=MongoPersistence
-7=annakeren.ipa.persist.MongoPersistence
-6=src.annakeren.ipa.persist.MongoPersistence
+12=MongoPersistence
+8=annakeren.ipa.persist.MongoPersistence
+6=src.annakeren.ipa.engine.test.EngineTest
+7=src.annakeren.ipa.persist.MongoPersistence
 5=annakeren.ipa.engine.test.EngineTest
-12=Engine
+13=Engine
 -- END DICTIONARY
 -- START TREE 1
 5
 com|2|ComparisonPersistence!9@ComparisonPersistence!17@
-eng|3|Engine!25@Engine!33@EngineTest!41@
-mon|2|MongoPersistence!49@MongoPersistence!57@
+eng|4|Engine!25@Engine!33@EngineTest!41@EngineTest!49@
+mon|2|MongoPersistence!57@MongoPersistence!65@
 myc|0|
-tes|2|Test!65@Test!73@
+tes|2|Test!73@Test!81@
 -- END TREE
 -- START TREE 2
 10
 !<m|0|
 __i|0|
-com|2|compareAndPerist!10&10@compareAndPerist!10&18@
-con|4|connect!11&50@connect!11&58@connectToDB!10&10@connectToDB!10&18@
-fin|2|findMatch!12&26@findMatch!12&34@
-ins|2|insert!11&50@insert!11&58@
-per|2|percentage!12&34@percentage!12&26@
-set|2|setUp!13&74@setUp!13&66@
-tea|2|tearDown!13&66@tearDown!13&74@
-tes|15|testStarZvezda!14&42@testNasichKnyazi!14&42@testSilkSholkMeshiSi!14&42@testInsert!13&66@testShemeshSolnzeSun!14&42@testNaiceNaish!14&42@testConnectToMongo!13&74@testStandStamb!14&42@testConnectToMongo!13&66@testInsert!13&74@testWindVeter!14&42@testZaeSea!14&42@testComparePersistGoldZoloto!14&42@testComparePersistStandStand!14&42@testSnegSnowSheleg!14&42@
+com|2|compareAndPerist!11&10@compareAndPerist!11&18@
+con|4|connect!12&58@connect!12&66@connectToDB!11&10@connectToDB!11&18@
+fin|2|findMatch!13&26@findMatch!13&34@
+ins|2|insert!12&58@insert!12&66@
+per|2|percentage!13&34@percentage!13&26@
+set|2|setUp!14&82@setUp!14&74@
+tea|2|tearDown!14&74@tearDown!14&82@
+tes|28|testStarZvezda!15&42@testStandStamb!15&50@testComparePersistStandStand!15&50@testComparePersistSpongeSfog!15&42@testSilkSholkMeshiSi!15&50@testNasichKnyazi!15&42@testSilkSholkMeshiSi!15&42@testWindVeter!15&50@testInsert!14&74@testZaeSea!15&50@testShemeshSolnzeSun!15&42@testComparePersistGoldZoloto!15&50@testNaiceNaish!15&42@testConnectToMongo!14&82@testStarZvezda!15&50@testNasichKnyazi!15&50@testStandStamb!15&42@testConnectToMongo!14&74@testInsert!14&82@testShemeshSolnzeSun!15&50@testNaiceNaish!15&50@testWindVeter!15&42@testZaeSea!15&42@testComparePersistGoldZoloto!15&42@testSnegSnowSheleg!15&50@testComparePersistStandStand!15&42@testSnegSnowSheleg!15&42@testComparePersistSpongeSfog!15&50@
 -- END TREE

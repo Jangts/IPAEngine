@@ -5,55 +5,78 @@ from src.annakeren.ipa.engine.main import ComparisonPersistence
 
 class EngineTest(unittest.TestCase):    
     
-    def testComparePersistSpongeSfog(self):
-        print 'English and Hebrew'
-        sponge = unichr(0x73)+unichr(0x70)+unichr(0x6e)+unichr(0x02A4)
-        sfog = unichr(0x73)+unichr(0x66)+unichr(0x67)
-        print '(sponge)' + sponge + ' vs ' + sfog + '(sfog)'
-        
-        words  = [
-                  'sponge', 'English', 'sponge', sponge,
-                  'sfog', 'Hebrew', 'sfog', sfog
-                  ]
+    def setUp(self):
         connectionParams = ['localhost', 27017]
-        dbConnection = ComparisonPersistence.ComparisonPersistence.connectToDB(connectionParams)
-        dbConnection.posts.drop()
-        ComparisonPersistence.ComparisonPersistence.compareAndPerist(words, dbConnection)
-        print dbConnection.posts.find()
-    
-    def testComparePersistSugarSaharSukar(self):
+        self.dbConnection = ComparisonPersistence.ComparisonPersistence.connectToDB(connectionParams)
+        self.dbConnection.posts.drop()
+        
+
+    def testComparePersistCatKotHatul(self):
+        print 'English and Hebrew'
+        cat = unichr(0x6b)+unichr(0x74)
+        kot = unichr(0x6b)+unichr(0x74)
+        hatul = unichr(0x0127)+unichr(0x74)+unichr(0x6c)
+        print '(cat)' + cat + ' vs ' + hatul + '(hatul)'
+        
+        wordsCatHatul  = [
+                  'cat', 'English', 'cat', cat,
+                  'hatul', 'Hebrew', 'hatul', hatul
+                  ]
+        
+        ComparisonPersistence.ComparisonPersistence.compareAndPerist(wordsCatHatul, self.dbConnection)
+        
+        wordsCatKot = [
+                  'cat', 'English', 'cat', cat,
+                  'kot', 'Russian', 'kot', kot
+                  ]
         print 'English and Russian'
-        sugar = unichr(0x0283)+unichr(0x67)
-        sahar = unichr(0x73)+unichr(0x78)+unichr(0x72)
-        sukar = unichr(0x73)+unichr(0x6b)+unichr(0x281)
-        print '(sugar)' + sugar + ' vs ' + sahar + '(sahar)'
+        print '(cat)' + cat + ' vs ' + kot + '(kot)'
+        ComparisonPersistence.ComparisonPersistence.compareAndPerist(wordsCatKot, self.dbConnection)
         
-        wordsSugarSahar  = [
-                  'suggr', 'English', 'sugar', sugar,
-                  'sahar', 'Russian', 'sahar', sahar
-                  ]
-        connectionParams = ['localhost', 27017]
-        dbConnection = ComparisonPersistence.ComparisonPersistence.connectToDB(connectionParams)
-        dbConnection.posts.drop()
-        ComparisonPersistence.ComparisonPersistence.compareAndPerist(wordsSugarSahar, dbConnection)
-        
-        wordsSugarSukar = [
-                  'sugar', 'English', 'sugar', sugar,
-                  'sukar', 'Hebrew', 'sukar', sukar
-                  ]
-        print 'English and Hebrew'
-        print '(sugar)' + sugar + ' vs ' + sukar + '(sukar)'
-        ComparisonPersistence.ComparisonPersistence.compareAndPerist(wordsSugarSukar, dbConnection)
-        
-        wordsSaharSukar = [
-                  'sahar', 'Russian', 'sahar', sahar,
-                  'sukar', 'Hebrew', 'sukar', sukar
+        wordsKotHatul = [
+                  'kot', 'Russian', 'kot', kot,
+                  'hatul', 'Hebrew', 'hatul', hatul
                   ]
         print 'Russian and Hebrew'
-        print '(sahar)' + sahar + ' vs ' + sukar + '(sukar)'
-        ComparisonPersistence.ComparisonPersistence.compareAndPerist(wordsSaharSukar, dbConnection)
+        print '(kot)' + kot + ' vs ' + hatul + '(hatul)'
+        ComparisonPersistence.ComparisonPersistence.compareAndPerist(wordsKotHatul, self.dbConnection)
         
-        print dbConnection.posts.find()
+        print self.dbConnection.posts.find()
+        
+    
+#     def testComparePersistSugarSaharSukar(self):
+#         print 'English and Russian'
+#         sugar = unichr(0x0283)+unichr(0x67)
+#         sahar = unichr(0x73)+unichr(0x78)+unichr(0x72)
+#         sukar = unichr(0x73)+unichr(0x6b)+unichr(0x281)
+#         print '(sugar)' + sugar + ' vs ' + sahar + '(sahar)'
+#         
+#         wordsSugarSahar  = [
+#                   'suggr', 'English', 'sugar', sugar,
+#                   'sahar', 'Russian', 'sahar', sahar
+#                   ]
+#         connectionParams = ['localhost', 27017]
+#         dbConnection = ComparisonPersistence.ComparisonPersistence.connectToDB(connectionParams)
+# #         dbConnection.posts.drop()
+#         ComparisonPersistence.ComparisonPersistence.compareAndPerist(wordsSugarSahar, dbConnection)
+#         
+#         wordsSugarSukar = [
+#                   'sugar', 'English', 'sugar', sugar,
+#                   'sukar', 'Hebrew', 'sukar', sukar
+#                   ]
+#         print 'English and Hebrew'
+#         print '(sugar)' + sugar + ' vs ' + sukar + '(sukar)'
+#         ComparisonPersistence.ComparisonPersistence.compareAndPerist(wordsSugarSukar, dbConnection)
+#         
+#         wordsSaharSukar = [
+#                   'sahar', 'Russian', 'sahar', sahar,
+#                   'sukar', 'Hebrew', 'sukar', sukar
+#                   ]
+#         print 'Russian and Hebrew'
+#         print '(sahar)' + sahar + ' vs ' + sukar + '(sukar)'
+#         ComparisonPersistence.ComparisonPersistence.compareAndPerist(wordsSaharSukar, dbConnection)
+#         
+#         print dbConnection.posts.find()
         
 #     def testComparePersistGoldZoloto(self):
 #         print 'English and Russian'

@@ -178,7 +178,7 @@ class EngineTest(unittest.TestCase):
     def testWindVeter(self):  
         print 'English and Russian'
         wind = unichr(0x77) + unichr(0x6e) + unichr(0x64)
-        veter = unichr(0x76) + unichr(0x74) + unichr(0x72) + unichr(0x64)
+        veter = unichr(0x76) + unichr(0x74) + unichr(0x72)
         print '(wind)' + wind + ' vs ' + veter + '(veter)'
         actualWindVeter = Engine.Engine.findMatch(wind, veter)
         self.assertEqual(3, actualWindVeter, "actual counter")

@@ -1,18 +1,9 @@
 to do 
 
-Engine - V
-False positive
-Low probability - V
-False tests
-add more tests
-silk - mesi - sholk - V
-school - shkola
-wind - veter  - V
-shabat - subbota
-Input - both
-reading file
-cli
-Input form
-full transcript words -> eliminate vowels
-store every run result in DB like mongodb 
-document type in mongodb single document - V
+Feed type:
+  - accept an input of a stream of words
+Crawler of some source of IPA:
+  - source (Wiktionary or http://www.etymonline.com)
+  - check if it possible to use these sources
+  - create a crawler (or use the one in haskell https://github.com/annakeren/ExCrawler)
+

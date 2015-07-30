@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.sky.library.Book"/>
+<fullyQualifiedTypeName name="org.junit.Rule"/>
+<fullyQualifiedTypeName name="org.junit.rules.ExpectedException"/>
+<fullyQualifiedTypeName name="com.sky.library.BookService"/>
+<fullyQualifiedTypeName name="com.sky.library.BookRepository"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+</qualifiedTypeNameHistroy>

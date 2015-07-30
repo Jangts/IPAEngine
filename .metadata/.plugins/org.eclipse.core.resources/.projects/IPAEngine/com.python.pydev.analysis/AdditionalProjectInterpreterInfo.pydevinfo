@@ -14,48 +14,50 @@ annakeren.ipa.engine.test.PersistenceTest|1435903626000|/Users/annakeren/Documen
 src.annakeren.ipa.engine.main.ComparisonPersistence|1436010502000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/main/ComparisonPersistence.py
 annakeren.ipa.persist.MongoPersistence|1435726193000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/MongoPersistence.py
 src.annakeren.ipa.persist.MongoPersistence|1435726193000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/MongoPersistence.py
-src.annakeren.ipa.engine.test.EngineTest|1436629047000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/EngineTest.py
+src.annakeren.ipa.engine.test.EngineTest|1436784506000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/EngineTest.py
 __init__|1433103491000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/__init__.py
+annakeren.ipa.engine.test.EngineTest|1436784506000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/EngineTest.py
 annakeren.ipa.persist.__init__|1435474707000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/__init__.py
 -- END DISKCACHE
 -- START DICTIONARY
-15
+16
 2=annakeren.ipa.engine.main.ComparisonPersistence
-8=src.annakeren.ipa.engine.test.PersistenceTest
-4=annakeren.ipa.engine.main.Engine
-3=src.annakeren.ipa.engine.main.Engine
-10=ComparisonPersistence
-14=EngineTest
-12=EngineTest.setUp
+10=src.annakeren.ipa.engine.test.PersistenceTest
+5=annakeren.ipa.engine.main.Engine
+4=src.annakeren.ipa.engine.main.Engine
+11=ComparisonPersistence
+15=EngineTest
+13=EngineTest.setUp
 9=annakeren.ipa.engine.test.PersistenceTest
-15=Test
+16=Test
 1=src.annakeren.ipa.engine.main.ComparisonPersistence
-11=MongoPersistence
-7=annakeren.ipa.persist.MongoPersistence
-5=src.annakeren.ipa.engine.test.EngineTest
-6=src.annakeren.ipa.persist.MongoPersistence
-13=Engine
+12=MongoPersistence
+8=annakeren.ipa.persist.MongoPersistence
+3=src.annakeren.ipa.engine.test.EngineTest
+7=src.annakeren.ipa.persist.MongoPersistence
+6=annakeren.ipa.engine.test.EngineTest
+14=Engine
 -- END DICTIONARY
 -- START TREE 1
 5
 com|2|ComparisonPersistence!9@ComparisonPersistence!17@
-eng|3|Engine!25@Engine!33@EngineTest!41@
-mon|2|MongoPersistence!49@MongoPersistence!57@
+eng|4|EngineTest!25@Engine!33@Engine!41@EngineTest!49@
+mon|2|MongoPersistence!57@MongoPersistence!65@
 myc|0|
-tes|2|Test!65@Test!73@
+tes|2|Test!73@Test!81@
 -- END TREE
 -- START TREE 2
 12
 !<m|0|
 __i|0|
-com|2|compareAndPerist!10&10@compareAndPerist!10&18@
-con|4|connect!11&50@connect!11&58@connectToDB!10&10@connectToDB!10&18@
-dbc|1|dbConnection!12&43@
-fin|2|findMatch!13&26@findMatch!13&34@
-ins|2|insert!11&50@insert!11&58@
-per|2|percentage!13&34@percentage!13&26@
-set|3|setUp!14&42@setUp!15&74@setUp!15&66@
-tea|2|tearDown!15&66@tearDown!15&74@
-tes|7|testInsert!15&66@testComparePersistGoldZoloto!14&42@testConnectToMongo!15&74@testConnectToMongo!15&66@testInsert!15&74@testComparePersistCatKotHatul!14&42@testComparePersistSugarSaharSukar!14&42@
+com|2|compareAndPerist!11&10@compareAndPerist!11&18@
+con|4|connect!12&66@connect!12&58@connectToDB!11&10@connectToDB!11&18@
+dbc|2|dbConnection!13&27@dbConnection!13&51@
+fin|2|findMatch!14&42@findMatch!14&34@
+ins|2|insert!12&58@insert!12&66@
+per|2|percentage!14&42@percentage!14&34@
+set|4|setUp!15&26@setUp!16&74@setUp!15&50@setUp!16&82@
+tea|2|tearDown!16&82@tearDown!16&74@
+tes|30|testStarZvezda!15&50@testStandStamb!15&26@testComparePersistStandStand!15&26@testSilkSholkMeshiSi!15&26@testComparePersistCatKotHatul!15&50@testNasichKnyazi!15&50@testWindVeter!15&26@testSilkSholkMeshiSi!15&50@testInsert!16&82@testZaeSea!15&26@testComparePersistGoldZoloto!15&26@testShemeshSolnzeSun!15&50@testNaiceNaish!15&50@testConnectToMongo!16&74@testStarZvezda!15&26@testNasichKnyazi!15&26@testStandStamb!15&50@testConnectToMongo!16&82@testInsert!16&74@testShemeshSolnzeSun!15&26@testComparePersistCatKotHatul!15&26@testNaiceNaish!15&26@testWindVeter!15&50@testZaeSea!15&50@testComparePersistGoldZoloto!15&50@testSnegSnowSheleg!15&26@testComparePersistSugarSaharSukar!15&50@testComparePersistSugarSaharSukar!15&26@testComparePersistStandStand!15&50@testSnegSnowSheleg!15&50@
 wid|0|
 -- END TREE

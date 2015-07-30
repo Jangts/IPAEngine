@@ -10,8 +10,15 @@ annakeren.ipa.engine.test.PersistenceTest|/Users/annakeren/Documents/workspace/I
 annakeren.ipa.engine.test.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/__init__.py
 annakeren.ipa.persist.MongoPersistence|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/MongoPersistence.py
 annakeren.ipa.persist.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/__init__.py
+src.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/__init__.py
+src.annakeren.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/__init__.py
+src.annakeren.ipa.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/__init__.py
+src.annakeren.ipa.engine.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/__init__.py
 src.annakeren.ipa.engine.main.ComparisonPersistence|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/main/ComparisonPersistence.py
 src.annakeren.ipa.engine.main.Engine|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/main/Engine.py
+src.annakeren.ipa.engine.main.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/main/__init__.py
 src.annakeren.ipa.engine.test.EngineTest|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/EngineTest.py
 src.annakeren.ipa.engine.test.PersistenceTest|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/PersistenceTest.py
 src.annakeren.ipa.engine.test.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/__init__.py
+src.annakeren.ipa.persist.MongoPersistence|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/MongoPersistence.py
+src.annakeren.ipa.persist.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/__init__.py

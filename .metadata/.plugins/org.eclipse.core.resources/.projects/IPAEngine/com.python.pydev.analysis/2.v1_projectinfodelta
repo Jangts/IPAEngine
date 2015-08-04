@@ -1,1 +1,10 @@
-DELSTRwikiIPA.wikiIPA.spiders.wikiAPI_spider
+INSTUPannakeren.wikiIPA.wikiIPA.spiders.wikiAPI_spider
+/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/spiders/wikiAPI_spider.py
+INFOS:&&1|1|2|0&&3|3|2|1&&3|4|2|1&&3|5|2|1&&3|6|2|1&&2|7|2|1
+annakeren.wikiIPA.wikiIPA.spiders.wikiAPI_spider=2
+DmozSpider=1
+allowed_domains=4
+name=3
+rules=6
+parse=7
+start_urls=5

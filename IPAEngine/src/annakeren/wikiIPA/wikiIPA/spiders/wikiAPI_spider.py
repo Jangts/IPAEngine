@@ -15,9 +15,21 @@ class DmozSpider(scrapy.Spider):
     )
 	
 	def parse(self, response):
+		
 		englishLetters = response.xpath('//a[contains(@href, "/wiki/Index:English")]/@href').extract()
 		for englishLetter in englishLetters:
 			item = WikiipaItem()
-			print englishLetter
-			yield item
-			yield Request(englishLetter, self.parse)
+# 			item['main_url'] = response.url
+			
+# 			print "https://en.wiktionary.org/"+englishLetter
+			
+			request = scrapy.Request("https://en.wiktionary.org"+englishLetter,callback=self.parse_letters)
+# 			yield item
+# 			yield Request(englishLetter, self.parse)
+    		return request
+      	
+      	def parse_letters(self, response):
+      		englishLetter = response.xpath('//a[contains(@href, "/wiki/")]/@href').extract()
+      		print englishLetter
+      		print self
+#       		print response

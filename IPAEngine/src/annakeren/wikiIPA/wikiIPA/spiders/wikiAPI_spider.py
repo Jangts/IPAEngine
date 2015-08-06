@@ -33,6 +33,7 @@ class DmozSpider(scrapy.Spider):
 				"https://en.wiktionary.org/wiki/Index:English/x",
 				"https://en.wiktionary.org/wiki/Index:English/y",
 				"https://en.wiktionary.org/wiki/Index:English/z"]
+# 				"https://en.wiktionary.org/wiki/tinnie"
 	
 	rules = (
         Rule(LinkExtractor(allow=r'/wiki'), callback='parse', follow=True),

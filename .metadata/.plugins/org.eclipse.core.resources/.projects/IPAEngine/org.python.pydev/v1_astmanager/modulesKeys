@@ -22,6 +22,7 @@ src.annakeren.ipa.engine.test.PersistenceTest|/Users/annakeren/Documents/workspa
 src.annakeren.ipa.engine.test.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/__init__.py
 src.annakeren.ipa.persist.MongoPersistence|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/MongoPersistence.py
 src.annakeren.ipa.persist.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/__init__.py
+src.annakeren.wikiIPA.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/__init__.py
 src.annakeren.wikiIPA.wikiIPA.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/__init__.py
 src.annakeren.wikiIPA.wikiIPA.items|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/items.py
 src.annakeren.wikiIPA.wikiIPA.pipelines|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/pipelines.py

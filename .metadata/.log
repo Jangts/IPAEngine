@@ -1684,3 +1684,24 @@ org.eclipse.core.runtime.CoreException: Variable references non-existent resourc
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
 !SUBENTRY 1 org.eclipse.core.resources 4 368 2015-08-06 20:33:00.712
 !MESSAGE Variable references non-existent resource : ${workspace_loc:IPAEngine/wikiIPA/wikiIPA/spiders/wikiAPI_spider.py}
+
+!ENTRY org.eclipse.jface 2 0 2015-08-07 20:54:50.046
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-08-07 20:54:50.049
+!MESSAGE A conflict occurred for COMMAND+SHIFT+3:
+Binding(COMMAND+SHIFT+3,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.debug.ui.script.opensource,Open Source,
+		Shows the JavaScript source for the selected script element,
+		Category(org.eclipse.wst.jsdt.debug.ui.category,JavaScript Debug,Tooling for debugging JavaScript,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@372c0b7a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.debug.ui.debugging,,,system)
+Binding(COMMAND+SHIFT+3,
+	ParameterizedCommand(Command(org.python.pydev.editor.actions.uncomment,Python Uncomment,
+		Uncomments a python line (Removes # from the beggining of the line),
+		Category(org.python.pydev.ui.category.source,PyDev - Editor,PyDev editor category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@61902338,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.python.pydev.ui.editor.scope,,,system)

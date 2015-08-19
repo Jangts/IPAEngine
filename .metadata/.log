@@ -1731,3 +1731,430 @@ org.eclipse.core.internal.resources.ResourceException: Marker id 8912 not found.
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
 !SUBENTRY 1 org.eclipse.core.resources 4 376 2015-08-12 20:05:18.795
 !MESSAGE Marker id 8912 not found.
+
+!ENTRY org.eclipse.core.jobs 4 2 2015-08-17 05:52:03.242
+!MESSAGE An internal error occurred during: "LabelEventJob".
+!STACK 0
+org.eclipse.swt.SWTException: Device is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4441)
+	at org.eclipse.swt.SWT.error(SWT.java:4356)
+	at org.eclipse.swt.SWT.error(SWT.java:4327)
+	at org.eclipse.swt.widgets.Display.error(Display.java:1083)
+	at org.eclipse.swt.widgets.Display.asyncExec(Display.java:594)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.fireLabelEvent(GitLightweightDecorator.java:699)
+	at org.eclipse.egit.ui.internal.decorators.LabelEventJob.run(GitLightweightDecorator.java:768)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2015-08-17 06:11:16.462 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_20
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.php.product -keyring /Users/annakeren/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.php.product -keyring /Users/annakeren/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.equinox.http.jetty 4 0 2015-08-17 06:11:52.262
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.equinox.http.jetty [360]
+  Bundle was not resolved because of a uses contraint violation.
+  org.osgi.service.resolver.ResolutionException: Uses constraint violation. Unable to resolve resource org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"] because it is exposed to package 'javax.servlet.http' from resources javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"] and javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"] via two dependency chains.
+
+Chain 1:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(&(version>=2.5.0)(!(version>=2.6.0))))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"]
+
+Chain 2:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=org.mortbay.jetty.nio)(&(version>=6.1.0)(!(version>=7.0.0))))
+     |
+    export: osgi.wiring.package=org.mortbay.jetty.nio; uses:=javax.servlet.http
+  org.mortbay.jetty.server [osgi.identity; osgi.identity="org.mortbay.jetty.server"; type="osgi.bundle"; version:Version="6.1.23.v201012071420"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(version>=2.5.0))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"]
+	at org.eclipse.osgi.container.Module.start(Module.java:434)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1561)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.jst.ws.axis.consumption.ui 4 0 2015-08-17 06:11:52.372
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jst.ws.axis.consumption.ui [439]
+  Unresolved requirement: Require-Bundle: org.eclipse.jst.ws.ui; bundle-version="[1.0.100,1.1.0)"
+    -> Bundle-SymbolicName: org.eclipse.jst.ws.ui; bundle-version="1.0.403.v201004211805"; singleton:="true"
+       org.eclipse.jst.ws.ui [454]
+         Unresolved requirement: Require-Bundle: org.eclipse.wst.ws.explorer; bundle-version="[1.0.204,1.1.0)"
+           -> Bundle-SymbolicName: org.eclipse.wst.ws.explorer; bundle-version="1.0.607.v201103082002"; singleton:="true"
+              org.eclipse.wst.ws.explorer [516]
+                Unresolved requirement: Require-Bundle: org.eclipse.equinox.http.jetty; bundle-version="[1.0.0,3.0.0)"
+                  -> Bundle-SymbolicName: org.eclipse.equinox.http.jetty; bundle-version="2.0.100.v20110502"
+                     org.eclipse.equinox.http.jetty [360]
+                       No resolution report for the bundle.  Unresolved requirement: Require-Bundle: org.eclipse.jst.ws.consumption.ui; bundle-version="[1.1.0,1.2.0)"
+    -> Bundle-SymbolicName: org.eclipse.jst.ws.consumption.ui; bundle-version="1.1.402.v201201250306"; singleton:="true"
+       org.eclipse.jst.ws.consumption.ui [445]
+         Unresolved requirement: Require-Bundle: org.eclipse.wst.ws.explorer; bundle-version="[1.0.101,1.1.0)"
+           -> Bundle-SymbolicName: org.eclipse.wst.ws.explorer; bundle-version="1.0.607.v201103082002"; singleton:="true"
+         Unresolved requirement: Require-Bundle: org.eclipse.jst.ws.ui; bundle-version="[1.0.100,1.1.0)"
+           -> Bundle-SymbolicName: org.eclipse.jst.ws.ui; bundle-version="1.0.403.v201004211805"; singleton:="true"
+  Bundle was not resolved because of a uses contraint violation.
+  org.osgi.service.resolver.ResolutionException: Uses constraint violation. Unable to resolve resource org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"] because it is exposed to package 'javax.servlet.http' from resources javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"] and javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"] via two dependency chains.
+
+Chain 1:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(&(version>=2.5.0)(!(version>=2.6.0))))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"]
+
+Chain 2:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=org.mortbay.jetty.nio)(&(version>=6.1.0)(!(version>=7.0.0))))
+     |
+    export: osgi.wiring.package=org.mortbay.jetty.nio; uses:=javax.servlet.http
+  org.mortbay.jetty.server [osgi.identity; osgi.identity="org.mortbay.jetty.server"; type="osgi.bundle"; version:Version="6.1.23.v201012071420"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(version>=2.5.0))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"]
+	at org.eclipse.osgi.container.Module.start(Module.java:434)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1561)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.jst.ws.axis.creation.ui 4 0 2015-08-17 06:11:52.510
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jst.ws.axis.creation.ui [440]
+  Unresolved requirement: Require-Bundle: org.eclipse.jst.ws.axis.consumption.ui; bundle-version="[1.0.101,1.1.0)"
+    -> Bundle-SymbolicName: org.eclipse.jst.ws.axis.consumption.ui; bundle-version="1.0.505.v201004211805"; singleton:="true"
+       org.eclipse.jst.ws.axis.consumption.ui [439]
+         Unresolved requirement: Require-Bundle: org.eclipse.jst.ws.ui; bundle-version="[1.0.100,1.1.0)"
+           -> Bundle-SymbolicName: org.eclipse.jst.ws.ui; bundle-version="1.0.403.v201004211805"; singleton:="true"
+              org.eclipse.jst.ws.ui [454]
+                Unresolved requirement: Require-Bundle: org.eclipse.wst.ws.explorer; bundle-version="[1.0.204,1.1.0)"
+                  -> Bundle-SymbolicName: org.eclipse.wst.ws.explorer; bundle-version="1.0.607.v201103082002"; singleton:="true"
+                     org.eclipse.wst.ws.explorer [516]
+                       Unresolved requirement: Require-Bundle: org.eclipse.equinox.http.jetty; bundle-version="[1.0.0,3.0.0)"
+                         -> Bundle-SymbolicName: org.eclipse.equinox.http.jetty; bundle-version="2.0.100.v20110502"
+                            org.eclipse.equinox.http.jetty [360]
+                              No resolution report for the bundle.         Unresolved requirement: Require-Bundle: org.eclipse.jst.ws.consumption.ui; bundle-version="[1.1.0,1.2.0)"
+           -> Bundle-SymbolicName: org.eclipse.jst.ws.consumption.ui; bundle-version="1.1.402.v201201250306"; singleton:="true"
+              org.eclipse.jst.ws.consumption.ui [445]
+                Unresolved requirement: Require-Bundle: org.eclipse.wst.ws.explorer; bundle-version="[1.0.101,1.1.0)"
+                  -> Bundle-SymbolicName: org.eclipse.wst.ws.explorer; bundle-version="1.0.607.v201103082002"; singleton:="true"
+                Unresolved requirement: Require-Bundle: org.eclipse.jst.ws.ui; bundle-version="[1.0.100,1.1.0)"
+                  -> Bundle-SymbolicName: org.eclipse.jst.ws.ui; bundle-version="1.0.403.v201004211805"; singleton:="true"
+  Unresolved requirement: Require-Bundle: org.eclipse.jst.ws.consumption.ui; bundle-version="[1.1.300,1.2.0)"
+    -> Bundle-SymbolicName: org.eclipse.jst.ws.consumption.ui; bundle-version="1.1.402.v201201250306"; singleton:="true"
+  Unresolved requirement: Require-Bundle: org.eclipse.jst.ws.ui; bundle-version="[1.0.100,1.1.0)"
+    -> Bundle-SymbolicName: org.eclipse.jst.ws.ui; bundle-version="1.0.403.v201004211805"; singleton:="true"
+  Bundle was not resolved because of a uses contraint violation.
+  org.osgi.service.resolver.ResolutionException: Uses constraint violation. Unable to resolve resource org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"] because it is exposed to package 'javax.servlet.http' from resources javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"] and javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"] via two dependency chains.
+
+Chain 1:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(&(version>=2.5.0)(!(version>=2.6.0))))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"]
+
+Chain 2:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=org.mortbay.jetty.nio)(&(version>=6.1.0)(!(version>=7.0.0))))
+     |
+    export: osgi.wiring.package=org.mortbay.jetty.nio; uses:=javax.servlet.http
+  org.mortbay.jetty.server [osgi.identity; osgi.identity="org.mortbay.jetty.server"; type="osgi.bundle"; version:Version="6.1.23.v201012071420"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(version>=2.5.0))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"]
+	at org.eclipse.osgi.container.Module.start(Module.java:434)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1561)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.jst.ws.consumption.ui 4 0 2015-08-17 06:11:52.627
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jst.ws.consumption.ui [445]
+  Unresolved requirement: Require-Bundle: org.eclipse.wst.ws.explorer; bundle-version="[1.0.101,1.1.0)"
+    -> Bundle-SymbolicName: org.eclipse.wst.ws.explorer; bundle-version="1.0.607.v201103082002"; singleton:="true"
+       org.eclipse.wst.ws.explorer [516]
+         Unresolved requirement: Require-Bundle: org.eclipse.equinox.http.jetty; bundle-version="[1.0.0,3.0.0)"
+           -> Bundle-SymbolicName: org.eclipse.equinox.http.jetty; bundle-version="2.0.100.v20110502"
+              org.eclipse.equinox.http.jetty [360]
+                No resolution report for the bundle.  Unresolved requirement: Require-Bundle: org.eclipse.jst.ws.ui; bundle-version="[1.0.100,1.1.0)"
+    -> Bundle-SymbolicName: org.eclipse.jst.ws.ui; bundle-version="1.0.403.v201004211805"; singleton:="true"
+       org.eclipse.jst.ws.ui [454]
+         Unresolved requirement: Require-Bundle: org.eclipse.wst.ws.explorer; bundle-version="[1.0.204,1.1.0)"
+           -> Bundle-SymbolicName: org.eclipse.wst.ws.explorer; bundle-version="1.0.607.v201103082002"; singleton:="true"
+  Bundle was not resolved because of a uses contraint violation.
+  org.osgi.service.resolver.ResolutionException: Uses constraint violation. Unable to resolve resource org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"] because it is exposed to package 'javax.servlet.http' from resources javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"] and javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"] via two dependency chains.
+
+Chain 1:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(&(version>=2.5.0)(!(version>=2.6.0))))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"]
+
+Chain 2:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=org.mortbay.jetty.nio)(&(version>=6.1.0)(!(version>=7.0.0))))
+     |
+    export: osgi.wiring.package=org.mortbay.jetty.nio; uses:=javax.servlet.http
+  org.mortbay.jetty.server [osgi.identity; osgi.identity="org.mortbay.jetty.server"; type="osgi.bundle"; version:Version="6.1.23.v201012071420"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(version>=2.5.0))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"]
+	at org.eclipse.osgi.container.Module.start(Module.java:434)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1561)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.jst.ws.creation.ui 4 0 2015-08-17 06:11:52.734
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jst.ws.creation.ui [448]
+  Unresolved requirement: Require-Bundle: org.eclipse.jst.ws.consumption.ui; bundle-version="[1.1.0,1.2.0)"
+    -> Bundle-SymbolicName: org.eclipse.jst.ws.consumption.ui; bundle-version="1.1.402.v201201250306"; singleton:="true"
+       org.eclipse.jst.ws.consumption.ui [445]
+         Unresolved requirement: Require-Bundle: org.eclipse.wst.ws.explorer; bundle-version="[1.0.101,1.1.0)"
+           -> Bundle-SymbolicName: org.eclipse.wst.ws.explorer; bundle-version="1.0.607.v201103082002"; singleton:="true"
+              org.eclipse.wst.ws.explorer [516]
+                Unresolved requirement: Require-Bundle: org.eclipse.equinox.http.jetty; bundle-version="[1.0.0,3.0.0)"
+                  -> Bundle-SymbolicName: org.eclipse.equinox.http.jetty; bundle-version="2.0.100.v20110502"
+                     org.eclipse.equinox.http.jetty [360]
+                       No resolution report for the bundle.         Unresolved requirement: Require-Bundle: org.eclipse.jst.ws.ui; bundle-version="[1.0.100,1.1.0)"
+           -> Bundle-SymbolicName: org.eclipse.jst.ws.ui; bundle-version="1.0.403.v201004211805"; singleton:="true"
+              org.eclipse.jst.ws.ui [454]
+                Unresolved requirement: Require-Bundle: org.eclipse.wst.ws.explorer; bundle-version="[1.0.204,1.1.0)"
+                  -> Bundle-SymbolicName: org.eclipse.wst.ws.explorer; bundle-version="1.0.607.v201103082002"; singleton:="true"
+  Unresolved requirement: Require-Bundle: org.eclipse.jst.ws.ui; bundle-version="[1.0.100,1.1.0)"
+    -> Bundle-SymbolicName: org.eclipse.jst.ws.ui; bundle-version="1.0.403.v201004211805"; singleton:="true"
+  Unresolved requirement: Require-Bundle: org.eclipse.wst.ws.explorer; bundle-version="[1.0.101,1.1.0)"
+    -> Bundle-SymbolicName: org.eclipse.wst.ws.explorer; bundle-version="1.0.607.v201103082002"; singleton:="true"
+  Bundle was not resolved because of a uses contraint violation.
+  org.osgi.service.resolver.ResolutionException: Uses constraint violation. Unable to resolve resource org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"] because it is exposed to package 'javax.servlet.http' from resources javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"] and javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"] via two dependency chains.
+
+Chain 1:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(&(version>=2.5.0)(!(version>=2.6.0))))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"]
+
+Chain 2:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=org.mortbay.jetty.nio)(&(version>=6.1.0)(!(version>=7.0.0))))
+     |
+    export: osgi.wiring.package=org.mortbay.jetty.nio; uses:=javax.servlet.http
+  org.mortbay.jetty.server [osgi.identity; osgi.identity="org.mortbay.jetty.server"; type="osgi.bundle"; version:Version="6.1.23.v201012071420"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(version>=2.5.0))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"]
+	at org.eclipse.osgi.container.Module.start(Module.java:434)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1561)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.jst.ws.uddiregistry 4 0 2015-08-17 06:11:52.848
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jst.ws.uddiregistry [453]
+  Unresolved requirement: Require-Bundle: org.eclipse.jst.ws.ui; bundle-version="[1.0.100,1.1.0)"
+    -> Bundle-SymbolicName: org.eclipse.jst.ws.ui; bundle-version="1.0.403.v201004211805"; singleton:="true"
+       org.eclipse.jst.ws.ui [454]
+         Unresolved requirement: Require-Bundle: org.eclipse.wst.ws.explorer; bundle-version="[1.0.204,1.1.0)"
+           -> Bundle-SymbolicName: org.eclipse.wst.ws.explorer; bundle-version="1.0.607.v201103082002"; singleton:="true"
+              org.eclipse.wst.ws.explorer [516]
+                Unresolved requirement: Require-Bundle: org.eclipse.equinox.http.jetty; bundle-version="[1.0.0,3.0.0)"
+                  -> Bundle-SymbolicName: org.eclipse.equinox.http.jetty; bundle-version="2.0.100.v20110502"
+                     org.eclipse.equinox.http.jetty [360]
+                       No resolution report for the bundle.  Bundle was not resolved because of a uses contraint violation.
+  org.osgi.service.resolver.ResolutionException: Uses constraint violation. Unable to resolve resource org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"] because it is exposed to package 'javax.servlet.http' from resources javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"] and javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"] via two dependency chains.
+
+Chain 1:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(&(version>=2.5.0)(!(version>=2.6.0))))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"]
+
+Chain 2:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=org.mortbay.jetty.nio)(&(version>=6.1.0)(!(version>=7.0.0))))
+     |
+    export: osgi.wiring.package=org.mortbay.jetty.nio; uses:=javax.servlet.http
+  org.mortbay.jetty.server [osgi.identity; osgi.identity="org.mortbay.jetty.server"; type="osgi.bundle"; version:Version="6.1.23.v201012071420"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(version>=2.5.0))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"]
+	at org.eclipse.osgi.container.Module.start(Module.java:434)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1561)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.jst.ws.ui 4 0 2015-08-17 06:11:52.913
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jst.ws.ui [454]
+  Unresolved requirement: Require-Bundle: org.eclipse.wst.ws.explorer; bundle-version="[1.0.204,1.1.0)"
+    -> Bundle-SymbolicName: org.eclipse.wst.ws.explorer; bundle-version="1.0.607.v201103082002"; singleton:="true"
+       org.eclipse.wst.ws.explorer [516]
+         Unresolved requirement: Require-Bundle: org.eclipse.equinox.http.jetty; bundle-version="[1.0.0,3.0.0)"
+           -> Bundle-SymbolicName: org.eclipse.equinox.http.jetty; bundle-version="2.0.100.v20110502"
+              org.eclipse.equinox.http.jetty [360]
+                No resolution report for the bundle.  Bundle was not resolved because of a uses contraint violation.
+  org.osgi.service.resolver.ResolutionException: Uses constraint violation. Unable to resolve resource org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"] because it is exposed to package 'javax.servlet.http' from resources javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"] and javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"] via two dependency chains.
+
+Chain 1:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(&(version>=2.5.0)(!(version>=2.6.0))))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"]
+
+Chain 2:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=org.mortbay.jetty.nio)(&(version>=6.1.0)(!(version>=7.0.0))))
+     |
+    export: osgi.wiring.package=org.mortbay.jetty.nio; uses:=javax.servlet.http
+  org.mortbay.jetty.server [osgi.identity; osgi.identity="org.mortbay.jetty.server"; type="osgi.bundle"; version:Version="6.1.23.v201012071420"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(version>=2.5.0))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"]
+	at org.eclipse.osgi.container.Module.start(Module.java:434)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1561)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.wst.ws.explorer 4 0 2015-08-17 06:11:52.952
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.wst.ws.explorer [516]
+  Unresolved requirement: Require-Bundle: org.eclipse.equinox.http.jetty; bundle-version="[1.0.0,3.0.0)"
+    -> Bundle-SymbolicName: org.eclipse.equinox.http.jetty; bundle-version="2.0.100.v20110502"
+       org.eclipse.equinox.http.jetty [360]
+         No resolution report for the bundle.  Bundle was not resolved because of a uses contraint violation.
+  org.osgi.service.resolver.ResolutionException: Uses constraint violation. Unable to resolve resource org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"] because it is exposed to package 'javax.servlet.http' from resources javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"] and javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"] via two dependency chains.
+
+Chain 1:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(&(version>=2.5.0)(!(version>=2.6.0))))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="2.5.0.v201103041518"]
+
+Chain 2:
+  org.eclipse.equinox.http.jetty [osgi.identity; osgi.identity="org.eclipse.equinox.http.jetty"; type="osgi.bundle"; version:Version="2.0.100.v20110502"]
+    import: (&(osgi.wiring.package=org.mortbay.jetty.nio)(&(version>=6.1.0)(!(version>=7.0.0))))
+     |
+    export: osgi.wiring.package=org.mortbay.jetty.nio; uses:=javax.servlet.http
+  org.mortbay.jetty.server [osgi.identity; osgi.identity="org.mortbay.jetty.server"; type="osgi.bundle"; version:Version="6.1.23.v201012071420"]
+    import: (&(osgi.wiring.package=javax.servlet.http)(version>=2.5.0))
+     |
+    export: osgi.wiring.package: javax.servlet.http
+  javax.servlet [osgi.identity; osgi.identity="javax.servlet"; type="osgi.bundle"; version:Version="3.0.0.v201112011016"]
+	at org.eclipse.osgi.container.Module.start(Module.java:434)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1561)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-18 20:11:56.337
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2015-08-18 20:11:57.018
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-08-18 20:11:57.018
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.python.pydev.debug.setnext,Set Next Statement,
+		,
+		Category(org.python.pydev.ui.category.run,PyDev - Run,Python run category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6ab1f85b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@10e8c7a2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-08-18 20:11:57.018
+!MESSAGE A conflict occurred for ALT+COMMAND+Q P:
+Binding(ALT+COMMAND+Q P,
+	ParameterizedCommand(Command(org.eclipse.php.ui.explorer,PHP Script Explorer,
+		Shows the Script Explorer,
+		Category(org.eclipse.ui.category.views,Views,Commands for opening views,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5d8fd077,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+Binding(ALT+COMMAND+Q P,
+	ParameterizedCommand(Command(org.eclipse.ui.views.showView,Show View,
+		Shows a particular view,
+		Category(org.eclipse.ui.category.views,Views,Commands for opening views,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4544ab46,
+		[Lorg.eclipse.e4.ui.internal.workbench.Parameter;@2052f095,,true),[Lorg.eclipse.core.commands.Parameterization;@76d1f6ea),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.python.pydev.shared_core 4 4 2015-08-18 20:12:35.145
+!MESSAGE The encoding found: >>string-escape<< on /System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/test/bad_coding3.py is not a valid encoding.
+!STACK 0
+java.io.UnsupportedEncodingException: The encoding found: >>string-escape<< on /System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/test/bad_coding3.py is not a valid encoding.
+	at org.python.pydev.shared_core.io.FileUtils.getValidEncoding(FileUtils.java:723)
+	at org.python.pydev.shared_core.io.FileUtils.getPythonFileEncoding(FileUtils.java:684)
+	at org.python.pydev.shared_core.io.FileUtils.getPythonFileEncoding(FileUtils.java:754)
+	at org.python.pydev.core.FileUtilsFileBuffer.getCustomReturnFromFile(FileUtilsFileBuffer.java:161)
+	at com.python.pydev.analysis.additionalinfo.AbstractAdditionalTokensInfo.addAstInfo(AbstractAdditionalTokensInfo.java:282)
+	at com.python.pydev.analysis.additionalinfo.AbstractAdditionalDependencyInfo.updateKeysIfNeededAndSave(AbstractAdditionalDependencyInfo.java:225)
+	at com.python.pydev.analysis.system_info_builder.InterpreterInfoBuilder.synchInfoToPythonPath(InterpreterInfoBuilder.java:108)
+	at org.python.pydev.editor.codecompletion.revisited.SynchSystemModulesManager.synchronizeManagerToNameToInfoPythonpath(SynchSystemModulesManager.java:391)
+	at org.python.pydev.editor.codecompletion.revisited.SyncSystemModulesManagerScheduler$SynchJob.run(SyncSystemModulesManagerScheduler.java:260)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)

@@ -2,20 +2,20 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="Veter" key="selection"/>
+		<item value="Bet not accepted. bad format in input" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="Bet not accepted. bad format in input"/>
+			<item value="addPlayer"/>
+			<item value="BOOK_REFERENCE_PREFIX§"/>
+			<item value="BOOK_REFERENCE_PREFIX"/>
 			<item value="veter"/>
 			<item value="0x6c"/>
 			<item value="0x74"/>
 			<item value="127"/>
-			<item value="6B"/>
-			<item value="0x6b"/>
-			<item value="0x281"/>
-			<item value="0x72"/>
 		</list>
 		<list key="replacehistory">
 		</list>

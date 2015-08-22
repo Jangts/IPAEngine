@@ -2,12 +2,12 @@
 -- START DISKCACHE
 /Users/annakeren/Documents/workspace/IPAEngine/.metadata/.plugins/org.eclipse.core.resources/.projects/IPAEngine/com.python.pydev.analysis/v2_indexcache
 annakeren.ipa.__init__|1433103491000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/__init__.py
-src.annakeren.wikiIPA.wikiIPA.WiktionarySpider|1439926713000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/WiktionarySpider.py
+src.annakeren.wikiIPA.wikiIPA.WiktionarySpider|1440270679000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/WiktionarySpider.py
 annakeren.ipa.engine.main.ComparisonPersistence|1436010502000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/main/ComparisonPersistence.py
 src.annakeren.wikiIPA.wikiIPA.spiders.wikiAPI_spider|1438887488000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/spiders/wikiAPI_spider.py
 annakeren.ipa.engine.main.Engine|1436300583000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/main/Engine.py
 annakeren.wikiIPA.wikiIPA.spiders.__init__|1438112713000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/spiders/__init__.py
-src.annakeren.wikiIPA.test.WikitionaryTest|1440011366000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/test/WikitionaryTest.py
+src.annakeren.wikiIPA.test.WikitionaryTest|1440270468000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/test/WikitionaryTest.py
 annakeren.ipa.engine.main.__init__|1433103491000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/main/__init__.py
 src.annakeren.wikiIPA.wikiIPA.settings|1438112736000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/settings.py
 annakeren.ipa.persist.MongoPersistence|1435726193000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/MongoPersistence.py
@@ -25,10 +25,10 @@ annakeren.ipa.engine.__init__|1433103491000|/Users/annakeren/Documents/workspace
 annakeren.ipa.engine.test.__init__|1435172700000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/__init__.py
 annakeren.wikiIPA.wikiIPA.pipelines|1438112736000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/pipelines.py
 annakeren.wikiIPA.wikiIPA.spiders.wikiAPI_spider|1438887488000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/spiders/wikiAPI_spider.py
-annakeren.wikiIPA.wikiIPA.WiktionarySpider|1439926713000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/WiktionarySpider.py
+annakeren.wikiIPA.wikiIPA.WiktionarySpider|1440270679000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/WiktionarySpider.py
 annakeren.ipa.engine.test.PersistenceTest|1435903626000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/PersistenceTest.py
 src.annakeren.ipa.engine.main.ComparisonPersistence|1436010502000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/main/ComparisonPersistence.py
-annakeren.wikiIPA.test.WikitionaryTest|1440011366000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/test/WikitionaryTest.py
+annakeren.wikiIPA.test.WikitionaryTest|1440270468000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/test/WikitionaryTest.py
 src.annakeren.wikiIPA.wikiIPA.pipelines|1438112736000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/pipelines.py
 src.annakeren.ipa.engine.test.EngineTest|1436784506000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/EngineTest.py
 annakeren.ipa.engine.test.EngineTest|1436784506000|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/test/EngineTest.py
@@ -82,7 +82,7 @@ tes|3|Test!97@Test!105@Test!113@
 wik|6|WiktionarySpider!121@WiktionarySpider!129@WikiipaItem!137@WikiipaItem!145@WikiipaPipeline!153@WikiipaPipeline!161@
 -- END TREE
 -- START TREE 2
-21
+23
 !<m|0|
 __i|0|
 all|2|allowed_domains!21&51@allowed_domains!21&43@
@@ -91,10 +91,12 @@ con|3|connect!23&90@connectToDB!22&34@connectToDB!22&26@
 dbc|2|dbConnection!24&59@dbConnection!24&83@
 des|2|desc!25&147@desc!25&139@
 fin|2|findMatch!26&74@findMatch!26&66@
-get|2|getWords!27&130@getWords!27&122@
+get|4|getTranslation!27&122@getTranslation!27&130@getWords!27&130@getWords!27&122@
 ins|1|insert!23&90@
+lan|0|
 lin|2|link!25&147@link!25&139@
 nam|2|name!21&51@name!21&43@
+ori|0|
 par|3|parse!21&42@parse_letters!21&50@parse!21&50@
 per|2|percentage!26&74@percentage!26&66@
 pro|2|process_item!28&154@process_item!28&162@
@@ -102,6 +104,6 @@ rul|2|rules!21&51@rules!21&43@
 set|5|setUp!29&58@setUp!30&106@setUp!30&98@setUp!29&82@setUp!30&114@
 sta|2|start_urls!21&51@start_urls!21&43@
 tea|1|tearDown!30&98@
-tes|32|testStarZvezda!29&82@testStandStamb!29&58@testComparePersistStandStand!29&58@testSilkSholkMeshiSi!29&58@testComparePersistCatKotHatul!29&82@testTranslation!30&106@testNasichKnyazi!29&82@testName!30&106@testSilkSholkMeshiSi!29&82@testWindVeter!29&58@testTranslation!30&114@testZaeSea!29&58@testShemeshSolnzeSun!29&82@testComparePersistGoldZoloto!29&58@testNaiceNaish!29&82@testConnectToMongo!30&98@testStarZvezda!29&58@testNasichKnyazi!29&58@testStandStamb!29&82@testInsert!30&98@testShemeshSolnzeSun!29&58@testComparePersistCatKotHatul!29&58@testNaiceNaish!29&58@testWindVeter!29&82@testZaeSea!29&82@testName!30&114@testComparePersistGoldZoloto!29&82@testComparePersistSugarSaharSukar!29&82@testSnegSnowSheleg!29&58@testComparePersistSugarSaharSukar!29&58@testComparePersistStandStand!29&82@testSnegSnowSheleg!29&82@
+tes|30|testStarZvezda!29&82@testStandStamb!29&58@testComparePersistStandStand!29&58@testSilkSholkMeshiSi!29&58@testComparePersistCatKotHatul!29&82@testTranslation!30&106@testNasichKnyazi!29&82@testSilkSholkMeshiSi!29&82@testWindVeter!29&58@testTranslation!30&114@testZaeSea!29&58@testShemeshSolnzeSun!29&82@testComparePersistGoldZoloto!29&58@testNaiceNaish!29&82@testConnectToMongo!30&98@testStarZvezda!29&58@testNasichKnyazi!29&58@testStandStamb!29&82@testInsert!30&98@testShemeshSolnzeSun!29&58@testComparePersistCatKotHatul!29&58@testNaiceNaish!29&58@testWindVeter!29&82@testZaeSea!29&82@testComparePersistGoldZoloto!29&82@testComparePersistSugarSaharSukar!29&82@testSnegSnowSheleg!29&58@testComparePersistSugarSaharSukar!29&58@testComparePersistStandStand!29&82@testSnegSnowSheleg!29&82@
 tit|2|title!25&147@title!25&139@
 -- END TREE

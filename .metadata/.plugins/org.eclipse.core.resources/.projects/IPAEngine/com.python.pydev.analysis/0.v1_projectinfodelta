@@ -1,1 +1,7 @@
-DELSTRsrc.annakeren.wikiIPA.wikiIPA.WiktionarySpider
+INSTUPsrc.annakeren.wikiIPA.test.WikitionaryTest
+/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/test/WikitionaryTest.py
+INFOS:&&1|1|2|0&&2|3|2|1&&2|4|2|1
+src.annakeren.wikiIPA.test.WikitionaryTest=2
+Test=1
+testWriteToCsv=4
+setUp=3

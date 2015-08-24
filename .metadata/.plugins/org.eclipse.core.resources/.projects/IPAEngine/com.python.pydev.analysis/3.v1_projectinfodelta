@@ -1,7 +1,1 @@
-INSTUPsrc.annakeren.wikiIPA.wikiIPA.WiktionarySpider
-/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/WiktionarySpider.py
-INFOS:&&1|1|2|0&&2|3|2|1&&2|4|2|1
-src.annakeren.wikiIPA.wikiIPA.WiktionarySpider=2
-WiktionarySpider=1
-getTranslation=3
-getWords=4
+DELSTRsrc.annakeren.wikiIPA.test.WikitionaryTest

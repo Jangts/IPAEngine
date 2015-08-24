@@ -11,6 +11,7 @@ annakeren.ipa.engine.test.__init__|/Users/annakeren/Documents/workspace/IPAEngin
 annakeren.ipa.persist.MongoPersistence|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/MongoPersistence.py
 annakeren.ipa.persist.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/persist/__init__.py
 src.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/__init__.py
+src.annakeren.Main|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/Main.py
 src.annakeren.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/__init__.py
 src.annakeren.ipa.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/__init__.py
 src.annakeren.ipa.engine.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/ipa/engine/__init__.py
@@ -25,10 +26,9 @@ src.annakeren.ipa.persist.__init__|/Users/annakeren/Documents/workspace/IPAEngin
 src.annakeren.wikiIPA.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/__init__.py
 src.annakeren.wikiIPA.test.WikitionaryTest|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/test/WikitionaryTest.py
 src.annakeren.wikiIPA.test.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/test/__init__.py
+src.annakeren.wikiIPA.wikiIPA.Utils|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/Utils.py
 src.annakeren.wikiIPA.wikiIPA.WiktionarySpider|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/WiktionarySpider.py
 src.annakeren.wikiIPA.wikiIPA.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/__init__.py
 src.annakeren.wikiIPA.wikiIPA.items|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/items.py
 src.annakeren.wikiIPA.wikiIPA.pipelines|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/pipelines.py
 src.annakeren.wikiIPA.wikiIPA.settings|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/settings.py
-src.annakeren.wikiIPA.wikiIPA.spiders.__init__|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/spiders/__init__.py
-src.annakeren.wikiIPA.wikiIPA.spiders.wikiAPI_spider|/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/src/annakeren/wikiIPA/wikiIPA/spiders/wikiAPI_spider.py

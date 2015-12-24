@@ -5,8 +5,6 @@ Created on 6 Aug 2015
 '''
 import unittest
 from src.annakeren.wikiIPA.wikiIPA import Utils
-from src.annakeren.wikiIPA.wikiIPA import WiktionarySpider
-
 
 class Test(unittest.TestCase):
 

@@ -1,9 +1,12 @@
+# -*- coding: utf-8 -*-
 '''
 Created on 23 Aug 2015
 
 @author: annakeren
 '''
 import os
+import string
+import itertools
 
 class Utils(object):
     '''
@@ -47,4 +50,106 @@ class Utils(object):
                 f.write("\n")
         f.close()
             
+    @staticmethod
+    def readLinesToListFromFile(fname):
+        with open(fname) as f:
+            content = f.readlines()
+        f.close()
+        return content
+    
+    @staticmethod
+    def appendToSpecificLanguageList(languagesList, specificList, currentWord):
+        currentWordTrimmed = currentWord.translate(None, string.punctuation)
+        if not currentWordTrimmed in languagesList:
+            specificList.append(currentWordTrimmed)
+    
+    @staticmethod
+    def getPermutations(line):
+# line = "Mandarin:, ‎(jiāomá), ,,German: Abaka, Russian: абака́ , ‎/abaká/,abaca, /ˌæb.əˈkɑ/"
+        splitLine = line.split() 
+        splitLineLength = len(splitLine) 
+        mandarin = "Mandarin"
+        german = "German"
+        hebrew = "Hebrew"
+        persian = "Persian"
+        russian = "Russian"
+        languagesList = []
+        languagesList.append(mandarin)
+        languagesList.append(german)
+        languagesList.append(hebrew)
+        languagesList.append(persian)
+        languagesList.append(russian)
+        mandarinList = []
+        germanList = []
+        hebrewList = []
+        persianList = []
+        russianList = []
+        englishList = []
+        if(splitLineLength > 2):
+            englishList.append(splitLine[splitLineLength - 1])
+            englishList.append(splitLine[splitLineLength - 2])
+        index = 0
         
+        for splitWord in splitLine:
+            splitWord = splitWord.translate(None, string.punctuation)
+            if splitWord.startswith(mandarin):
+                currentWord = splitLine[index + 1]
+                Utils.appendToSpecificLanguageList(languagesList, mandarinList, currentWord)
+                currentWord = splitLine[index + 2]
+                Utils.appendToSpecificLanguageList(languagesList, mandarinList, currentWord)
+            if splitWord.startswith(german):
+                currentWord = splitLine[index + 1]
+                Utils.appendToSpecificLanguageList(languagesList, germanList, currentWord)
+                currentWord = splitLine[index + 2]
+                Utils.appendToSpecificLanguageList(languagesList, germanList, currentWord)
+            if splitWord.startswith(hebrew):
+                currentWord = splitLine[index + 1]
+                Utils.appendToSpecificLanguageList(languagesList, hebrewList, currentWord)
+                currentWord = splitLine[index + 2]
+                Utils.appendToSpecificLanguageList(languagesList, hebrewList, currentWord)
+            if splitWord.startswith(persian):
+                currentWord = splitLine[index + 1]
+                Utils.appendToSpecificLanguageList(languagesList, persianList, currentWord)
+                currentWord = splitLine[index + 2]
+                Utils.appendToSpecificLanguageList(languagesList, persianList, currentWord)
+            if splitWord.startswith(russian):
+                currentWord = splitLine[index + 1]
+                Utils.appendToSpecificLanguageList(languagesList, russianList, currentWord)
+                currentWord = splitLine[index + 2]
+                Utils.appendToSpecificLanguageList(languagesList, russianList, currentWord)
+            index = index + 1
+        
+        allList = []
+        if mandarinList:
+            allList.append(mandarinList)
+        if germanList:
+            allList.append(germanList)
+        if hebrewList:
+            allList.append(hebrewList)
+        if persianList:
+            allList.append(persianList)
+        if russianList:
+            allList.append(russianList)
+        if englishList:
+            allList.append(englishList)
+        
+        permutations = list(itertools.product(allList, repeat=2))
+        permutationsSet = Utils.getSetOfPermutations(permutations)
+        return permutationsSet
+     
+    @staticmethod
+    def getSetOfPermutations(permutations):
+        permutationsSet = []
+        for permutation in permutations:
+            first = permutation[0]
+            second = permutation[1]
+            if (first != second) & ((first, second) not in permutationsSet) & ((second, first) not in permutationsSet):
+                permutationsSet.append((first, second))
+        return permutationsSet
+
+    @staticmethod
+    def getAllPermutations(listToPermute):
+        permutations = list(itertools.product(listToPermute, repeat=2))
+        permutationsSet = Utils.getSetOfPermutations(permutations)
+        return permutationsSet
+#            

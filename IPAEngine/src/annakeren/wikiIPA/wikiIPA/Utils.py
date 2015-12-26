@@ -65,7 +65,7 @@ class Utils(object):
     
     @staticmethod
     def getPermutations(line):
-# line = "Mandarin:, ‎(jiāomá), ,,German: Abaka, Russian: абака́ , ‎/abaká/,abaca, /ˌæb.əˈkɑ/"
+# line = German:  abschwören,  Russian:,  отрека́ться,  ‎(otrekátʹsja),  abjure,  /æbˈdʒʊɹ/
         splitLine = line.split() 
         splitLineLength = len(splitLine) 
         mandarin = "Mandarin"
@@ -73,6 +73,7 @@ class Utils(object):
         hebrew = "Hebrew"
         persian = "Persian"
         russian = "Russian"
+        english = "English"
         languagesList = []
         languagesList.append(mandarin)
         languagesList.append(german)
@@ -121,19 +122,25 @@ class Utils(object):
         
         allList = []
         if mandarinList:
+            mandarinList.insert(0, mandarin)
             allList.append(mandarinList)
         if germanList:
+            germanList.insert(0, german)
             allList.append(germanList)
         if hebrewList:
+            hebrewList.insert(0, hebrew)
             allList.append(hebrewList)
         if persianList:
+            persianList.insert(0, persian)
             allList.append(persianList)
         if russianList:
+            russianList.insert(0, russian)
             allList.append(russianList)
         if englishList:
+            englishList.insert(0, english)
             allList.append(englishList)
         
-        permutations = list(itertools.product(allList, repeat=2))
+        permutations = list(itertools.product(allList, repeat=3))
         permutationsSet = Utils.getSetOfPermutations(permutations)
         return permutationsSet
      

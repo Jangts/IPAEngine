@@ -18,8 +18,22 @@ class Test(unittest.TestCase):
             pass
 
     def testThatCanProduceListOfPermutations(self):
-        line = 'Mandarin:, ‎(jiāomá), ,,German: Abaka, Russian: абака́ , ‎/abaká/, abaca, /ˌæb.əˈkɑ/'
-        permuations = Utils.Utils.getPermutations(line)
+        line1 = 'German:  abschwören,  Russian:,  отрека́ться,  ‎(otrekátʹsja),  abjure,  /æbˈdʒʊɹ/'
+        permuations = Utils.Utils.getPermutations(line1)
+        if len(permuations) <> 3:
+            self.fail("Failed to get permutations from a line")
+        else:
+            pass
+        
+        line2 = 'Mandarin: 腹部 ,  ‎(fùbù),  German:,  Bauch,  Persian:,  شکم,  ‎(šekam),  Russian:,  живо́т,  ‎(živót),  abdomen,  /ˈæb.də.mən/'
+        permuations = Utils.Utils.getPermutations(line2)
+        if len(permuations) <> 10:
+            self.fail("Failed to get permutations from a line")
+        else:
+            pass
+        
+        line3 ='Mandarin:,  ‎(jiāomá),  , , German: Abaka,  Russian: абака́ ,  ‎/abaká/,  abaca,  /ˌæb.əˈkɑ/'
+        permuations = Utils.Utils.getPermutations(line3)
         if len(permuations) <> 6:
             self.fail("Failed to get permutations from a line")
         else:
@@ -27,9 +41,9 @@ class Test(unittest.TestCase):
         
     def testThatCanPermutate(self):
         allList = []
-        allList.append(['Mandarin', 'm', 'm2'])
-        allList.append(['German', 'g', 'g2'])
-        allList.append(['Hebrew', 'h', 'h2'])
+        allList.append(['Mandarin', 'm2'])
+        allList.append(['German', 'g2'])
+        allList.append(['Russian', 'r', 'r2'])
         allList.append(['English', 'e', 'e2'])
         permutations = Utils.Utils.getAllPermutations(allList)
         if len(permutations) <> 6:

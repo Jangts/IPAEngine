@@ -6,7 +6,7 @@ Created on 28 Jun 2015
 '''
 import unittest
 import sqlite3
-# from src.annakeren.ipa.persist import MongoPersistence
+from src.annakeren.ipa.persist import SqlitePersistence
 
 class Test(unittest.TestCase):
 
@@ -18,24 +18,18 @@ class Test(unittest.TestCase):
     def tearDown(self):
         pass
 
-
     def connectToSqlite(self):
-        connection = sqlite3.connect("//Users//annakeren//Documents//workspace//IPAEngine//IPAEngine//ipa.sqlite")
+        connection = SqlitePersistence.SqlitePersistence.connect("//Users//annakeren//Documents//workspace//IPAEngine//IPAEngine//ipa.sqlite")
         return connection
 
     def testConnectToSqlite3(self):
         connection = self.connectToSqlite()
         connection.close()
-        print "Sqlite Database created and opened successfully"
 
     def testThatCanCreateDB(self):
         connection = self.connectToSqlite()
-        cursor = connection.cursor()
-        cursor.execute("drop table if exists words;")
-        cursor.execute("CREATE TABLE words (language1 text, original1 text, ipa1 text, language2 text, original2 text, ipa2 text, resemblance real);")
-        
-        self.commitAndClose(connection)
-    
+        SqlitePersistence.SqlitePersistence.createTableWords(connection)
+        self.commitAndClose(connection)    
 
     def commitAndClose(self, connection):
         connection.commit()

@@ -18,7 +18,7 @@ class Test(unittest.TestCase):
             pass
 
     def testThatCanProduceListOfPermutations(self):
-        line1 = 'German:  abschwören,  Russian:,  отрека́ться,  ‎(otrekátʹsja),  abjure,  /æbˈdʒʊɹ/'
+        line1 = 'Persian:,  کلم,  ‎(kalam),  Russian:,  капу́ста,  ‎(kapústa),  cabbage,  /ˈkabɪdʒ/'
         permuations = Utils.Utils.getPermutations(line1)
         if len(permuations) <> 3:
             self.fail("Failed to get permutations from a line")
@@ -49,6 +49,42 @@ class Test(unittest.TestCase):
         if len(permutations) <> 6:
             self.fail("msg")
 
+    def testThatGetConsonantsFromWord(self):
+        consonants = Utils.Utils.getWordWithoutVowels("guówài")
+        toAssert = ['g', 'w']
+        self.assert_(consonants == toAssert, "Failed to get consonants from word")
+        
+    def testThatConvertDiftongsToIpa(self):
+        unconvertedWord = 'shízhuāngdiàn'
+        convertedWordToAssert = 'sízuāngdiàn'
+        result = Utils.Utils.convertDiphtongsToIpa(unconvertedWord)
+        self.assertEquals(result, convertedWordToAssert, "Failed to convert some diphtongs")
+        
+        unconvertedWord = 'kěkě shù'
+        convertedWordToAssert = 'kěkě sù'
+        result = Utils.Utils.convertDiphtongsToIpa(unconvertedWord)
+        self.assertEquals(result, convertedWordToAssert, "Failed to convert some diphtongs")
+        
+        unconvertedWord = 'vozbuždjónnyj'
+        convertedWordToAssert = 'vozbužjónj'
+        result = Utils.Utils.convertDiphtongsToIpa(unconvertedWord)
+        self.assertEquals(result, convertedWordToAssert, "Failed to convert some diphtongs")
+        
+        unconvertedWord = 'yuánzhùmín'
+        convertedWordToAssert = 'juánzùmín'
+        result = Utils.Utils.convertDiphtongsToIpa(unconvertedWord)
+        self.assertEquals(result, convertedWordToAssert, "Failed to convert some diphtongs")
+        
+        unconvertedWord = 'me\'khadash'
+        convertedWordToAssert = 'me\'kadas'
+        result = Utils.Utils.convertDiphtongsToIpa(unconvertedWord)
+        self.assertEquals(result, convertedWordToAssert, "Failed to convert some diphtongs")
+        
+        unconvertedWord = 'Biwakmütze'
+        convertedWordToAssert = 'Biwakmüte'
+        result = Utils.Utils.convertDiphtongsToIpa(unconvertedWord)
+        self.assertEquals(result, convertedWordToAssert, "Failed to convert some diphtongs")
+#         
 if __name__ == "__main__":
     #import sys;sys.argv = ['', 'Test.testThatICanReturnLinesFromFile']
     unittest.main()

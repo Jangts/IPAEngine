@@ -70,4 +70,4 @@ class ComparisonPersistence(object):
                     ]
                 }
         
-        MongoPersistence.MongoPersistence.insert(dbConnection, post)
+#         MongoPersistence.MongoPersistence.insert(dbConnection, post)

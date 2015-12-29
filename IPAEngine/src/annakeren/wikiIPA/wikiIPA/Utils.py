@@ -7,6 +7,7 @@ Created on 23 Aug 2015
 import os
 import string
 import itertools
+from src.annakeren.ipa.engine.main.Engine import Engine
 
 class Utils(object):
     '''
@@ -159,4 +160,81 @@ class Utils(object):
         permutations = list(itertools.product(listToPermute, repeat=2))
         permutationsSet = Utils.getSetOfPermutations(permutations)
         return permutationsSet
-#            
+    @staticmethod
+    def convertDiphtongsToIpa(wordWithDiphtongs):
+        wordTemp = string.replace(wordWithDiphtongs, 'dj', 'j')
+        wordTemp = string.replace(wordTemp, 'ch', 'k')
+        wordTemp = string.replace(wordTemp, 'y', 'j')
+        wordTemp = string.replace(wordTemp, 'd͡ʒ', 'z')
+        wordTemp = string.replace(wordTemp, 'dʒ', 'z')
+        wordTemp = string.replace(wordTemp, 'sh', 's')
+        wordTemp = string.replace(wordTemp, 'zh', 'z')
+        wordTemp = string.replace(wordTemp, 'sh', 's')
+        wordTemp = string.replace(wordTemp, 'kh', 'k')
+        wordTemp = string.replace(wordTemp, 'tz', 't')
+        wordTemp = string.replace(wordTemp, 'nn', 'n')
+        wordTemp = string.replace(wordTemp, 'mm', 'm')
+        wordTemp = string.replace(wordTemp, 'pp', 'p')
+        wordTemp = string.replace(wordTemp, 'kk', 'k')
+        wordTemp = string.replace(wordTemp, 'zz', 'z')
+        wordTemp = string.replace(wordTemp, 'ss', 's')
+        wordTemp = string.replace(wordTemp, 'tt', 't')
+        wordTemp = string.replace(wordTemp, 'jj', 'j')
+        return wordTemp
+        
+    @staticmethod
+    def getWordWithoutVowels(wordWithConsonants):
+        wordWithoutVowels = []
+        for character in wordWithConsonants:
+            hexCharacter = hex(ord(character))
+            if hexCharacter in Engine.b:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.c:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.d:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.f:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.h:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.g:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.j:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.k:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.l:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.m:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.n:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.r:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.p:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.s:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.t:
+                print character
+                wordWithoutVowels.append(character)
+            if hexCharacter in Engine.v:
+                print character
+                wordWithoutVowels.append(character)
+        
+        return wordWithoutVowels
+#             

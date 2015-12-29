@@ -6,9 +6,10 @@ from src.annakeren.ipa.engine.main import ComparisonPersistence
 class EngineTest(unittest.TestCase):    
     
     def setUp(self):
-        connectionParams = ['localhost', 27017]
-        self.dbConnection = ComparisonPersistence.ComparisonPersistence.connectToDB(connectionParams)
-        self.dbConnection.posts.drop()
+        self.dbConnection = []
+#         connectionParams = ['localhost', 27017]
+#         self.dbConnection = ComparisonPersistence.ComparisonPersistence.connectToDB(connectionParams)
+#         self.dbConnection.posts.drop()
         
 
     def testComparePersistCatKotHatul(self):
@@ -41,7 +42,7 @@ class EngineTest(unittest.TestCase):
         print '(kot)' + kot + ' vs ' + hatul + '(hatul)'
         ComparisonPersistence.ComparisonPersistence.compareAndPerist(wordsKotHatul, self.dbConnection)
         
-        print self.dbConnection.posts.find()
+#         print self.dbConnection.posts.find()
         
     
     def testComparePersistSugarSaharSukar(self):
@@ -74,7 +75,7 @@ class EngineTest(unittest.TestCase):
         print '(sahar)' + sahar + ' vs ' + sukar + '(sukar)'
         ComparisonPersistence.ComparisonPersistence.compareAndPerist(wordsSaharSukar, self.dbConnection)
           
-        print self.dbConnection.posts.find()
+#         print self.dbConnection.posts.find()
          
     def testComparePersistGoldZoloto(self):
         print 'English and Russian'
@@ -87,7 +88,7 @@ class EngineTest(unittest.TestCase):
                   'stand', 'Russian', 'zoloto', zoloto
                   ]
         ComparisonPersistence.ComparisonPersistence.compareAndPerist(words, self.dbConnection)
-        print self.dbConnection.posts.find()
+#         print self.dbConnection.posts.find()
       
     def testComparePersistStandStand(self):
         print 'English consonant shift in connected speech:'
@@ -101,7 +102,7 @@ class EngineTest(unittest.TestCase):
                   ]
          
         ComparisonPersistence.ComparisonPersistence.compareAndPerist(words, self.dbConnection)
-        print self.dbConnection.posts.find()
+#         print self.dbConnection.posts.find()
      
     def testStandStamb(self):
         print 'English consonant shift in connected speech:'

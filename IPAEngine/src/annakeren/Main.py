@@ -7,7 +7,6 @@ Created on 24 Aug 2015
 '''
 
 import time, re, urllib
-from bs4 import BeautifulSoup
 
 from src.annakeren.wikiIPA.wikiIPA.WiktionarySpider import WiktionarySpider
 from src.annakeren.wikiIPA.wikiIPA import Utils

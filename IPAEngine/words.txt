@@ -11,7 +11,7 @@ Mandarin: 腹部 ,  ‎(fùbù),  German:,  Bauch,  Persian:,  شکم,  ‎(še
 German:,  abdominal,  Unterleib,  Russian:,  брюшно́й,  абдомина́льный,  abdominal,  /æbˈdɒm.ə.nl̩/
 German: entführen,  Mandarin:,  诱拐,  ‎(yòuguǎi),  Russian: похища́ть /poxiščátʹ/,  abduct,  /æbˈdʌkt/
 German: Anstifter ,  Mandarin:,  bāngxiōng),  Russian:,  посо́бник,  ‎(posóbnik),  abettor,  /əˈbɛt.ɚ/
-German:,  Schwebezustand,  f,  Russian: состоя́ние неопределённости ‎(sostojánije neopredeljónnosti),  abeyance,  /əˈbeɪ.ənts/
+German:,  Schwebezustand,   Russian: состоя́ние неопределённости ‎(sostojánije neopredeljónnosti),  abeyance,  /əˈbeɪ.ənts/
 German:,  Abscheu,  Russian,  отвраще́ние,  ‎/otvraščénije/,  abhorrence,  /əbˈhɔɹ.n̩s/
 German: weilen,  Russian: жить ,  /žitʹ/, abide,  /əˈbaɪd/
 German:,  elend,  , ,  Russian: жа́лкий ,  ‎(žálkij),  abject,  /ˈæb.d͡ʒɛkt/
@@ -26,12 +26,12 @@ Mandarin:,  ‎(qǔxiāo),  废除,  废除 ,  ‎(fèichú),  German: abschaff
 German:,  verabscheuungswürdig,  , ,  Russian:,  отврати́тельный,  омерзи́тельный,  abominable,  /əˈbɑm.ə.nə.bl̩/
 Mandarin:,  讨厌 ,  ‎(tǎoyàn),  German: verabscheuen , ,  Russian: пита́ть отвраще́ние ‎(pitátʹ otvraščénije),  ненави́деть ,  ‎(nenavídetʹ),  не выноси́ть ,  ‎(ne vynosítʹ),  abominate,  /əˈbɒm.əˌnəɪt/
 Mandarin:,  原住民 ,  ‎(yuánzhùmín),  土著 ,  ‎(tǔzhù),  German:,  Aborigine,  Urbewohner,  Russian:,  абориге́н,  ‎(aborigén),  aborigine,  /ˌæb.əˈɹɪdʒ.ə.ni/
-Mandarin:,   流产 ,  ‎(líuchǎn),   German: Fehlgeburt , ,  Hebrew: הפלה, ‎(hapalá),  Russian: вы́кидыш , , ‎(výkidyš),  або́рт , , ‎(abórt),  Persian: سقط ,  ‎ افگانه ,  ‎(afgâne),  abortion,  /əˈbɔɹ.ʃn̩/
+Mandarin:,   流产 ,  ‎(líuchǎn),   German: Fehlgeburt , ,  Hebrew: הפלה, ‎(hapalá),  Russian: вы́кидыш , , ‎(výkidyš),  або́рт , , ‎(abórt),  Persian: سقط ,  ‎ افگانه ,  ‎(afgâne),  abortion,/əbɔɹ.ʃn̩/
 Mandarin:  约 ,  ‎(yuē), German:  (herum),   Russian: круго́м ,  ‎(krugóm),  во́круг ,  ‎(vókrug)
 ,  /əˈbaʊt/
 German: Abrakadabra , ,  Russian:,  абракада́бра,  ‎(abrakadábra),  abracadabra,  /ˌabɹakəˈdabrə/
 German:,  verkürzen,  , ,  Russian:,  сокраща́ть,  укора́чивать,  abridge,  /əˈbrɪd͡ʒ/
-Mandarin:  国外 ,  ‎(guówài),  海外 ,  ‎(hǎiwài) ,  German: im Ausland , ,  Russian:,  широко́,  повсю́ду,  abroad,  /əˈbɹɔd/
+Mandarin:  国外 ,  ‎(guówài),  海外 ,  ‎(hǎiwài) ,  German: i Ausland , ,  Russian:,  широко́,  повсю́ду,  abroad,  /əˈbɹɔd/
 German:,  abrupt,  , , Hebrew: תלול, ‎(talul),  Russian: круто́й ,  ‎(krutój),  обры́вистый ,  ‎(obrývistyj),  abrupt,  /əˈbɹʌpt/
 German: abrupt , ,  , ötzlich , ,  unerwartet , , Russian: внеза́пно ,  ‎(vnezápno),  неожи́данно ,  ‎(neožídanno),  ре́зко ,  ‎(rézko),  бесцеремо́нно ,  ‎(besceremónno),  abruptly,  /əˈbɹʌp.li/
 Mandarin: 缺席 ,  ‎(quēxí),  不在 ,  ‎(bùzài),  German:,  Abwesenheit,  Absenz,  Russian: отсу́тствие , , ‎(otsútstvije),  отлу́чка , , ‎(otlúčka),  absence,  /ˈæb.sn̩s/
@@ -39,7 +39,7 @@ Mandarin:,  绝对,  ‎(juéduì),  German: absolut , ,  Russian: абсолю
 Mandarin: 絕對地 , ,  ‎(juéduì de),  German:,  absolut,  , ,  Russian: соверше́нно ,  ‎(soveršénno),  абсолю́тно ,  ‎(absoljútno),  absolutely,  /æb.səˈluːt.li/
 Mandarin:,  使免除 ,  ‎(shǐ miǎnchú), German: entbinden,  Russian: освобожда́ть от ‎(osvoboždátʹ ot),  absolve,  /əbˈzɒlv/
 Mandarin:,  专心,  ‎(zhuānxīn),  German: vertieft,  Russian: поглощённый ,  ‎(pogloščónnyj),  увлечённый ,  ‎(uvlečónnyj),  absorbed,  /æbˈsɔɹbd/
-German:,  Absorber,  m,  Russian:,  абсо́рбер,  ‎(absórber),  absorber,  /əbˈsɔɹ.bɚ/
+German:,  Absorber,    Russian:,  абсо́рбер,  ‎(absórber),  absorber,  /əbˈsɔɹ.bɚ/
 Russian:,  увлека́тельный,  ‎(uvlekátelʹnyj),  absorbing,  /əbˈzɔː.bɪŋ/
 German:,  fliehen,  davonmachen,  absquatulate,  /æb.ˈskwɑtʃ.ʊ.leɪt/
 Mandarin: 弃权 ,  ‎(qìquán),  German: Enthaltung,  Hebrew: הימנעו ‎(himan'ut), Russian: воздержа́ние , , ‎(vozderžánije),  abstention,  /əbˈstɛn.ʃn̩/
@@ -128,7 +128,7 @@ Mandarin:捆包 ,  ‎(kǔnbāo), German: Ballen , , Persian: بغچه ,  ‎
 Mandarin:民谣 ,  ‎(mínyáo), German: Ballade , , Hebrew: בָּלָדָה, ‎(balada), Persian: چکامه ,  ‎(čakâme), Russian: балла́да , , ‎(balláda),  ballad,  /ˈbæləd/
 Mandarin:芭蕾舞 ,  ‎(bālěiwǔ), German: Ballett , , Hebrew: בלט , , Persian: باله ,  ‎(bâle),  Russian: бале́т , , ‎(balét),  ballet,  /ˈbæl.eɪ/
 Mandarin:,  气球,  ‎(qìqiú),  German: Ballon , , Persian: بالون ,  ‎(bâlon), Russian: возду́шный шар , , ‎(vozdúšnyj šar), balloon,  /bəˈluːn/
-German:,  Eier,  Hebrew: ביצים (betzim),  Klöten,  Persian: خايه ,  ‎(xâye),  Russian: я́йца ,  n ,  ‎(jájca),  balls,  /bɔːlz/
+German:,  Eier,  Hebrew: ביצים (betzim),  Klöten,  Persian: خايه ,  ‎(xâye),  Russian: я́йца ,  ‎(jájca),  balls,  /bɔːlz/
 Russian:,  шуми́ха,  ‎(šumíxa),  ballyhoo,  /bæliˈhuː/
 Mandarin: 香脂 ,  ‎(xiāngzhī),  German: Balsam , ,  balsam,  Russian: бальза́м , , ‎(balʹzám),  /ˈbɔːlsəm/
 Russian:,  баля́сина,  ‎(baljásina),  baluster,  /ˈbæl.ʌ.str/
@@ -154,7 +154,8 @@ German: Barbiturat ,  Russian:,  барбитура́т,  ‎(barbiturát),  ba
 Mandarin:,  诗人,  ‎(shīrén),  German: Barde , ,  Persian: سراینده ,  ‎(sorâyande),  Russian: бард , ‎(bard),  bard,  /bɑː(ɹ)d/
 German: bar , ,  Persian: برهنه ,  ‎(berahne),  Russian:,  едва́,  dostátočnyj),  bare,  /bɛə(ɹ)/
 Mandarin:,  契约,  ‎(qìyuē),  Russian:,  сде́лка,  ‎(sdélka),  bargain,  /ˈbɑː(ɹ)ɡən/
-Mandarin: 汪汪叫 ‎(wāngwāng jiào),  吠 ,  ‎(fèi),  German: bellen ,  Hebrew: נבח ‎(navákh), Persian: لاییدن ,  ‎(lâyidan), Russian: ла́ять ,  ‎(lájatʹ),  bark,  /bɑː(ɹ)k/Mandarin:大麦 ,  ‎(dàmài),  German: Gerste , ,  Hebrew: שעורה , , ‎(s‘ora),  Persian: جو ,  ‎(jow),  Russian: ячме́нь , , ‎(jačménʹ),  barley,  /ˈbɑɹli/
+Mandarin: 汪汪叫 ‎(wāngwāng jiào),  吠 ,  ‎(fèi),  German: bellen ,  Hebrew: נבח ‎(navákh), Persian: لاییدن ,  ‎(lâyidan), Russian: ла́ять ,  ‎(lájatʹ),  bark,  /bɑː(ɹ)k/
+Mandarin:大麦 ,  ‎(dàmài),  German: Gerste , ,  Hebrew: שעורה , , ‎(s‘ora),  Persian: جو ,  ‎(jow),  Russian: ячме́нь , , ‎(jačménʹ),  barley,  /ˈbɑɹli/
 Mandarin:谷仓 ,  ‎(gǔcāng),  German: Scheune,  Stall,  Persian: گمرا ‎(gamrá),  Russian: ови́н , , ‎(ovín),  амба́р , , ‎(ambár),  сара́й , , ‎(saráj),  barn,  /bɑrn/
 Mandarin:气压表 ,  ‎(qìyābiǎo),  German: Barometer , ,  Persian: فشارسنج ,  ‎(fešâr-sanj),  Russian: баро́метр , , ‎(barómetr),  barometer,  /bəɹˈɒmətə(ɹ)/
 Russian: барк,  ‎(bark),  barque,  /bɑː(r)k/
@@ -205,7 +206,7 @@ Mandarin: 啤酒 ,  ‎(píjiǔ),  German:,  Bier,  Hebrew:,  בִּירָה,  
 German:,  Bete,  , ,  Hebrew:,  סלק,  ‎(selek),  Persian:,  چغندر,  ‎(čoğondar),  Russian:,  свёкла,  ‎(svjókla),  beet,  /biːt/
 Mandarin:‎(yǐqián),  , ,  German:,  bevor,  , ,  Hebrew: לִפְנֵי ,  ‎(lif'nei),  Russian: до ,  ‎(do),  пре́жде ,  ‎(préžde),  before,  /bɪˈfɔː/
 Mandarin:央求 ,  ‎(yāngqiú),  German: betteln , ,  Hebrew: לבקש ‎(levakéš),  Russian: проси́ть ,  ‎(prosítʹ),  beg,  /bɛɡ/
-Mandarin: 乞丐 ,  ‎(qǐgài),  Hebrew: קַבּצָן, ‎(kabtzan),  German:,  Bettler,  Bettlerin,  Russian: попроша́йка , ,  f ‎(poprošájka),  beggar,  /ˈbɛɡɚ/
+Mandarin: 乞丐 ,  ‎(qǐgài),  Hebrew: קַבּצָן, ‎(kabtzan),  German:,  Bettler,  Bettlerin,  Russian: попроша́йка , ,  ‎(poprošájka),  beggar,  /ˈbɛɡɚ/
 Mandarin:,  开始,  ‎(kāishǐ),  German:,  anfangen,  , ,  Hebrew: התחיל ‎(hitkhíl),  Persian: اغاز کردن ‎(ağâz kardan),  Russian: начина́ть ,  ‎(načinátʹ), ,  begin,  /bɪˈɡɪn/
 Mandarin:,  开始,  ‎(kāishǐ),  German:,  Anfang,  Beginn,  Russian:,  нача́ло,  ‎(načálo),  beginning,  /bɪˈɡɪn.ɪŋ/
 German:,  sich benehmen , ,  Hebrew: התנהג ‎(hitnahég),  Russian: вести́ себя́ ,  ‎(vestí sebjá),  behave,  /bɪˈheɪv/
@@ -263,7 +264,7 @@ Mandarin:,  船工,  ‎(chuángōng),  German: Bootsfahrer ,  Russian: кан�
 German:,  verheißen,  Russian:,  предвеща́ть,  ‎(predveščátʹ),  bode,  bəʊd
 Mandarin:菩萨 ,  ‎(púsà),  Russian: бодхиса́ттва, ‎(bodxisáttva),  bodhisattva,  /boʊ̯diːˈsɑtvə/
 Mandarin: 身体 ,  ‎(shēntǐ),  German: Körper , ,  Persian: بدن ,  ‎(badan), Hebrew: גוּף , , ‎(gúf), Russian: те́ло , , ‎(télo) ,  body,  /ˈbɒdi/
-Mandarin:健美运动人员 ‎(jiànměi yùndòng rényuán),  German:,  Bodybuilder,  f,  Russian:,  культури́ст,  ‎(kulʹturíst),  bodybuilder,  /ˈbɒ.diˌbɪl.də/
+Mandarin:健美运动人员 ‎(jiànměi yùndòng rényuán),  German:,  Bodybuilder,   Russian:,  культури́ст,  ‎(kulʹturíst),  bodybuilder,  /ˈbɒ.diˌbɪl.də/
 Mandarin:健美运动 ‎(jiànměi yùndòng),  German: Bodybuilding , ,  Russian: культури́зм , , ‎(kulʹturízm),  бо́дибилдинг , , ‎(bódibilding),  ,  bodybuilding,  /ˈbɒdiˌbɪldɪŋ/
 Mandarin:假 ,  ‎(jiǎ),  German: falsch , ,  Russian: подде́льный ,  ‎(poddélʹnyj),  фикти́вный ,  ‎(fiktívnyj),  bogus,  /ˈbəʊ.ɡəs/
 Russian:,  кипе́ние,  ‎(kipénije),  boiling,  /bɔɪlɪŋ/
@@ -296,7 +297,7 @@ Mandarin:时装店 ‎(shízhuāngdiàn),  Persian: بوتیک ,  ‎(butik),  
 Russian:коро́вий ,  ‎(koróvij),  бы́чий ,  ‎(býčij),  bovine,  /ˈbəʊ.vaɪn/
 Mandarin:蝶形领结 ‎(diéxíng lǐngjié),  German: Fliege , , Hebrew: עניבת פרפר ,  ‎(anivat parpar),  Persian: پاپیون ,  ‎(pâpiyon),  Russian: (bábočka), ба́бочка ,  ,  bowtie,  /boʊˈtaɪ/
 Mandarin:装箱 ,  ‎(zhuāng xiāng) ,  German:verpacken , ,  Hebrew:,  קופסה,  ‎(kufsá),  Persian:,  جعبه,  ‎(ja'be),  Russian:,  коро́бка,  ‎(koróbka),  box,  /bɒks/
-German:,  Führerhaus,  n,  Russian:,  каби́на,  ‎(kabína),  cab,  /kæb/
+German:,  Führerhaus,   Russian:,  каби́на,  ‎(kabína),  cab,  /kæb/
 Mandarin:  卷心菜 ,  ‎(juǎnxīncài),  German:,  Kappes,  Hebrew:,  כְּרוּב,  ‎(kruv),  Persian:,  کلم,  ‎(kalam),  Russian:,  капу́ста,  ‎(kapústa),  cabbage,  /ˈkabɪdʒ/
 Mandarin:  舱房 ,  ‎(cāngfáng),  German: Kabine , ,  Russian:,  хи́жина,  ‎(xížina),  cabin,  /ˈkæbɪn/
 Mandarin:  电缆 ,  ‎(diànlǎn,  German:,  Seil,  , ,  Russian:,  трос,  ‎(tros), ка́бель , , ‎(kábelʹ),  cable,  /keɪbl/
@@ -333,7 +334,7 @@ Mandarin: 癌症 ,  ‎(áizhèng), German: Krebs ,  ,  Hebrew: סרטן ,  
 Hebrew:,  אוביקטיבי,  ‎(obyektivi),  Persian:,  منصفانه,  ‎(monsefaneh),  Russian:,  беспристрастный,  (bespristrastnyj),  candid,  /ˈkæn.dɪd/
 Mandarin:候选人, ,  ‎(hòuxuǎnrén),  German:,  Kandidat,  Kandidatin,  Hebrew:,  (mo'amad),  מועמדת,  Persian:,  کاندیدا,  ‎(kândidâ),  Russian:,  кандида́т,  ‎(kandidát),  candidate,  /ˈkæn.dɪdət/
 Mandarin:,  蜡烛,  ‎(làzhú),  German: Kerze , ,  Hebrew: נר ,  ‎(ner),  Persian: شمع ,  ‎(šam’),  Russian: свеча́ , , ‎(svečá),  candle,  /ˈkændəl/
-Mandarin: 糖果 ,  ‎(tángguǒ),  German:,  Bonbon,  n,  Hebrew:,  סוכריה,  ‎(sukari'a),  Persian:,  آبنبات,  ‎(âbnabât),  Russian:,  конфе́та,  ‎(konféta),  candy,  /ˈkændi/
+Mandarin: 糖果 ,  ‎(tángguǒ),  German:,  Bonbon,   Hebrew:,  סוכריה,  ‎(sukari'a),  Persian:,  آبنبات,  ‎(âbnabât),  Russian:,  конфе́та,  ‎(konféta),  candy,  /ˈkændi/
 Mandarin:,  茎,  ‎(jīng),  German: Rohr , ,  Hebrew: קנה , , ‎(qané),  Russian: трость , , ‎(trostʹ),  cane,  /kʰeɪn/
 Mandarin:炮 ,  ‎(pào), German: Kanone ,  ,  Persian: توپ ,  ‎(tup),  Russian: пу́шка , , ‎(púška) ,  cannon,  /ˈkæn.ən/
 Mandarin:不会 ,  ‎(bù huì),  German: nicht können,  Russian: не мо́чь ‎(ne móčʹ,  cannot,  /ˈkænɒt/
@@ -358,7 +359,7 @@ Mandarin:当心 ,  ‎(dāngxīn), ,  German:,  vorsichtig,  , ,  Hebrew: זה�
 German:,  sorglos,  , ,  Russian: беззабо́тный ,  ‎(bezzabótnyj),  careless,  /ˈkɛːlɘs/
 Mandarin:,  货物,  ‎(huòwù), German: Fracht , ,  Hebrew: מטען, ‎(mit'an),  Russian: груз , , ‎(gruz),   cargo,  /ˈkɑː(r)ɡəʊ
 Russian:,  карильо́н,  ‎(karilʹón),  carillon,  /ˈkɛrɪˌlɑn/
-German:,  Gartennelke,  f,  Russian:,  гвозди́ка,  ‎(gvozdíka),  carnation,  /kɑːˈneɪ.ʃən/
+German:,  Gartennelke,   Russian:,  гвозди́ка,  ‎(gvozdíka),  carnation,  /kɑːˈneɪ.ʃən/
 Russian:,  со́нная арте́рия ,  ‎(sónnaja artérija),  carotid,  /kəˈɹɒt.ɪd/
 Mandarin:,  马车,  ‎(mǎchē), German: Kutsche , ,  Russian: каре́та , , ‎(karéta), ,  carriage,  /ˈkɛɹɪdʒ/
 Mandarin:  红萝卜 ,  ‎(hóngluóbo),  German:,  Möhre,  Mohrrübe,  Hebrew:,  גזר,  ‎(gezer),  Persian:,  هویج,  ‎(havij),  Russian:,  морко́вь,  ‎(morkóvʹ),  carrot,  /ˈkɛɹət/
@@ -373,7 +374,7 @@ Mandarin:, 抛 (pāo),  German: werfen , ,  Russian: броса́ть ,  ‎(
 Mandarin:,  种姓 ,  ‎(zhǒngxìng),  German: Kaste,  Hebrew: קאסטה, ‎(kasta),  Persian: کاست ,  ‎(kāst),  Russian: ка́ста , , ‎(kásta) ,  caste,  /kɑːst/
 Russian:,  ака́зывать ,  ‎(nakázyvatʹ),  castigate,  /ˈkæs.tɪ.ɡeɪt/
 Russian:,   бобро́вая ша́пка, ‎(bobróvaja šápka),  castor,  /kɑːstə(r)/
-Mandarin: 伤亡者 (shāngwáng zhě),  German: Opfer , ,  Russian: же́ртва , ,  f ‎(žértva), ,  casualty,  /ˈkaʒ(ʊ)əlti/
+Mandarin: 伤亡者 (shāngwáng zhě),  German: Opfer , ,  Russian: же́ртва , ,  ‎(žértva), ,  casualty,  /ˈkaʒ(ʊ)əlti/
 Mandarin: 猫 ,  ‎(māo),  German:  Katze , ,  Hebrew:,  חָתוּל,  ‎(khatúl),  Persian:,  گربه,  ‎(gorbe),  Russian:,  ко́шка,  ‎(kóška),  cat,  /kæt/
 Mandarin:,  触媒 ,  ‎(chùméi), German: Katalysator , , Persian: کاتالیزگر ‎(kâtâlizgar), Russian: катализа́тор , , ‎(katalizátor) ,  catalyst,  /ˈkæt.əl.ɪst/
 Mandarin:,  灾难,  ‎(zāinàn),  German:,  Katastrophe,  Unglück,  Russian:,  катастро́фа,  ‎(katastrófa),  catastrophe,  /kəˈtæs.trə.fi/
@@ -423,7 +424,7 @@ German:,  Männchen,  Hebrew: תרנגול ,  ‎(tarnegol),  Persian: خروس
 Mandarin: 鸡尾酒 ,  ‎(jīwéijiǔ),  German: Cocktail , , Hebrew: קוֹקְטֵיל , , ‎(kokteyl), Russian: кокте́йль , , ‎(koktéjlʹ) ,  cocktail,  /ˈkɔkteːl/
 Mandarin: 可可豆 ,  ‎(kěkě dòu),  German: Kakaobohne , ,  Persian: کاکائو ,  ‎(kâkâu),  Russian: кака́о , , ‎(kakáo),  cocoa,  /ˈkəʊ.kəʊ/
 Persian:,  کیسه,  ‎(kise),  cod,  /kɒd/
-Mandarin: 咖啡 ,  ‎(kāfēi),  German:,  Kaffee,  Hebrew:,  קפה,  ‎(qafé),  Persian:,  قهوه,  ‎(qahve),  Russian:,  ко́фе,  n,  coffee,  /ˈkɒf.i/
+Mandarin: 咖啡 ,  ‎(kāfēi),  German:,  Kaffee,  Hebrew:,  קפה,  ‎(qafé),  Persian:,  قهوه,  ‎(qahve),  Russian:,  ко́фе,   coffee,  /ˈkɒf.i/
 Mandarin: 棺材 ,  ‎(guāncai),  German: Sarg , ,  Hebrew: אֲרוֹן-מֵתִים ‎(aron metiym),  Persian: تابوت ,  ‎(tâbut),  Russian: гроб , , ‎(grob),  coffin,  /ˈkɒfɪn/
 Mandarin:,  ‎干邑白兰地 ‎(gānyì báilándì),  German:,  Cognac,  Hebrew: קוניק, ‎(konyak),  Russian: конья́к , , ‎(konʹják),  cognac,  /ˈkɒnjæk/
 Russian:,  знато́к,  ‎(znatók),  cognoscente,  /kɒnjəˈʃɛnteɪ/
@@ -458,7 +459,7 @@ Mandarin:,  ‎司令 ,  ‎(sīlìng), ,  German:,  Befehlshaber,  Kommandeur,
 Mandarin:,  评论,  ‎(pínglùn),  German: Kommentar , ,  Persian: نظر ,  ‎(nazar),  Russian: коммента́рий , , ‎(kommentárij),  comment,  /ˈkɒmɛnt/
 Mandarin:,  贸易,  ‎(màoyì),  German:,  Handel,  Kommerz,  Hebrew:,  סַחַר,  (sakhar),  Persian:,  تجارت,  ‎(tejârat),  Russian:,  торго́вля,  ‎(torgóvlja),  commerce,  /ˈkɑ.mɝs/
 Hebrew:,  מחויב,  (mekhuiav),  committed,  /kəˈmɪtɪd/
-German:,  Kommodore,  m,  Russian:,  коммодо́р,  ‎(kommodór),  commodore,  /kɔ.mɔ.dɔʁ/
+German:,  Kommodore,    Russian:,  коммодо́р,  ‎(kommodór),  commodore,  /kɔ.mɔ.dɔʁ/
 Mandarin:, 共同 ,  ‎(gòngtóng),  German:,  gemeinsam,  gemeinschaftlich,  Hebrew:,  משותף,  (meshutaf),  Russian:,  о́бщий,  (óbščij),  common,  /ˈkɒmən/
 Mandarin:, 联邦 ,  ‎(liánbāng),  German: Staatenbund , ,  Hebrew: קהילייה, ‎(qehilia),  Russian: содру́жество , , ‎(sodrúžestvo,  commonwealth,  /ˈkɑmənˌwɛlθ/
 Mandarin:, 社区的 ,  ‎(shèqū de),  Hebrew:,  קהילתי,  (qehilaty),  Russian: общи́нный ,  ‎(obščínnyj),  communal,  /kəˈmjuːnəl/
@@ -607,7 +608,7 @@ Mandarin: 西葫芦 ‎(xīhúlu),  German:,  Zucchini,  , ,  Hebrew:,  קישו
 Mandarin:,  有礼貌 ‎(yǒulǐmào),  German: höflich , ,  Persian: مؤدب ,  ‎(mo'addab),  Russian: любе́зный ,  ‎(ljubéznyj),  courteous,  /ˈkɝtiəs/
 Mandarin:,  礼貌,  ‎(lǐmào), German: Höflichkeit , ,  Hebrew: אדיבות , , ‎(adivut),  Russian: ве́жливость , , ‎(véžlivostʹ), courtesy,  /ˈkɜːtəsi/
 Mandarin:庭院 ,  ‎(tíngyuàn),  German: Hof , , Hebrew: חצר, ‎(khatzer),  Persian: حیاط ,  ‎(hayât),  courtyard,  /ˈkɔɹt.jɑɹd/
-Mandarin:,  ‎ 堂兄 ,  ‎(tángxiōng),  German:,  Cousin,  Vetter,  Hebrew:, דּוֹדָן, ‎(dodan),  Persian:,  پسرعمو,  ‎(pesar-'amu),  Russian:,  двою́родный брат , , ‎(dvojúrodnyj brat) ,  m,  cousin,  /ˈkʌzən/
+Mandarin:,  ‎ 堂兄 ,  ‎(tángxiōng),  German:,  Cousin,  Vetter,  Hebrew:, דּוֹדָן, ‎(dodan),  Persian:,  پسرعمو,  ‎(pesar-'amu),  Russian:,  двою́родный брат , , ‎(dvojúrodnyj brat) ,    cousin,  /ˈkʌzən/
 Mandarin:盖子 ,  ‎(gàizi),  German:,  Deckel,  Abdeckung,  Persian:,  پوشش,  ‎(pušeš),  Russian:,  кры́шка,  ‎(krýška),  cover,  /ˈkʌvɚ/
 Mandarin:母牛 ,  ‎(mǔníu),  German: Kuh ,  ,  Hebrew: פָּרָה , , ‎(pará), Persian: ماده‌گاو ‎(mâde-gâv), Russian: коро́ва , , ‎(koróva),  cow,  /kaʊ̯/
 German:,  keusch,  , ,  Russian:,  засте́нчивый,  (zasténčivyj),  coy,  /kɔɪ/
@@ -661,7 +662,7 @@ Mandarin:,  孜然 ,  ‎(zīrán),  German: Kreuzkümmel , ,  Hebrew: כמו�
 Mandarin: 腹带 (fù dài), German: Kummerbund , ,   cummerbund,  Persian: کمربند ,  ‎(kamar band),  Russian: куша́к , , ‎(kušák),  /ˈkʌməbʌnd/
 Russian:,  промедле́ние,  ‎(promedlénije),  cunctation,  /kʌŋkˈteɪʃən/
 Mandarin:狡猾 ,  ‎(jiǎohuá),  German:,  gerissen,  , ,  Persian:,  مکار,  ‎(makkâr),  Russian:,  хи́трый,  (xítryj),  cunning,  /kʌnɪŋ/
-Mandarin: 杯子 ,  ‎(bēizi) ,  German:,  Tasse,  Becher,  Hebrew: כּוֹס , ,  f ‎(kos),  Persian:,  فنجان,  ‎(fenjân),  Russian:,  ча́шка,  ‎(čáška),  cup,  /kʌp/
+Mandarin: 杯子 ,  ‎(bēizi) ,  German:,  Tasse,  Becher,  Hebrew: כּוֹס , ,  ‎(kos),  Persian:,  فنجان,  ‎(fenjân),  Russian:,  ча́шка,  ‎(čáška),  cup,  /kʌp/
 Mandarin:橱柜 ,  ‎(chúguì),  German: Schrank , ,  Russian: шкаф , , ‎(škaf),  cupboard,  /ˈkʌb.əd/
 Russian:,  створа́живаться,  (stvoráživatʹsja),  curdle,  /ˈkɜː.dəl/
 Mandarin:,  治疗,  ‎(zhìliáo), German: Heilung , ,  Hebrew: מַרְפֵּא, ‎(marpé),  Persian: درمان ,  ‎(darmân),  Russian: лече́ние , , ‎(lečénije),  cure,  /kjʊə(ɹ)/
@@ -714,7 +715,7 @@ Russian:,  дро́тик,  ‎(drótik),  dart,  /dɑː(ɹ)t/
 Mandarin:,  数据,  ‎(shùjù),  German:,  Daten,  Hebrew: נְתוּנִים ,  ‎(netunim),  Persian: داده‌ها ‎(dâde-hâ),  Russian: да́нные ,  n ,  ‎(dánnyje),  data,  /ˈdeɪtə/
 Mandarin: 数据库 ,  ‎(shùjùkù), German: Datenbank ,  ,  Hebrew: בְּסִיס נְתוּנִים , , ‎(besis netunim),  Persian: پایگاه داده‌ها ‎(pâygâh-e dâde-hâ),   database,  /ˈdeɪtəˌbeɪs/
 Mandarin:,  枣儿 ,  ‎(zǎor),  German: Dattel , ,  Hebrew: תמר , , ‎(tamar),  Persian: خرما ,  ‎(xormâ),  Russian: фи́ник , , ‎(fínik),  date,  /deɪt/
-German:,  Kleckserei,  f,  Russian:,  штукату́рка,  ‎(štukatúrka),  daub,  /dɔːb/
+German:,  Kleckserei,   Russian:,  штукату́рка,  ‎(štukatúrka),  daub,  /dɔːb/
 Mandarin: 女儿 ,  ‎(nǚ'ér),  German: Tochter , ,  Hebrew: בַּת , , ‎(bat),  Persian: دختر ,  ‎(doxtar),  Russian: дочь , , ‎(dočʹ),  daughter,  /ˈdɔːtə(ɹ)/
 Russian:,  дофи́н,  ‎(dofín),  dauphin,  /ˈdɔːfæn/
 Russian:,  наступа́ть,  (nastupátʹ),  dawn,  /doːn/
@@ -731,14 +732,14 @@ Mandarin:,  首次亮相 ‎(shǒucì liàngxiàng),  German: Debüt ,  ,  Rus
 Mandarin: 十年 ,  ‎(shí nián),  German:,  Jahrzehnt,  Hebrew:,  עשור,  ‎(asór),  Russian:,  десятиле́тие,  ‎(desjatilétije),  decade,  /ˈdɛkeɪd/
 German:,  Dozent,  Dozentin,  docent,  /ˈdəʊ.sənt/
 Russian:,  ща́ве́ль,  ‎(ščávélʹ),  dock,  /dɒk/
-Mandarin:,  大夫 ,  ‎(dàifu),  German:,  Arzt,  Ärztin,  Hebrew:,  רופא,  ‎(rofe),  Persian:,  پزشک,  ‎(pezešk),  Russian:,  до́ктор,  f,  doctor,  /ˈdɒktə/
+Mandarin:,  大夫 ,  ‎(dàifu),  German:,  Arzt,  Ärztin,  Hebrew:,  רופא,  ‎(rofe),  Persian:,  پزشک,  ‎(pezešk),  Russian:,  до́ктор,   doctor,  /ˈdɒktə/
 Mandarin:,  ‎文件 ,  ‎(wénjiàn),  German:,  Unterlagen,  Dokument,  Hebrew:,  תְּעוּדָה,  ‎(te'uda),  Persian:,  سند,  ‎(sanad),  
 Russian:,  докуме́нт,  ‎(dokumént),  document,  /ˈdɒkjʊmənt/
 Mandarin:,  正十二面体 ,  ‎(zhèngshí'èr miàntǐ),  Hebrew: תֲּריֹסִרון ‎(t'resárón),  Russian: додека́эдр , , ‎(dodekáedr),  dodecahedron,  /ˌdəʊdɛkəˈhiːdrən/
 Mandarin:,  ‎躲避 ,  ‎(duǒbì),  German: ausweichen , ,  Russian: увёртываться,  ‎(uvjórtyvatʹsja),  dodge,  /dɒdʒ/
 Mandarin:,  ‎ 嘟嘟鸟 ‎(dūdūniǎo), ,  German:,  Dodo,  Russian: додо́ , , ‎(dodó),  dodo,  /ˈdəʊˌdəʊ/
 Mandarin:,  麀,  ‎(yōu),  German:,  Hirschkuh,  Hinde,  Persian:,  آهو,   ‎(âhu-ye mâde),  Russian:,  оле́ниха,  ‎(olénixa),  doe,  /dəʊ/
-Mandarin: 狗 ,  ‎(gǒu),  German: Hund ,  ,  m,  Hebrew:,  כלב,  ‎(kélev),  Persian:,  سگ,  ‎(sag),  Russian:,  соба́ка,  ‎(sobáka),  dog,  /dɒɡ/
+Mandarin: 狗 ,  ‎(gǒu),  German: Hund ,  ,    Hebrew:,  כלב,  ‎(kélev),  Persian:,  سگ,  ‎(sag),  Russian:,  соба́ка,  ‎(sobáka),  dog,  /dɒɡ/
 Mandarin:,  每 ,  ‎(měi),  German:,  alle,  , ,  Persian: هر یک,  هر ,  ‎(har), Persian:,  هر,  هر, Russian: ка́ждый ,  ‎(káždyj),   each,  /iːt͡ʃ/
 German:,  begierig,  , ,  Russian:,  жа́ждущий,   ‎(žážduščij),  eager,  /iːɡə(ɹ)/
 Mandarin:  老鹰 ,  ‎(lǎoyīng),  German:,  Aar , , ,  Hebrew:,  עיט,  ‎(áyit),  Persian: شهباز ‎(šahbâz),  Russian:,  орёл,  ‎(orjól),  eagle,  /ˈiːɡəl/
@@ -822,7 +823,7 @@ Mandarin:,  化脓 ,  ‎(huànóng), German: eitern , ,  Russian: гнои́�
 Mandarin:,  节庆 ‎(jiéqìng),  German: Festival , ,  Persian: جشنواره ,  ‎(jašnvâre),  Russian: фестива́ль , , ‎(festiválʹ),  festival,  /ˈfɛstəvəl/
 German:,  Feston,  Girlande,  Russian:,  гирля́нда,  ‎(girljánda),  festoon,  /fɛsˈtuːn/
 Persian:,  فتا,  ‎(fetâ), Russian: фе́та, ‎(féta), feta,  /ˈfɛtə/
-Mandarin:,  镣 (liáo),  German:,  Fessel,  f,  Persian:,   بند ,  ‎(band),   Russian:,  Russian: пу́ты , ,  ,  ‎(púty),  fetter,  /ˈfet.ə/
+Mandarin:,  镣 (liáo),  German:,  Fessel,   Persian:,   بند ,  ‎(band),   Russian:,  Russian: пу́ты , ,  ,  ‎(púty),  fetter,  /ˈfet.ə/
 Mandarin:,  发烧 ,  ‎(fāshāo),  German: Fieber , ,  Persian: تب ,  ‎(tab),  Russian: температу́ра , ‎(temperatúra) ,  fever,  /ˈfiːvə/
 Mandarin:,  少 ,  ‎(shǎo),  German: wenig , ,  Hebrew: אֲחָדִים m  ‎(akhadím),  Persian: کم ,  ‎(kam),  Russian: не́многий ,  ‎(némnogij),  few,  /fjuː/
 Mandarin:,  较少,  shǎo), German: weniger , ,  Russian: ме́ньше ,  ‎(ménʹše),  fewer,  /ˈfjuːɚ/
@@ -834,7 +835,7 @@ Mandarin: 斗争 ,  ‎(dòuzhēng),  German:,  kämpfen,  , ,  Hebrew:, נאב
 German:,  Hirngespinst,  Fantasieprodukt,  Russian:,  вы́думка,  ‎(výdumka),  figment,  /ˈfɪɡ.mənt/
 Russian:,  филигра́нь,  ‎(filigránʹ),  filigree,  /ˈfɪl.ɪ.ɡriː/
 German:,  füllen,  , ,  Russian:,  заполня́ть,  ‎(zapolnjátʹ),  fill,  /fɪl/
-Mandarin:,  小雌马 ‎(xiǎo cí mǎ),  German:,  Stutenfohlen,  n,  Russian:,  кобы́лка,  ‎(kobýlka),  filly,  /ˈfɪli
+Mandarin:,  小雌马 ‎(xiǎo cí mǎ),  German:,  Stutenfohlen,   Russian:,  кобы́лка,  ‎(kobýlka),  filly,  /ˈfɪli
 Mandarin:,  过滤器,  ‎(guòlǜqì),  German: Filter , , Hebrew: מסנן ‎(masnen), Persian: فیلتر ,  ‎(filter),  Russian: фильтр , , ‎(filʹtr) ,  filter,  /ˈfɪltə/
 Mandarin:,  鳍,  ‎(qí), German: Flosse , , Russian: плавни́к , , ‎(, avník),   fin,  /fɪn/
 Mandarin:,  财政家,  ‎(cáizhèngjiā),  German:,  Finanzier,  Financier,  Russian:,  финанси́ст,  ‎(finansíst),  financier,  /fɪˈnænsɪə/
@@ -853,7 +854,7 @@ Russian:,  рыба́цкий,  (rybáckij),  fishing,  /ˈfɪʃɪŋ/
 Russian:,  мордобой , , ‎(mordoboj),  fisticuffs,  /ˈfɪs.tɪ.kʌfs/
 Mandarin: 五 ,  ‎(wǔ),  German: fünf , ,  Hebrew: חָמֵשׁ , , ‎(khamésh),  Persian: پنج ,  ‎(panj) ,  Russian: пять ,  ‎(pjatʹ),  five,  /faɪv/
 German:,  fixiert,  , ,  Russian:,  фикси́рованный,  (fiksírovannyj),  fixed,  /fɪkst/
-Mandarin:, 定影剂 ,  ‎(dìngyǐngjì),  German:,  Fixiermittel,  n,  Russian:,  фикса́ж,  ‎(fiksáž),  fixer,  /fik.se/
+Mandarin:, 定影剂 ,  ‎(dìngyǐngjì),  German:,  Fixiermittel,   Russian:,  фикса́ж,  ‎(fiksáž),  fixer,  /fik.se/
 Mandarin: 旗子 ,  ‎(qízi),  German:,  Flagge,  Fahne,  Hebrew:,  דגל,  ‎(dégel),  Persian:,  پرچم,  ‎(parčam),  Russian:,  флаг,  ‎флаг , , ‎(flag),  flag,  /flæɡ/
 Mandarin:,   旗竿 ,  ‎(qígān),  German:,  Fahnenmast,  Fahnenstange,  Russian:,  дре́вко,  ‎(drévko),  flagpole,  /ˈflæɡˌpoʊl/
 Russian: вопию́щий ,  ‎(vopijúščij),  flagrant,  /ˈfleɪ.ɡɹənt/
@@ -863,7 +864,7 @@ Mandarin: 火焰 ,  ‎(huǒyàn),  German:,  Flamme,  Hebrew:,  לֶהָבָה
 Mandarin: 火鶴 , ,  German: Flamingo , ,  Russian: флами́нго , , ‎(flamíngo),  flamingo,  /fləˈmɪŋgoʊ/
 German:,  Krempe,  Hutkrempe,  Russian:,  пола́,  ‎(polá),  flap,  /flæp/
 Mandarin:,  闪光 (shǎnguāng),  Russian:,  вспы́хивать,  ‎(vspýxivatʹ),  flash,  /flæʃ/
-German:,  Blinken,  n,  flashing,  /fæʃɪŋ/
+German:,  Blinken,   flashing,  /fæʃɪŋ/
 Russian:,  показно́й,  (pokaznój),  flashy,  /ˈflæʃi/
 Mandarin:,  ‎(píng),  , ,  German:,  flach,  Hebrew: שטוח ‎(shatuakh),  Persian: صاف ,  ‎(sâf),  Russian: пло́ский ,  ‎(, óskij),  flat,  /flæt/
 Mandarin:,  诩,  ‎(xǔ),  German:,  mit,  (etwas), Hebrew: התרברב, ‎(Hitravrev),  Russian: щеголя́ть , ,  ‎(ščegoljátʹ),   flaunt,  /flɔːnt/
@@ -957,7 +958,7 @@ Russian:,  весе́лье,  ‎(vesélʹje),  frolic,  /ˈfɹɒlɪk/
 Mandarin:,  从,  ‎(cóng),  German:,  von,  Hebrew: מן (min),  Persian: از ,  ‎(az), Russian: из ,  ‎(iz),  from,  /frɒm/
 German:,  Apparat,  Gadget,  Russian:,  устро́йство,  ‎(ustrójstvo),  gadget,  /ɡædʒɪt/
 Mandarin:,  钆,  ‎(gá), German: Gadolinium , ,  Hebrew: גדוליניום ,  ‎(gadolínyum),  Russian: гадоли́ний , , ‎(gadolínij),  gadolinium,  /ɡa.dɔ.li.njɔm/
-Mandarin:,  过失,  ‎(guòshī),  German:,  Fauxpas,  m,  Russian:,  опло́шность,  ‎(o, óšnostʹ),  gaffe,  /ɡæf/
+Mandarin:,  过失,  ‎(guòshī),  German:,  Fauxpas,    Russian:,  опло́шность,  ‎(o, óšnostʹ),  gaffe,  /ɡæf/
 Russian:,  получе́ние,  ‎(polučénije),  gain,  /ɡeɪn/
 Russian:,  пра́здничный,  ‎(prázdničnyj),  gala,  /ɡɑːlə/
 Mandarin:,  强风,  ‎(qiángfēng),  German: Sturm ,  , Russian: бу́ря , , ‎(búrja),  gale,  /ɡeɪl/
@@ -1007,7 +1008,7 @@ Mandarin:,  几何,  ‎(jǐhé),  German: Geometrie,  Persian: هندسه ,  �
 Russian:,  кро́вный брат, ‎(króvnyj brat),  german,  [dʒer.ˈman]
 Mandarin:,  有关,  ‎(yǒuguān), German: relevant , ,  Persian: مربوط ,  ‎(marbut), Russian: уме́стный ,  ‎(uméstnyj),  germane,  /dʒɜː(ɹ)ˈmeɪn/
 Mandarin:,  锗,  ‎(zhě),  German: Germanium , ,  Hebrew: גרמניום ,  ‎(germányum),  Russian: герма́ний , , ‎(germánij) ,  germanium,  /dʒɚˈmeɪniəm/
-German:,  Gerundiv,  n,  Russian:,  герунди́в,  ‎(gerundív),  gerundive,  /dʒəˈrʌndɪv/
+German:,  Gerundiv,   Russian:,  герунди́в,  ‎(gerundív),  gerundive,  /dʒəˈrʌndɪv/
 Mandarin:,  手势 ,  ‎(shǒushì),  German:,  Geste,  Gebärde,  Hebrew:  מֶחֱוָה, ‎(mekhvá),  Persian:,  ژست,  ‎(žest),  Russian:,  жест,  ‎(žest),  gesture,  /ˈd͡ʒest͡ʃə/
 Mandarin:,  获得 ,  ‎(huòdé), ,  German:,  besorgen,  , ,  Persian:, گرفتن ,  ‎(gereftan),  Russian:,  достава́ть,  ‎(dostavátʹ),  get,  /ɡɛt/
 Mandarin:,  下驮 ,  ‎(xiàtuó),  Russian:,  гэ́та,  ‎(géta),  geta,  /ˈcɛːta/
@@ -1023,7 +1024,7 @@ Mandarin: 长颈鹿 ,  ‎(chángjǐnglù),  German: Giraffe , ,  Persian: ز�
 Russian:,  свя́зывать,  ‎(svjázyvatʹ),  gird,  /ɡɜːd/
 Mandarin:  女孩儿 ,  ‎(nǚháir),  German:,  Mädchen,  (regional),  Hebrew:,  ילדה, ‎(yaldá) ,  Persian:,  دختر,  ‎(doxtar),  Russian:,  де́вушка,  ‎(dévuška),  girl,  /ɡɜːl/
 Mandarin: 女朋友 ,  ‎(nǚpéngyoǔ),  German:,  Freundin,  Girlfriend,  Hebrew:,  חברה,  ‎(khavera),  Persian:,  دوست‌دختر,  ‎(dust-doxtar),  Russian:,  подру́жка,  ‎(podrúžka),  girlfriend,  /ˈɡɝlfɹɛnd/
-Mandarin:,  要旨 ,  ‎(yàozhǐ),  German:,  Hauptinhalt,  m,  Russian:,  су́щность,  ‎(súščnostʹ),  gist,  /dʒɪst/
+Mandarin:,  要旨 ,  ‎(yàozhǐ),  German:,  Hauptinhalt,    Russian:,  су́щность,  ‎(súščnostʹ),  gist,  /dʒɪst/
 German:,  Idiot,  Blödmann,  Russian:,  мерза́вец,  ‎(merzávec),  git,  /ɡɪt/
 Mandarin: 给 ,  ‎(gěi),  German:,  geben, Hebrew: נתן ,  ‎(natán),   Persian: دادن ,  ‎(dādan),  Russian: дава́ть , ,  ‎(davátʹ),  give,  /ɡɪv/
 German:,  froh,  Russian: счастли́вый ,  ‎(sčastlívyj),  glad,  /ɡlæd/
@@ -1049,7 +1050,7 @@ Mandarin:,  目标,  ‎(mùbiāo),  German:,  Ziel,  Hebrew: מטרה ‎(matar
 German:,  Goalie,  goalie,  /ˈɡəʊl.i/
 Mandarin:,   羊 ,  ‎(yáng),  German:,  Ziege,  Geiß,  Hebrew:,  עֵז,  ‎(ez),  Persian:,  بز,  ‎(boz),  Russian:,  коза́,  ‎(kozá),  goat,  /ɡəʊt/
 Mandarin:,  妖怪,  ‎(yāoguài), German: Kobold,  Russian: го́блин , , ‎(góblin),   goblin,  /ˈɡɑb.lɪn/
-Mandarin: 神 ,  ‎(shén),  German:,  Gott,  Göttin,  Hebrew: אלוהים , ,  f ‎(elohím) ,  f,  Persian:,  خدا,  ‎(xodâ),  Russian:,  бог,  ‎(bog),  god,  /ɡɒd/
+Mandarin: 神 ,  ‎(shén),  German:,  Gott,  Göttin,  Hebrew: אלוהים , ,  ‎(elohím) ,   Persian:,  خدا,  ‎(xodâ),  Russian:,  бог,  ‎(bog),  god,  /ɡɒd/
 Mandarin:,  教父 ,  ‎(jiàofù),  German: Pate ,  Hebrew: סנדק , , ‎(sandak),  Russian: крёстный оте́ц , , ‎(krjóstnyj otéc),  godfather,  /ˈɡɑdfɑðɚ/
 Mandarin:,  护眼镜 ‎(hù yǎnjìng),  German: Schutzbrille, Russian: защи́тные очки́ n ,  ‎(zaščítnyje očkí) ,  goggles,  /ˈɡɑ.ɡəlz/
 Mandarin:,  甲状腺肿,  ‎(jiǎzhuàngxiànzhǒng),  German:,  Kropf,  Russian:,  зоб,  ‎(zob),  goitre,  /ˈɡɔɪ.tə/
@@ -1110,7 +1111,7 @@ Russian:,  зерно́,  ‎(zernó),  grist,  /ɡɹɪst/
 German:,  Lebensmittel,  , ,  Russian:,  продукты ,  ,  ‎(produkty),  groceries,  /ˈɡɹoʊsəɹiz/
 Persian: مست تلو تلو خوردن سست ‎(sost mast),  Russian: заторможенный ‎(zatormožennyj),  groggy,  /ˈɡɹɒ.ɡi/
 Mandarin:,  腹股沟 ,  ‎(fùgǔgōu),  German: Leiste ,  Russian: пах , , ‎(pax),  groin,  /ɡɹɔɪn/
-Mandarin:,  马夫 ,  ‎(mǎfū),  German:,  Stallknecht,  m,  Russian:,  ко́нюх,  ‎(kónjux),  groom,  /ɡɹum/
+Mandarin:,  马夫 ,  ‎(mǎfū),  German:,  Stallknecht,    Russian:,  ко́нюх,  ‎(kónjux),  groom,  /ɡɹum/
 Mandarin:,  讨厌,  ‎(tǎoyàn),  German:,  ekelhaft,  erregend,  Russian:,  отврати́тельный,  (otvratítelʹnyj),  gross,  /ɡɹəʊs/
 German:,  Groschen,  Grosz,  Russian:,  грош,  ‎(groš),  grosz,  [ɡrɔʂ]
 Mandarin:,  集团 ,  ‎(jítuán),  Hebrew: קבוצה , , ‎(k'vutzá),  Persian: گروه ,  ‎(goruh),  Russian: гру́ппа , , ‎(grúppa),  group,  /ɡɹuːp/
@@ -1213,7 +1214,7 @@ Mandarin:,  ‎高低 ,  ‎(gāodī),  German: Höhe,  Hebrew: רמה ,  ‎(
 German:,  abscheulich,  , ,  Russian:,  гну́сный,  gnúsnyj),  heinous,  /ˈheɪnəs/
 Mandarin:,  继承人,  ‎(jì​chéng​rén​), German: Erbe,  Russian: насле́дник , , ‎(naslédnik),  heir,  /hɛə(ɹ)/
 Mandarin: 氦 ,  ‎(hài),  German:,  Helium,  Hebrew:,  הליום,  ‎(helyum),  helium,  /ˈhiːlɪəm/
-Mandarin:,  地狱,  ‎(dìyù),  German: Hölle ,  Hebrew: גֵּיהִנונּוֹם , ,  f ‎(ge'henom),  Persian: دوزخ ,  ‎(duzax),  Russian: ад , , ‎(ad),  hell,  /hɛl/
+Mandarin:,  地狱,  ‎(dìyù),  German: Hölle ,  Hebrew: גֵּיהִנונּוֹם , ,  ‎(ge'henom),  Persian: دوزخ ,  ‎(duzax),  Russian: ад , , ‎(ad),  hell,  /hɛl/
 Mandarin: 你好 ,  ‎(nǐhǎo),  German: hallo ,  Hebrew:,   שָׁלוֹם ,  ‎(shalóm),  Persian:,  سلام,  ‎(salâm);,  Russian:,  приве́т,  (privét),  hello,  /həˈləʊ̯/
 Mandarin:,  帮,  ‎(bāng), German: Hilfe,  Hebrew: עזרה, ‎(ezrá),  Persian: کمک ,  ‎(komak), Russian: по́мощь , , ‎(pómoščʹ),   help,  /hɛlp/
 Mandarin:母鸡 ,  ‎(mǔjī),  German:,  Henne,  Persian: مرغ ,  ‎(morğ),  Russian: ку́рица , , ‎(kúrica),  hen,  /hɛn/
@@ -1323,7 +1324,7 @@ Mandarin:,  色调,  ‎(sèdiào),  German: Farbton ,  Persian: فام ,  ‎
 Mandarin:,  拥抱 ,  ‎(yōngbào),  German: Umarmung,  Hebrew: חיבוק , ‎(khibúk),  Russian: объя́тие , , ‎(obʺjátije),  hug,  /hʌɡ/
 Mandarin:,  巨大 ,  ‎(jùdà),  German: riesig,  Persian: کلان ,  ‎(kalân),  Russian: огро́мный ,  ‎(ogrómnyj), ,  huge,  /hjuːdʒ/
 Mandarin:,  哼 ,  ‎(hēng),  Russian: а ,  ‎(a),  huh,  /hʌ̃/
-German:,  Hulk,  f,  hulk,  /hʌlk/
+German:,  Hulk,   hulk,  /hʌlk/
 Russian:,  гумани́ст,  ‎(gumaníst),  humanist,  /ˈçuːmənɪst/
 Mandarin:,  人类,  ‎(rénlèi), German: Menschheit,  Russian: челове́чество , , ‎(čelovéčestvo) ,  humanity,  /hjuˈmænɪti/
 German:,  einfach,  Hebrew: נמוך ,  ‎(namúkh),  Russian: ни́зкий ,  ‎(nízkij),  humble,  /ˈhʌmbəl/
@@ -1351,7 +1352,7 @@ Russian:,  язь,  ‎(jazʹ),  ide,  /ʌɪd/
 Mandarin:,  ‎主意 ,  ‎(zhǔyi),  German:,  Idee,  Ahnung,  Hebrew:,  רַעֲיוֹן,  ‎(ra'ayon),  Persian:,  ایده,  ‎(ide),  Russian:,  иде́я,  ‎(idéja),  idea,  /aɪˈdɪə/
 Mandarin:,  辨识,  ‎(biànshì),  German: Identifizierung,   Persian: شناسایی ,  ‎(šenâsâyi),  Russian: идентифика́ция,  identification,  /aɪˈdɛn.tɪ.fkeɪʃən/
 Mandarin:,  辨认,  ‎(biànrèn), German: identifizieren,  Russian: идентифици́ровать , , ,  pf ‎(idɛntificírovatʹ),  identify,  /aɪˈdɛn.tɪ.faɪ/
-Mandarin:,  成语,  ‎(chéngyǔ),  German:,  Idiom,  Redewendung,  Hebrew:,  מטבע,  m,  Persian:,  اصطلاح,  زبان,  Russian:,  идио́ма,  ‎(idióma),  idiom,  /ˈɪdɪəm/
+Mandarin:,  成语,  ‎(chéngyǔ),  German:,  Idiom,  Redewendung,  Hebrew:,  מטבע,    Persian:,  اصطلاح,  زبان,  Russian:,  идио́ма,  ‎(idióma),  idiom,  /ˈɪdɪəm/
 Mandarin: 白痴 ,  ‎(báichī),  German:,  Idiot,  Persian: ابله ,  ‎(ablah),  idiot,  /ˈɪd.iː.ət/
 Mandarin:,  偶像 ,  ‎(ǒuxiàng),  German:,  Idol,  Götze,  Russian:,  и́дол,  ‎(ídol),  idol,  /ˈaɪd(ə)l/
 Mandarin: 冰屋 ,  ‎(bīngwū),  German:,  Iglu,  Hebrew: איגלו, ‎(íglu), Russian: и́глу , , ‎(íglu),  igloo,  /iɡlu/
@@ -1374,7 +1375,7 @@ Mandarin:,  浮躁 ,  ‎(fúzào),  German: ungeduldig ,  Russian: нетер
 Mandarin:,  障碍,  ‎(zhàng'ài),  German:,  Hindernis,  Behinderung,  Russian:,  поме́ха,  ‎(poméxa),  impediment,  /ɪmˈpedɪmənt/
 Mandarin:,  骄横,  ‎(jiāohèng),  imperious,  Russian: вла́стный ,  ‎(vlástnyj),  /ɪmˈpɪəriəs/
 Persian: بی قرار ,  ‎(bi qarâr),  Russian:,  неуместность,  ‎(neumestnostʹ),  impertinence,  /ɛ̃.pɛʁ.ti.nɑ̃s/
-Mandarin:,  脓疱疮,  ‎(nóngpàochuāng),  German:,  Impetigo,  f,  Russian:,  импети́го,  ‎(impetígo),  impetigo,  /ɪmpɪˈtaɪɡəʊ/
+Mandarin:,  脓疱疮,  ‎(nóngpàochuāng),  German:,  Impetigo,   Russian:,  импети́го,  ‎(impetígo),  impetigo,  /ɪmpɪˈtaɪɡəʊ/
 Mandarin:,  进口 ‎(jìnkǒu),  German:,  Importware,  Hebrew: ייבוא, ‎(y'ivu),  Russian: и́мпорт , , ‎(ímport),  import,  /ˈɪm.pɔːt/
 Mandarin:,  进口商 ‎(jìnkǒu shāng), German: Importeur ,  Russian: импортёр , , ‎(importjór),  importer,  /ɪmɔː(r)tə(r)/
 Mandarin:,  气势,  ‎(qìshì),  German:,  imposant,  , ,  Russian:,  внуши́тельный,  (vnušítelʹnyj),  imposing,  /ɪmpəʊzɪŋ/
@@ -1459,7 +1460,7 @@ Russian:,  храни́тель,  ‎(xranítelʹ),  keeper,  /ˈkiːpə/
 Mandarin: 开尔文 ,  ‎(kāi'ěrwén),  ussian: ке́львин , , ‎(kélʹvin),  kelvin,  /ˈkɛlvən/
 Russian:,  кругозо́р,  ‎(krugozór),  ken,  /ˈkɛn
 German:,  Einschnitt,  Kerbe,  Russian:,  зару́бка,  ‎(zarúbka),  kerf,  /kɜːf/
-Mandarin:  茄汁 ‎(qiézhī),  German:,  Ketschup,  n,  Hebrew:,  קֶטְשׁוֹפּ,  ‎(ketshop),  ketchup,  /ˈkɛtʃ.ʌp/
+Mandarin:  茄汁 ‎(qiézhī),  German:,  Ketschup,   Hebrew:,  קֶטְשׁוֹפּ,  ‎(ketshop),  ketchup,  /ˈkɛtʃ.ʌp/
 Mandarin:,  壶 ,  ‎(hú),  German:,  Kessel,  Kochtopf,  Persian:,  کتری,  ‎(ketri),  Russian:,  котёл,  ‎(kotjól),  kettle,  /ˈkɛtəl/
 Mandarin:,  钥匙,  ‎(yàoshi), German: Schlüssel,  Hebrew: מַפְתֵּחַ , , ‎(maftéakh),  Russian: ключ , , ‎(ključ),  Persian: کلید , , ‎(kelid),  key,  /kʰiː/
 Mandarin:键盘 ,  ‎(jiànpán), German: Tastatur,  Hebrew: מִקְלֶדֶת , , ‎(mikledet), Persian: صفحه کلید ,  ‎(safhe-kelid),  Russian: клавиату́ра , , ‎(klaviatúra) ,   keyboard,  /ˈkibɔ˞d/
@@ -1491,7 +1492,7 @@ Russian:,  вязаный,  (vjazanyj),  knitted,  /ˈnɪtəd/
 Mandarin:,  结,  ‎(jiē),  German: Knoten,  Hebrew: קשר , , ‎(kesher),  Persian: گره ,  ‎(gereh),  Russian: у́зел , , ‎(úzel) ,  knot,  /nɒt/
 Mandarin: 知道 ,  ‎(zhīdao), German: wissen,  Hebrew: ידע ,  ‎(yadá), Persian: دانستن ,  ‎(dânestan), Russian: знать , ,  ‎(znatʹ),  know,  /nəʊ/
 Mandarin:,  知识,  ‎(zhīshi),  German:,  Wissen,  Persian: دانش ,  ‎(dâneš),  Russian: зна́ние , , ‎(znánije),  knowledge,  /ˈnɒlɪdʒ/
-Mandarin: 考拉 ‎(kǎolā),  German: Koala,  Hebrew: קואלה , , ‎(koala),  Persian: کوآلا ‎(koâla),  Russian: коа́ла , ,  f ‎(koála),  koala,  /kəʊˈɑːlə/
+Mandarin: 考拉 ‎(kǎolā),  German: Koala,  Hebrew: קואלה , , ‎(koala),  Persian: کوآلا ‎(koâla),  Russian: коа́ла , ,  ‎(koála),  koala,  /kəʊˈɑːlə/
 Russian:,  коан,  ‎(koan),  koan,  /ˈkəʊ.ɑːn/
 Mandarin:,  ‎柯卡布拉 ‎(kēkǎbùlā),  German:,  Jägerliest,  Hans,  Russian:,  кукаба́ра, ‎(kukabára),  kookaburra,  /ˈkʊkəˌbʌɹə/
 Mandarin: 叩头 ,  ‎(kòutóu), German: knien,  Russian: де́лать коуто́у ‎(délatʹ koutóu),  kowtow,  /ˌkaʊˈtaʊ/
@@ -1537,7 +1538,7 @@ Mandarin:,  拿铁 ‎(nátiě),  German:,  Milchkaffee,  Café,  Russian:,  л�
 Mandarin:,  后者,  ‎(hòuzhě),  German:,  letzterer,  , ,  Persian:,  دومی,  ‎(dovvomi),  latter,  /ˈlæt.ə(ɹ)/
 Mandarin: 晶格 ,  ‎(jīnggé),  German:,  Gitterzaun,  Russian: решётка , , ‎(rešótka),  lattice,  /ˈlæt.ɪs/
 Mandarin: 通心粉 ,  ‎(tōngxīnfěn)German:,  Makkaroni,  Persian:,  ماکارونی,  ‎(mâkâroni),  Russian:,  макаро́ны,  (makaróny),  macaroni,  /ma.kəˈɹəʊ.ni/
-Mandarin:,  大砍刀 ‎(dàkǎndāo),  German: Machete,  Russian: маче́те , ,  n ‎(mačétɛ),  machete,  /məˈʃɛ.ti/
+Mandarin:,  大砍刀 ‎(dàkǎndāo),  German: Machete,  Russian: маче́те , ,  ‎(mačétɛ),  machete,  /məˈʃɛ.ti/
 Mandarin:,  奸计,  ‎(jiānjì), Russian: махина́ция , , ‎(maxinácija),  machination,  /ˌmækɪˈneɪʃən/
 Mandarin:,  机,  ‎(jī), German: Maschine,  Hebrew: מְכוֹנָה, ‎(m'khoná),  Russian: маши́на , , ‎(mašína) ,  machine,  /məˈʃiːn/
 Russian:,  обору́дование,  ‎(oborúdovanije),  machinery,  /məˈʃiːnəɹi/
@@ -1599,7 +1600,7 @@ Mandarin: 老鼠 ,  ‎(lǎoshǔ),  Hebrew:,  עכבר,  ‎(akhbár),  Persian
 Mandarin: 幕斯 ‎(mùsī),  mousse,  /muːs/
 Mandarin:,  胡子,  ‎(húzi),  German:,  Schnurrbart,  Hebrew:,  שָׂפָם,  ‎(safam),  Persian:,  بروت,  ‎(borut),  Russian:,  ус,  ‎(us),  moustache,  /məˈstɑːʃ/
 Mandarin: 嘴 ,  ‎(zuǐ),  German:,  Mund,  Maul,  Hebrew:,  פֶּה,  ‎(pe),  Persian:,  دهان,  ‎(dahân),  Russian:,  рот,  ‎(rot),  mouth,  /maʊθ/
-German:,  Sprechmuschel,  f,  Russian:,  тру́бка,  ‎(trúbka),  mouthpiece,  /ˈmaʊθˌpiːs/
+German:,  Sprechmuschel,   Russian:,  тру́бка,  ‎(trúbka),  mouthpiece,  /ˈmaʊθˌpiːs/
 Mandarin:  动 ,  ‎(dòng),  Hebrew: זז ‎(zaz),  move,  /muːv/
 Mandarin:,  运动,  ‎(yùndòng),  German: Satz ,  Hebrew: תְּנוּעָה , , ‎(t'nu’á),  Russian: движе́ние , , ‎(dvižénije),  movement,  /ˈmuːv.mənt/
 Mandarin:,  电影,  ‎(diànyǐng),  German:,  Film,  Spielfilm,  Hebrew:,  סֶרֶט,  ‎(séret'),  Persian:,  فیلم,  ‎(film),  Russian:,  фильм,  ‎(filʹm),  movie,  /ˈmuːvi/
@@ -1619,19 +1620,19 @@ Mandarin: 名 ,  ‎(míng), German: Name,  Hebrew: שם , , ‎(shem),  Persi
 Mandarin:亦即 ,  ‎(yìjí), German:  nämlich,  Russian:  и́менно ,  ‎(ímenno),  namely,  /ˈneɪmli/
 Mandarin:小睡 ,  ‎(xiǎoshuì),  German: Nickerchen,  Persian: چرت ,  ‎(čort),  Russian: лёгкий сон, ‎(ljóxkij son),  the,  nap,  /nap/
 Russian:,  курча́вый,  ‎(kurčávyj),  nappy,  /ˈnæpi/
-German:,  erzählend,  in,  Russian:,  повествова́тельный,  (povestvovátelʹnyj),  narrative,  /ˈnarətɪv/
-Mandarin: 窄 ,  ‎(zhǎi),  German:,  eng,  , ,  Persian:,  تنگ,  ‎(tang),  Russian:,  у́зкий,  ‎(úzkij),  narrow,  /ˈnæɹoʊ/
+German:,  erzählend,   Russian:,  повествова́тельный,  (povestvovátelʹnyj),  narrative,  /ˈnarətɪv/
+Mandarin: 窄 ,  ‎(zhǎi),   Persian:,  تنگ,  ‎(tang),  Russian:,  у́зкий,  ‎(úzkij),  narrow,  /ˈnæɹoʊ/
 German:,  aufkeimend,  begriffen,  Russian:,  рожда́ющийся,  (roždájuščijsja),  nascent,  /ˈneɪ.sənt/
 German:,  ekelhaft,  , ,  nasty,  /ˈnaː.sti/
 Mandarin:,  国家,  ‎(guójiā),  German:,  Nation,  Volk,  Hebrew: אֻמָּה , , ‎(uma),  Persian:,  ملت,  ‎(mellat),  Russian:,  на́ция,  ‎(nácija),  nation,  /ˈneɪʃən/
 Russian:,  рожде́ние,  (roždénije),  nativity,  /nəˈtɪvᵻti/
 Russian:,  болта́ть,  ‎(boltátʹ),  natter,  /ˈnætɚ/
 Mandarin:顽皮 ,  ‎(wánpí),  German:,  unartig,  , ,  Persian:,  تخس,  ‎(toxs),  Russian:,  озорно́й,  (ozornój),  naughty,  /ˈnɔːti/
-Mandarin:,  鹦鹉螺,  ‎(yīngwǔluó),  German:,  Nautilus,  n,  Russian:,  наути́лус,  ‎(nautílus),  nautilus,  /ˈnɔː.tɪ.ləs/
+Mandarin:,  鹦鹉螺,  ‎(yīngwǔluó),  German:,  Nautilus,   Russian:,  наути́лус,  ‎(nautílus),  nautilus,  /ˈnɔː.tɪ.ləs/
 Mandarin:肚脐 ,  ‎(dùqí),  German:,  Bauchnabel,  Russian: пупо́к , , ‎(pupók),  Persian: ناف ,  ‎(nâf),  navel,  /ˈneɪvəl/
 Mandarin:,  海军,  ‎(hǎijūn),  German:,  Marine,  navy,  /ˈneɪvi/
 Mandarin: 几乎 ,  ‎(jīhū),  German:,  beinahe,  Hebrew: כִּמְעַט ,  ‎(kim'át),  Persian: تقریباً ,  ‎(taqriban),  nearly,  /ˈnɪəli/
-German:,  Hornvieh;,  n,  Hebrew:,  שור,  ‎(shor),  Russian:,  бык,  ‎(byk),  neat,  /niːt/
+German:,  Hornvieh;,   Hebrew:,  שור,  ‎(shor),  Russian:,  бык,  ‎(byk),  neat,  /niːt/
 Mandarin:,  必要性 ,  ‎(bìyàoxìng),  German:,  Notwendigkeit,  Nezessität,  Russian:,  необходи́мость,  ‎(neobxodímostʹ),  necessity,  /nɪˈsɛsəti/
 Mandarin:  颈 ,  ‎(jǐng),  German:,  Hals,  Hebrew:,  צַוָּאר,  ‎(tsavár),  Persian:,  گردن,  ‎(gardan),  Russian:,  ше́я,  ‎(šéja),  neck,  /nɛk/
 Mandarin:,  针,  ‎(zhēn),  needle,  /ˈniː.dl/
@@ -1644,7 +1645,7 @@ Mandarin:,  ‎(fùjìn),  邻里,  German:,  Nachbarschaft,  Umgebung,  Russian
 Russian: ни оди́н ‎(ni odín),  neither,  /ˈnaɪð.ə(ɹ)/
 Mandarin: 氖 ,  ‎(nǎi),  German: Neon,  Russian: нео́н , , ‎(neón),  neon,  /ˈneːɔn/
 Mandarin:,  姪 ,  ‎(zhí), German: Neffe,  Hebrew: אחיין, ‎(akhyán),  Russian: племя́нник , , ‎(, emjánnik) ,  nephew,  /ˈnɛv.ju/
-German:,  Sonderling,  Nerd,  Russian: зану́да , ,  f ‎(zanúda),  nerd,  /nɜːd/
+German:,  Sonderling,  Nerd,  Russian: зану́да , ,  ‎(zanúda),  nerd,  /nɜːd/
 Russian:,  мыс,  ‎(mys),  ness,  /nɛs/
 Mandarin:,  鸟巢,  ‎(niǎocháo),  German:,  Vogelnest,  Nest,  Hebrew:,  קן,  ‎(ken),  Persian:,  لانه,  ‎(lâne),  Russian:,  гнездо́,  ‎(gnezdó),  nest,  /nɛst/
 Russian:,  гнезди́ться,  ‎(gnezdítʹsja),  nestle,  /ˈnɛsəl/
@@ -1653,7 +1654,7 @@ German:,  Nessel,  Hebrew: סרפד, ‎(sarpad),  Persian: گزنه ,  ‎(gaz
 Mandarin:,  网,  ‎(wǎng),  Russian:,  сеть,  ‎(setʹ),  network,  /nɛtwɜːk/
 Mandarin: 中子 ,  ‎(zhōngzǐ),  German: Neutron ,  Russian: нейтро́н , , ‎(nejtrón),  neutron,  /ˈnjuːtrɒn/
 Mandarin:从未 ‎(cóngwèi),  German:,  nie,  , ,  Persian: هیچ‌وقت ‎(hič-vaqt),  Russian: никогда́ ,  ‎(nikogdá),  never,  /ˈnɛv.ə(ɹ)/
-Mandarin:还是 ,  ‎(háishi),  German:,  nichtsdestoweniger, Hebrew: על כל פנים ‎(al kól panim),  Russian: тем не ме́нее ,  ‎(tem ne méneje),  nevertheless,  /ˈnɛvəðəlɛs/
+Mandarin:还是 ,  ‎(háishi),  German:,  nichtsdestoweniger, Hebrew: על כל פנים ‎(al kól panim),  Russian: тем не ме́нее ,  ‎(te ne méneje),  nevertheless,  /ˈnɛvəðəlɛs/
 Mandarin: 新的 ,  ‎(xīn de),  German: neu,  Persian: جدید ,  ‎(jadid),  Russian: но́вый , , ‎(nóvyj),  new,  /njuː/
 Russian:,  коло́нна,  (kolónna),  newel,  /ˈnjuː.əl/
 Mandarin:,  消息 ,  ‎(xiāoxī),  German:,  Neuigkeiten,  , ,  Hebrew:,  חֲדָשׁוֹת,  ‎(khadashót),  Persian: اخبار ,  ,  ‎('axbâr),  Russian: но́вости , ,  ,  ‎(nóvosti),  news,  /n(j)uːz/
@@ -1704,7 +1705,7 @@ German:,  Vorschlag,  Russian:,  предложе́ние,  ‎(predložénije),
 Mandarin:, 办公室 ,  ‎(bàngōngshì),  German: Büro,  Hebrew: משרד , , ‎(misrád),  Persian: دفتر ,  ‎(daftar), Russian: о́фис , , ‎(ófis),  office,  /ˈɒfɪs/
 Mandarin:官吏 ,  ‎(guānlì),  Hebrew: פקיד , , ‎(pakíd),  Persian: افسر ,  ‎(afsar), Russian: слу́жащий , , ‎(slúžaščij), ,  officer,  /ˈɒfɪsə/
 Russian:,  служе́бный ,  ‎(služébnyj),  official,  /əˈfɪʃəl/
-Mandarin:常常 ,  ‎(chángcháng),  German:,  häufig,  , ,  Hebrew:לְעִתִּים קְרוֹבוֹת ‎(l'itím k'rovót),  Persian:,  اغلب,  ‎(ağlab),  Russian:,  ча́сто,   ‎(částo),  often,  /ˈɒfn̩/
+Mandarin:常常 ,  ‎(chángcháng),  German:,  häufig,  , ,  Hebrew:לְעִתִּים קְרוֹבוֹת ‎(l'ití k'rovót),  Persian:,  اغلب,  ‎(ağlab),  Russian:,  ча́сто,   ‎(částo),  often,  /ˈɒfn̩/
 German:,  oftmals,  Russian: ча́сто ,  ‎(částo),  oftentimes,  /ˈɒf.ənˌtaɪmz/
 Mandarin:,  怪物,  ‎(guàiwù),  German: Oger ,  Russian: людое́д , , ‎(ljudojéd),  ogre,  /ˈəʊ.ɡə/
 Mandarin: 油 ,  ‎(yóu),  German: Öl,  Hebrew: שמן , , ‎(shémen),  Persian: روغن ,  ‎(rowğan),  Russian: ма́сло , , ‎(máslo),  oil,  /ɔɪl/
@@ -1750,7 +1751,7 @@ German:,  ursprünglich,  , ,  original,  /əˈɹɪdʒɪnəl/
 German:,  entwickeln,  Russian:,  создава́ть,  ‎(sozdavátʹ),  originate,  /əˈɹɪdʒɪneɪt/
 Mandarin:装饰品 ,  ‎(zhuāngshìpǐn),  German: Verzierung,  Persian: آذین ,  ‎(âzin),  Russian: орна́мент , , ‎(ornáment),  ornament,  /ˈɔːnəmənt/
 German:,  Ornithopter,  Schlagflügelflugzeug,  Russian: орнитоптера ‎(ornitoptera),  ornithopter,  /ˈɔː.nɪˌθɒp.tə/
-Mandarin:,  孤儿,  ‎(gū'ér),   Hebrew:,  יָתוֹם,  ‎(yatóm),  Persian:,  یتیم,  ‎(yatim),  Russian:,  сирота́,  f,  orphan,  -ɔː(r)fən
+Mandarin:,  孤儿,  ‎(gū'ér),   Hebrew:,  יָתוֹם,  ‎(yatóm),  Persian:,  یتیم,  ‎(yatim),  Russian:,  сирота́,   orphan,  -ɔː(r)fən
 Mandarin:, 正字法 ,  ‎(zhèngzìfǎ), ,  German:,  Orthografie,  Rechtschreibung,  Russian:,  орфогра́фия,  ‎(orfográfija),  orthography,  /ɔːˈθɒɡ.ɹə.fi/
 Russian:,  и́ва,  ‎(íva,  osier,  /ˈəʊzɪə/
 Russian:,  костенеть,  (kostenetʹ),  ossify,  /ˈɒs.ɪ.faɪ/
@@ -1761,7 +1762,7 @@ Mandarin:,  哎哟,  ‎(āiyō),  German:,  au,  , ,  Persian:,  آخ,  ‎(âx
 Mandarin:,  我们的,  ‎(wǒmen-de),  German:,  unser,  Russian: наш ,  ‎(naš),  our,  /ˈaʊə(ɹ)/
 Mandarin:,  我们的,  ‎(wǒmen-de),  German:,  unserer,  unsere,  ours,  -aʊə(r)z
 German:,  heraus,  Russian:снару́жи ,  ‎(snarúži),  out,  /aʊt/
-Russian:,  проте́ст,  m,  outcry,  /ˈaʊtkraɪ/
+Russian:,  проте́ст,    outcry,  /ˈaʊtkraɪ/
 German:,  Umriss,  Kontur,  Russian: ко́нтур , , ‎(kóntur),  outline,  /ˈaʊtlaɪn/
 Mandarin:,  ‎步伐 ,  ‎(bùfá),  German: Schritt,  Russian: шаг , , ‎(šag),  pace,  /peɪs/
 Mandarin:,  协议,  ‎(xiéyì),  German:,  Pakt,  Vertrag,  Russian:,  пакт,  ‎(pakt),  pact,  /pækt/
@@ -1780,7 +1781,7 @@ Mandarin:,  托盘 ,  ‎(tuōpán),  German: Palette,  Russian: поддо́н
 Mandarin:,  苍白,  ‎(cāngbái),  German: fahl ,  Russian: бле́дный ,  ‎(blédnyj),  pallid,  /ˈpælɪd/
 Mandarin:,  放纵 ,  ‎(fàngzòng),  German: verwöhnen,  Russian: балова́ть , ,  ‎(balovátʹ),  pamper,  /ˈpæmpə(ɹ)/
 Mandarin: 薄烤饼 ‎(bókǎobǐng),  German:,  Pfannkuchen,  Eierkuchen,  Persian:,  کرپ,  ‎(krep),  Russian:,  блин,  ‎(blin),  pancake,  /ˈpæn.keɪk/
-Mandarin:,  熊猫 ,  ‎(xióngmāo),  German:,  Panda,  m,  Persian:,  خرس,  ‎(kherse,  Russian:,  па́нда,  ‎(pánda),  panda,  /ˈpandə/
+Mandarin:,  熊猫 ,  ‎(xióngmāo),  German:,  Panda,    Persian:,  خرس,  ‎(kherse,  Russian:,  па́нда,  ‎(pánda),  panda,  /ˈpandə/
 German:,  Chaos,  pandemonium,  /ˌpændɪˈməʊnɪəm/
 Russian: растягивать ,  ‎(rastjagivatʹ),  pandiculate,  /pænˈdɪk.jə.leɪt/
 Russian:,  пане́ль,  ‎(panɛ́lʹ),  pane,  /peɪn/
@@ -1789,41 +1790,41 @@ Mandarin: 诗 ,  ‎(shī), German: Gedicht,  Hebrew: שִׁיר , , ‎(shir)
 Mandarin: 诗人 ,  ‎(shīrén),  German:,  Poet,  Hebrew: פייטן, ‎(paytán),  Persian: شاعر ,  ‎(šâ'er), Russian: поэ́т , , ‎(poét),  poet,  /ˈpəʊɪt/
 Mandarin:,  诗歌,  ‎(shīgē),  German:,  Poesie,  Dichtkunst,  Hebrew:,  שִׁירָה,  ‎(shirá),  Persian:,  شعر,  ‎(še'r),  Russian:,  поэ́зия,  ‎(poézija),  poetry,  [ˈpʰoʊ̯.ətˌɹi]
 Russian:,  пункт,  ‎(punkt),  point,  /pɔɪnt/
-Mandarin:,  教鞭 ,  ‎(jiàobiān),  German:,  Zeigestock,  m,  Russian:,  ука́зка,  ‎(ukázka),  pointer,  /pɔɪntə(ɹ)/
-Mandarin:,  毒 ,  ‎(dú),  German:,  Gift,  Giftstoff,  Hebrew:רַעַל m ‎(ra'àl),  Persian:,  زهر,  ‎(zahr),  Russian:,  яд,  ‎(jad),  poison,  /ˈpɔɪz(ə)n/
+Mandarin:,  教鞭 ,  ‎(jiàobiān),  German:,  Zeigestock,    Russian:,  ука́зка,  ‎(ukázka),  pointer,  /pɔɪntə(ɹ)/
+Mandarin:,  毒 ,  ‎(dú),  German:,  Gift,  Giftstoff,  Hebrew:רַעַל  ‎(ra'àl),  Persian:,  زهر,  ‎(zahr),  Russian:,  яд,  ‎(jad),  poison,  /ˈpɔɪz(ə)n/
 Mandarin:, 拨火棍 ,  ‎(bōhuǒgùn),  German:,  Schüreisen,  , ,  Russian:,  кочерга́,  ‎(kočergá),  poker,  /ˈpoʊkɚ/
 Russian:,  по́льдер,  ‎(pólʹder),  polder,  /ˈpəʊldə/
-Mandarin:,  ‎ 警察 ,  ‎(jǐngchá),  German: Polizei,  Hebrew: מִשְׁטָרָה ,  f ‎(mishtará),  Persian: پلیس ,  ‎(polis),  Russian: поли́ция ,  f ‎(polícija),  police,  /pɵˈliːs/
-Mandarin:,  ‎政策 ,  ‎(zhèngcè),  German:,  Politik,  Hebrew: מדיניות f ‎(mediniyuth),  Russian: поли́тика ,  f ‎(polítika),  policy,  /ˈpɒləsi/
+Mandarin:,  ‎ 警察 ,  ‎(jǐngchá),  German: Polizei,  Hebrew: מִשְׁטָרָה ,  ‎(mishtará),  Persian: پلیس ,  ‎(polis),  Russian: поли́ция ,  ‎(polícija),  police,  /pɵˈliːs/
+Mandarin:,  ‎政策 ,  ‎(zhèngcè),  German:,  Politik,  Hebrew: מדיניות ‎(mediniyuth),  Russian: поли́тика ,  ‎(polítika),  policy,  /ˈpɒləsi/
 Mandarin:,  有礼貌 ‎(yǒulǐmào),  German: höflich,  Hebrew: מנומס ‎(m'numás),  Persian: مؤدب ,  ‎(mo'addab),  Russian: ве́жливый ,  ‎(véžlivyj),  polite,  /pəˈlaɪt/
 Mandarin:,  ‎政客 ,  ‎(zhèngkè),  German:,  Politiker,  Politikerin,  Hebrew:,  פּוֹלִיטִיקַאי,  ‎(politiká`i),  Persian: سیاست‌مدار ‎(siyâsatmadâr),  Russian:,  поли́тик,  ‎(polítik),  politician,  /ˈpɒl.ɪ.tɪʃ.ən/
 Mandarin:,  政体,  ‎(zhèngtǐ),  Russian:,  строй,  ‎(stroj),  polity,  /ˈpɒlɪtɪ/
-Mandarin:,  投票 ,  ‎(tóupiào),  German: Umfrage,  Russian: опро́с ,  m ‎(oprós),  poll,  /pɔul/
+Mandarin:,  投票 ,  ‎(tóupiào),  German: Umfrage,  Russian: опро́с ,   ‎(oprós),  poll,  /pɔul/
 Mandarin:,  花粉 ,  ‎(huāfěn),  German:,  Pollen,  Russian:,  пыльца́,  ‎(pylʹcá),  pollen,  /ˈpɒlən/
-Mandarin:,  钋,  ‎(pō), German: Polonium,  Hebrew: פולוניום ,  ‎(polonyum),  Russian: поло́ний ,  m ‎(polónij),  polonium,  /pəˈləʊniəm/
-Mandarin:,  多配偶制 ‎(duōpèi'ǒuzhì),  German: Polygamie,  Russian: полигами́я ,  f ‎(poligamíja),  polygamy,  /pəˈlɪɡəmi/
+Mandarin:,  钋,  ‎(pō), German: Polonium,  Hebrew: פולוניום ,  ‎(polonyum),  Russian: поло́ний ,   ‎(polónij),  polonium,  /pəˈləʊniəm/
+Mandarin:,  多配偶制 ‎(duōpèi'ǒuzhì),  German: Polygamie,  Russian: полигами́я ,  ‎(poligamíja),  polygamy,  /pəˈlɪɡəmi/
 German:,  mehrsprachig,  Russian: многоязы́чный ,  ‎(mnogojazýčnyj),  polyglot,  /pɒliːɡlɒt/
 Mandarin:多邊形 (duō biān xíng),  German:,  Vieleck,  Polygon,  Hebrew:,  מצולע,  ‎(metsulá),  polygon,  /ˈpɒlɪɡən/
 Mandarin:学识渊博的人 ‎(xuéshí yuānbó de rén),  German:,  Polyhistor,  , ,  Russian:,  эруди́т,  ‎(erudít),  polymath,  /ˈpɒlɪmæθ/
 German:,  Granatapfel,  Persian:,  انار,  ‎(anâr),  Russian:,  грана́товое,  ‎(granátovoje,  pomegranate,  /ˈpɒm.iˌɡɹæn.ᵻt/
-Mandarin:, 池塘 ,  ‎(chítáng), German: Teich,  Hebrew: אגם ,  m ‎(agám),  Persian: آبگیر ,  ‎(âbgir), Russian: пруд ,  m ‎(prud),  pond,  /pɒnd/
+Mandarin:, 池塘 ,  ‎(chítáng), German: Teich,  Hebrew: אגם ,   ‎(agám),  Persian: آبگیر ,  ‎(âbgir), Russian: пруд ,   ‎(prud),  pond,  /pɒnd/
 Mandarin:,  ‎思考 ,  ‎(sīkǎo),  German: grübeln,  Hebrew: הרהר ‎(hirhér),  Russian: размышля́ть ,  impf ‎(razmyšljátʹ),  ponder,  /ˈpɒn.də(ɹ)/
-German:,  Pontifikat,  n,  Russian:,  понтифика́т,  ‎(pontifikát),  pontificate,  /pɒnˈtɪfɪkət/
-Mandarin: 贫穷 ,  ‎(pínqióng),  German: arm ,  Hebrew: עני ,  ‎(ani),  Persian: فقیر ,  ‎(faqir),  Russian: бе́дный ,  m ‎(bédnyj),  poor,  /pɔə/
+German:,  Pontifikat,   Russian:,  понтифика́т,  ‎(pontifikát),  pontificate,  /pɒnˈtɪfɪkət/
+Mandarin: 贫穷 ,  ‎(pínqióng),  German: ar ,  Hebrew: עני ,  ‎(ani),  Persian: فقیر ,  ‎(faqir),  Russian: бе́дный ,   ‎(bédnyj),  poor,  /pɔə/
 Russian:,  хлопо́к,  ‎(xlopók),  pop,  /pɒp/
 Mandarin:教皇 ,  ‎(jiàohuáng),  German:,  Papst,  (hypothetical,  Hebrew:,  אפיפיור,  ‎(apifyor),  Persian:,  پاپ,  ‎(pâp),  
 Russian:,  па́па,  ‎(pápa,  pope,  /pəʊp/
-Mandarin:,  民众,  ‎(mínzhòng),  German:,  gemeine Volk ,  Russian:,  просто́й наро́д m ‎(prostój naród),  populace,  /ˈpɒpjʊləs/
-Mandarin:, 名望 ,  ‎(míngwàng), German: Popularität ,  Russian: популя́рность ,  f ‎(populjárnostʹ),  popularity,  /ˌpɒp.jəˈlæɹ.ɪ.ti/
+Mandarin:,  民众,  ‎(mínzhòng),  German:,  gemeine Volk ,  Russian:,  просто́й наро́д  ‎(prostój naród),  populace,  /ˈpɒpjʊləs/
+Mandarin:, 名望 ,  ‎(míngwàng), German: Popularität ,  Russian: популя́рность ,  ‎(populjárnostʹ),  popularity,  /ˌpɒp.jəˈlæɹ.ɪ.ti/
 Russian:,  загла́тывать,  ‎(zaglátyvatʹ),  quaff,  /kwɒf/
 Russian:,  пасова́ть ,  ‎(pasovátʹ),  quail,  /ˈkweɪl/
-Mandarin:,  质量,  ‎(zhìliàng),  German: Qualität,  Hebrew: איכות ,  f ‎(ikhut),  Persian: کیفیت ,  ‎(keyfiyat),  Russian: ка́чество ,  n ‎(káčestvo),  quality,  /ˈkwɒlɪti/
+Mandarin:,  质量,  ‎(zhìliàng),  German: Qualität,  Hebrew: איכות ,  ‎(ikhut),  Persian: کیفیت ,  ‎(keyfiyat),  Russian: ка́чество ,  ‎(káčestvo),  quality,  /ˈkwɒlɪti/
 Mandarin:数量 ,  ‎(shùliàng),  German:,  Quantität, Russian:,  коли́чество,  ‎(kolíčestvo),  quantity,  /ˈkwɑndədi/
-Mandarin:  夸克 (kuā kè),  German: Quark,  Persian: کوارک ‎(kuārk),  Russian: кварк ,  m ‎(kvark),  quark,  /kwɔːk/
-Mandarin:四分之一 ,  ‎(sì fēn zhī yī),  German: Viertel,  Persian: چارک ,  ‎(čârak),  Russian: че́тверть ,  f ‎(čétvertʹ),  quarter,  /ˈkwɔːtə/
-Mandarin:,  类星体 ‎(lèixīngtǐ),  German: Quasar ,  Russian: кваза́р ,  m ‎(kvazár),  quasar,  /ˈkweɪ.zɑː/
+Mandarin:  夸克 (kuā kè),  German: Quark,  Persian: کوارک ‎(kuārk),  Russian: кварк ,   ‎(kvark),  quark,  /kwɔːk/
+Mandarin:四分之一 ,  ‎(sì fēn zhī yī),  German: Viertel,  Persian: چارک ,  ‎(čârak),  Russian: че́тверть ,  ‎(čétvertʹ),  quarter,  /ˈkwɔːtə/
+Mandarin:,  类星体 ‎(lèixīngtǐ),  German: Quasar ,  Russian: кваза́р ,   ‎(kvazár),  quasar,  /ˈkweɪ.zɑː/
 Mandarin: 碼頭,  码头 ,  ‎(mǎtóu),  German:,  Kai,   Hebrew:,  מֶזַח,  ‎(mézakh),  Russian:,  на́бережная,  ‎(náberežnaja),  quay,  /kʰiː/
-Mandarin: 女王 ,  ‎(nǚwáng),  German: Königin,  Hebrew: מַלְכָּה ,  f ‎(malka),  Persian: ملکه ,  ‎(maleké),  Russian: короле́ва ,  f ‎(koroléva),  queen,  /kwiːn/
+Mandarin: 女王 ,  ‎(nǚwáng),  German: Königin,  Hebrew: מַלְכָּה ,  ‎(malka),  Persian: ملکه ,  ‎(maleké),  Russian: короле́ва ,  ‎(koroléva),  queen,  /kwiːn/
 Mandarin:探索 ,  ‎(tànsuǒ),  German:,  Suche,  Queste,  Russian:,  по́иск,  ‎(póisk),  quest,  /kwɛst/
 Mandarin:,  问题,  ‎(wèntí),  German:,  Frage,  Anfrage,  Hebrew:,  שאלה,  ‎(she'ela),  Persian:,  پرسش,  ‎(porseš),  Russian:,  вопро́с,  ‎(voprós),  question,  /ˈkwɛstʃən/
 Russian:,  мо́лвить,  ‎(mólvitʹ),  quethe,  /kwiːð/
@@ -1832,83 +1833,83 @@ Mandarin:, 快 ,  ‎(kuài),  German:,  schnell,  , ,  Persian:,  فرز,  ‎(
 Mandarin:迅速地 ,  ‎(xùnsù de),  German:,  schnell,  Hebrew: מהר ,  ‎(mahér),  Persian: تند ,  ‎(tond),  Russian: бы́стро ,  ‎(býstro),  quickly,  /ˈkwɪkli/
 Mandarin:,  安静,  ‎(ānjìng),  German:,  still,  Hebrew: שֶׁקֶט ,  ‎(shakét),  Persian: خاموش ,  ‎(xâmuš),  Russian: ти́хий ,  ‎(tíxij),  quiet,  /ˈkwaɪət/
 Mandarin:悄悄地 ,  ‎(qiāoqiāo de),  German:,  ruhig,  , ,  Russian:,  ти́хо,  (tíxo),  quietly,  /ˈkwaɪ.ɪt.li/
-Mandarin:, 榅桲 ‎(wēnpo), German: Quitte,  Persian: به ,  ‎(beh),  Russian: айва́ ,  f ‎(ajvá),  quince,  /kwɪns/
+Mandarin:, 榅桲 ‎(wēnpo), German: Quitte,  Persian: به ,  ‎(beh),  Russian: айва́ ,  ‎(ajvá),  quince,  /kwɪns/
 Russian:,  причу́да,  ‎(pričúda),  quirk,  /kwɜːk/
 Mandarin:走 ,  ‎(zǒu),  German: verlassen,  Russian: уходи́ть ,  impf ‎(uxodítʹ),  quit,  /kwɪt/
-Mandarin:,  测验 ,  ‎(cèyàn),  German:,  Quiz,  Persian: کوئیز ‎(kuiz),  Russian: виктори́на ,  f ‎(viktorína),  quiz,  /kwɪz/
+Mandarin:,  测验 ,  ‎(cèyàn),  German:,  Quiz,  Persian: کوئیز ‎(kuiz),  Russian: виктори́на ,  ‎(viktorína),  quiz,  /kwɪz/
 Russian:,  тюрьма́,  ‎(tjurʹmá),  quod,  /ˈkwɒd/
-Mandarin:法定人数 ‎(fǎdìng rénshù),  German: Quorum,  Russian: кво́рум ,  m ‎(kvórum),  quorum,  /ˈkwɔː.rəm/
-Mandarin:引用 ,  ‎(yǐnyòng),  German: Zitat,  Hebrew: צִטּוּט ,  f ‎(tsitut),  Russian: цита́та ,  f ‎(citáta),  quotation,  /ˈkweɪʃən
+Mandarin:法定人数 ‎(fǎdìng rénshù),  German: Quorum,  Russian: кво́рум ,   ‎(kvórum),  quorum,  /ˈkwɔː.rəm/
+Mandarin:引用 ,  ‎(yǐnyòng),  German: Zitat,  Hebrew: צִטּוּט ,  ‎(tsitut),  Russian: цита́та ,  ‎(citáta),  quotation,  /ˈkweɪʃən
 Russian: ежедне́вный ,  ‎(ježednévnyj),  quotidian,  /kwəˈtɪdɪən/
-Mandarin:商 ,  ‎(shāng),  German: Quotient,  Russian: ча́стное ,  n ‎(částnoje),  quotient,  /ˈkwəʊʃənt/
+Mandarin:商 ,  ‎(shāng),  German: Quotient,  Russian: ча́стное ,  ‎(částnoje),  quotient,  /ˈkwəʊʃənt/
 Mandarin: 兔子 ,  ‎(tùzi),  German:,  Kaninchen,  Karnickel,  Hebrew:,  אַרְנָב,  ‎(arnáv),  Persian:,  خرگوش,  ‎(xarguš),  Russian:,  кро́лик,  ‎(królik),  rabbit,  /ˈræbɪt/
 Russian:,  толпа́,  ‎(tolpá),  rabble,  /ˈɹæbəl/
-Mandarin:竞赛 ‎(jìngsài),  German: Rennen,  Russian: го́нка ,  f ‎(gónka),  race,  /ɹeɪs/
-Mandarin:种族主义者 ,  ‎(zhǒngzúzhǔyìzhě),  German:,  Rassist,  Rassistin, Hebrew: גִּזְעָן m ‎(gíze'án),  Russian:,  раси́ст,  ‎(rasíst),  racist,  /ɹɹɪst
-Mandarin: 球拍 ,  ‎(qiúpāi),  German: Schläger,  Russian: раке́тка ,  f ‎(rakétka),  racket,  /ˈɹækɪt/
+Mandarin:竞赛 ‎(jìngsài),  German: Rennen,  Russian: го́нка ,  ‎(gónka),  race,  /ɹeɪs/
+Mandarin:种族主义者 ,  ‎(zhǒngzúzhǔyìzhě),  German:,  Rassist,  Rassistin, Hebrew: גִּזְעָן  ‎(gíze'án),  Russian:,  раси́ст,  ‎(rasíst),  racist,  /ɹɹɪst
+Mandarin: 球拍 ,  ‎(qiúpāi),  German: Schläger,  Russian: раке́тка ,  ‎(rakétka),  racket,  /ˈɹækɪt/
 Mandarin:,  无线电,  ‎(wúxiàndiàn),  German:,  Funk,  Hebrew:,  רדיו,  ‎(rá'dio),  Persian:,  ر‌اديو,  ‎(râdio),  Russian:,  ра́дио,  ‎(rádio),  radio,  /ˈɹeɪdiˌəʊ/
-Mandarin:,  黑貂 ,  ‎(hēidiāo),  German: Zobel ,  Persian: سمور ,  ‎(samōr),  Russian: со́боль ,  m ‎(sóbolʹ),  sable,  /ˈseɪbəl/
-Mandarin:佩剑 ,  ‎(pèijiàn),  German: Säbel,  Russian: са́бля ,  f ‎(sáblja),  sabre,  /ˈseɪ.bə(ɹ)/
+Mandarin:,  黑貂 ,  ‎(hēidiāo),  German: Zobel ,  Persian: سمور ,  ‎(samōr),  Russian: со́боль ,   ‎(sóbolʹ),  sable,  /ˈseɪbəl/
+Mandarin:佩剑 ,  ‎(pèijiàn),  German: Säbel,  Russian: са́бля ,  ‎(sáblja),  sabre,  /ˈseɪ.bə(ɹ)/
 Mandarin:,  ‎袋 ,  ‎(dài),  German:,  Sack,  Papiersack,  Hebrew:,  שַׂק,  ‎(sak),  Persian:,  کیسه,  ‎(kise),  Russian:,  мешо́к,  ‎(mešók),  sack,  /sæk/
 Mandarin:,  神圣,  ‎(shénshèng),  German: heilig,  Persian: مقدس ,  ‎(moqaddas),  Russian: свято́й ,  ‎(svjatój),  sacred,  /ˈseɪkrɪd/
 Mandarin:,  牺牲,  ‎(xīshēng), German: opfern,  Russian: же́ртвовать ,  impf ‎(žértvovatʹ),   sacrifice,  /ˈsækɹɪfaɪs/
-Mandarin:,  鞍 ,  ‎(ān),  German: Sattel , Persian: زین ,  ‎(zin),  Russian: седло́ ,  n ‎(sedló),  saddle,  /ˈsædl̩/
-Mandarin:,  狩猎远征 ‎(shòuliè yuǎnzhēng),  German: Safari ,  Russian: сафа́ри ,  n ‎(safári),  safari,  /səˈfɑː(ɹ).i/
+Mandarin:,  鞍 ,  ‎(ān),  German: Sattel , Persian: زین ,  ‎(zin),  Russian: седло́ ,  ‎(sedló),  saddle,  /ˈsædl̩/
+Mandarin:,  狩猎远征 ‎(shòuliè yuǎnzhēng),  German: Safari ,  Russian: сафа́ри ,  ‎(safári),  safari,  /səˈfɑː(ɹ).i/
 Mandarin:,  ‎安全 ,  ‎(ānquán),  German:,  Sicherheit,  Gefahrlosigkeit,  Hebrew:,  בִּטָחוֹן,  ‎(bitakhón),  Persian:,  امنیت,  ‎(amniyyat),  Russian:,  безопа́сность,  ‎(bezopásnostʹ),  safety,  /ˈseɪfti/
-German: Saga, Russian: са́га ,  f ‎(sága),  saga,  /ˈsɑːɡə/
-Mandarin: 西米 ,  ‎(ximǐ),  German: Sago,  Russian: са́го ,  n ‎(ságo),  sago,  /ˈseɪɡəʊ
+German: Saga, Russian: са́га ,  ‎(sága),  saga,  /ˈsɑːɡə/
+Mandarin: 西米 ,  ‎(ximǐ),  German: Sago,  Russian: са́го ,  ‎(ságo),  sago,  /ˈseɪɡəʊ
 Persian:,  مذکور,  ‎(mazkur),  Russian:,  упомя́нутый,  (upomjánutyj),  said,  /sɛd/
-Mandarin:,  ‎ 帆 ,  ‎(fān),  German: Segel,  Hebrew: מפרש ,  m ‎(mifrás),  Persian: بادبان ,  ‎(bâdbân),  Russian: па́рус ,  m ‎(párus),  sail,  /seɪl/
+Mandarin:,  ‎ 帆 ,  ‎(fān),  German: Segel,  Hebrew: מפרש ,   ‎(mifrás),  Persian: بادبان ,  ‎(bâdbân),  Russian: па́рус ,   ‎(párus),  sail,  /seɪl/
 Mandarin:,  水手 ,  ‎(shuǐshǒu),  German:,  Matrose,  Seemann,  Hebrew:,  מלח,  ‎(malaħ),  Persian:,  ملاح,  ‎(malah),  Russian:,  матро́с,  ‎(matrós),  sailor,  /ˈseɪlɚ/
 Mandarin:, 圣人 ,  ‎(shèngrén),  German:,  Heiliger,  Heilige,  Persian:,  مقدس,  ‎(moqaddas),  Russian:,  свято́й,  ‎(svjatój),  saint,  /seɪnt/
 Russian:,  причи́на,  ‎(pričína),  sake,  /seɪk/
-Mandarin: 沙拉 ,  ‎(shālā),  German: Salat,  Hebrew: סָלָט ,  m ‎(salát),  Persian: سالاد ,  ‎(sâlâd),  Russian: сала́т ,  m ‎(salát),  salad,  /ˈsaləd/
-Mandarin:,  蝾螈,  ‎(róngyuán), German: Salamander,  Russian: салама́ндра ,  f ‎(salamándra),  salamander,  /ˈsæləˌmændə/
-Mandarin:,  ‎萨拉米 ‎(sàlāmǐ),  German: Salami ,  Russian: саля́ми ,  f ‎(saljámi),  salami,  /ˈslɑːmi/
-Mandarin:,  薪金 ,  ‎(xīnjīn),  German: Gehalt ,  Hebrew: משכורת ,  f ‎(maskoret),  Russian: за́работная пла́та ,  f ‎(zárabotnaja , áta),  зарпла́та ,  f ‎(zar, áta),  жа́лование ,  n ‎(žálovanije),  salary,  /ˈsæləɹi/
+Mandarin: 沙拉 ,  ‎(shālā),  German: Salat,  Hebrew: סָלָט ,   ‎(salát),  Persian: سالاد ,  ‎(sâlâd),  Russian: сала́т ,   ‎(salát),  salad,  /ˈsaləd/
+Mandarin:,  蝾螈,  ‎(róngyuán), German: Salamander,  Russian: салама́ндра ,  ‎(salamándra),  salamander,  /ˈsæləˌmændə/
+Mandarin:,  ‎萨拉米 ‎(sàlāmǐ),  German: Salami ,  Russian: саля́ми ,  ‎(saljámi),  salami,  /ˈslɑːmi/
+Mandarin:,  薪金 ,  ‎(xīnjīn),  German: Gehalt ,  Hebrew: משכורת ,  ‎(maskoret),  Russian:  жа́лование ,  ‎(žálovanije),  salary,  /ˈsæləɹi/
 Persian:,  برجسته,  ‎(barjaste),  salient,  /ˈseɪljənt/
 German:,  speicheln,  sabbern,  Russian: вызыва́ть слюнотечение ‎(vyzyvátʹ sljunotečenije),  salivate,  /ˈsælɪveɪt/
-Mandarin:  三文鱼 ,  ‎(sānwényú),  Hebrew: סַלְמוֹן m ‎(sálmon),  Persian: ماهی آزاد ‎(mâhi-âzâd),  Russian: лосо́сь ,  m ‎(losósʹ),  salmon,  /ˈsæmən/
+Mandarin:  三文鱼 ,  ‎(sānwényú),  Hebrew: סַלְמוֹן  ‎(sálmon),  Persian: ماهی آزاد ‎(mâhi-âzâd),  Russian: лосо́сь ,   ‎(losósʹ),  salmon,  /ˈsæmən/
 Russian:,  салу́н,  ‎(salún),  saloon,  /səˈlun/
 Mandarin:,  盐,  ‎(yán),  German:,  Salz,  Kochsalz,  Hebrew:,  מֶלַח,  ‎(mélakh),  Persian:,  نمک,  ‎(namak),  Russian:,  соль,  ‎(solʹ),  salt,  /sɔːlt/
 Mandarin: 救恩 ,  ‎(jiù'ēn),  German:,  Erlösung,  Rettung,  salvation,  /sælˈveɪʃən/
 German:,  Salbe,  Balsam,  Russian:,  мазь,  ‎(mazʹ),  salve,  /sælv/
-Mandarin:,  釤,  ‎(shàn),  German: Samarium ,  Hebrew: סמריום ,  ‎(samáryum),  Russian: сама́рий ,  m ‎(samárij),  samarium,  /sa.ma.ʁjɔm/
+Mandarin:,  釤,  ‎(shàn),  German: Samariu ,  Hebrew: סמריום ,  ‎(samáryum),  Russian: сама́рий ,   ‎(samárij),  samarium,  /sa.ma.ʁjɔm/
 Mandarin: 同一 ,  ‎(tóngyī),  German:,  selbe,  , ,  Persian:,  یکسان,  ‎(yeksân),  Russian: одина́ковый ,  ‎(odinákovyj),  same,  /seɪm/
-Mandarin:批准 ,  ‎(pīzhǔn),  German:,  Billigung,  f,  Russian:,  са́нкция,  ‎(sánkcija),  sanction,  /ˈsæŋkʃən/
+Mandarin:批准 ,  ‎(pīzhǔn),  German:,  Billigung,   Russian:,  са́нкция,  ‎(sánkcija),  sanction,  /ˈsæŋkʃən/
 Mandarin: 沙 ,  ‎(shā),  German:,  Sand,  Hebrew:,  חול,  ‎(khól),  Persian:,  شن,  ‎(šen),  Russian:,  песо́к,  ‎(pesók),  sand,  /sænd/
-Mandarin: 三明治 ,  ‎(sānmíngzhì),  German:,  belegtes, Hebrew: כריך ‎(karikh),   Russian: са́ндвич ,  m ‎(sándvič),  sandwich,  /ˈsænwɪdʒ/
-Mandarin:汁 ,  ‎(shī),  German: Saft,  Hebrew: שרף m ‎(saraf),  Persian: شیره ,  ‎(šire),  Russian: сок ,  m ‎(sok),  sap,  /sæp/
-Mandarin:,  蓝宝石,  ‎(lánbǎoshí),  German: Saphir,  Hebrew: ספיר ,  m ‎(safīr),  Russian: сапфи́р ,  m ‎(sapfír),  sapphire,  /ˈsæf.aɪ.ə(ɹ)/
-Mandarin:  沙丁鱼 ,  ‎(shādīngyú),  German: Sardine,  Hebrew: סלתנית ‎(saltanit),  Russian: сарди́на ,  f ‎(sardína),  sardine,  /saʁ.din/
+Mandarin: 三明治 ,  ‎(sānmíngzhì),  German:,  belegtes, Hebrew: כריך ‎(karikh),   Russian: са́ндвич ,   ‎(sándvič),  sandwich,  /ˈsænwɪdʒ/
+Mandarin:汁 ,  ‎(shī),  German: Saft,  Hebrew: שרף  ‎(saraf),  Persian: شیره ,  ‎(šire),  Russian: сок ,   ‎(sok),  sap,  /sæp/
+Mandarin:,  蓝宝石,  ‎(lánbǎoshí),  German: Saphir,  Hebrew: ספיר ,   ‎(safīr),  Russian: сапфи́р ,   ‎(sapfír),  sapphire,  /ˈsæf.aɪ.ə(ɹ)/
+Mandarin:  沙丁鱼 ,  ‎(shādīngyú),  German: Sardine,  Hebrew: סלתנית ‎(saltanit),  Russian: сарди́на ,  ‎(sardína),  sardine,  /saʁ.din/
 German:,  hämisch,  , ,  Persian:,  زهرخنده,  ‎(zahrxande),  Russian: сардони́ческий ,  ‎(sardoníčeskij),  sardonic,  /saːˈdɔnɪk/
-Mandarin: 沙茶 ,  ‎(shāchá),  German: Satay,  Russian: сата́й m ‎(satáj),  satay,  /ˈsæt.eɪ/
+Mandarin: 沙茶 ,  ‎(shāchá),  German: Satay,  Russian: сата́й  ‎(satáj),  satay,  /ˈsæt.eɪ/
 Mandarin:随从 ,  ‎(suícóng),  German:,  Begleiter,  satellite,  /ˈsætəlaɪt/
-Mandarin:,  满意,  ‎(mǎnyì),  Russian: удовлетворе́ние ,  n ‎(udovletvorénije),  satisfaction,  /sætɪsˈfækʃən/
+Mandarin:,  满意,  ‎(mǎnyì),  Russian: удовлетворе́ние ,  ‎(udovletvorénije),  satisfaction,  /sætɪsˈfækʃən/
 Mandarin:,  满意,  ‎(mǎnyì),  German: zufrieden ,  Persian: خشنود ,  ‎(xošnud),  Russian: дово́льный ,  ‎(dovólʹnyj),  satisfied,  /ˈsætɪsfaɪd/
-Mandarin: 桌子 ,  ‎(zhuōzi),  German: Tisch,  Hebrew: שולחן ,  m ‎(shulkhán),  Persian: میز ,  ‎(miz),  Russian: стол ,  m ‎(stol),  table,  /ˈteɪbəl/
-Mandarin:沉默 ,  ‎(chénmò),  German:,  schweigsam,  , ,  Persian: کم حرف ,  ‎(kam harf),  Russian:,  молчали́вый,  (molčalívyj),  taciturn,  /ˈtæsɪtɜːn/
-Mandarin:,  机智 ,  ‎(jīzhì),  German: Takt,  Russian: такт ,  m ‎(takt),  tact,  /ˈtækt/
-Mandarin:,  战术,  ‎(zhànshù),  German: Taktik,  Persian: تاکتیک ,  ‎(tâktik),  Russian: та́ктика ,  f ‎(táktika),  tactic,  /ˈtæktɪk/
-Mandarin: 跆拳道 ,  ‎(táiquándào),  German: Taekwondo,  Persian: تکواندو ,  ‎(tekvândo),  Russian: тхэквондо́ ,  n ‎(txekvondó),  taekwondo,  /taj.ˈkon.do
+Mandarin: 桌子 ,  ‎(zhuōzi),  German: Tisch,  Hebrew: שולחן ,   ‎(shulkhán),  Persian: میز ,  ‎(miz),  Russian: стол ,   ‎(stol),  table,  /ˈteɪbəl/
+Mandarin:沉默 ,  ‎(chénmò),  German:,  schweigsam,  , ,  Persian: کم حرف ,  ‎(ka harf),  Russian:,  молчали́вый,  (molčalívyj),  taciturn,  /ˈtæsɪtɜːn/
+Mandarin:,  机智 ,  ‎(jīzhì),  German: Takt,  Russian: такт ,   ‎(takt),  tact,  /ˈtækt/
+Mandarin:,  战术,  ‎(zhànshù),  German: Taktik,  Persian: تاکتیک ,  ‎(tâktik),  Russian: та́ктика ,  ‎(táktika),  tactic,  /ˈtæktɪk/
+Mandarin: 跆拳道 ,  ‎(táiquándào),  German: Taekwondo,  Persian: تکواندو ,  ‎(tekvândo),  Russian: тхэквондо́ ,  ‎(txekvondó),  taekwondo,  /taj.ˈkon.do
 Mandarin:裁缝 ,  ‎(cáifeng),  German:,  Schneider,  Persian:,  درزی,  ‎(darzi),  Russian:,  портно́й,  ‎(portnój),  tailor,  /ˈteɪlɚ/
 Mandarin: 拿 ,  ‎(ná),  German:,  nehmen,  Hebrew: לָקַח ,  ‎(lakákh),  Persian: گرفتن ,  ‎(gereftan),  Russian: брать ,  impf ‎(bratʹ),  take,  /teɪk/
-Mandarin:护符 ,  ‎(hùfú), German: Talisman, Persian: طلسم ,  ‎(telesm),  Russian: талисма́н ,  m ‎(talismán),  talisman,  /ˈtæl.ɪsˌmæn/
-Mandarin:,  谈话,  ‎(tánhuà), German: Gespräch,  Russian: разгово́р ,  m ‎(razgovór),  talk,  /tɔːk/
-Mandarin: 高 ,  ‎(gāo),  German: groß,  Hebrew: גָּבוֹהַּ , Persian: بلند ,  ‎(boland), Russian: высо́кий ,  ‎(vysókij),  ‎(gavóah),  tall,  /tɔːl/
-Mandarin:爪子 ,  ‎(zhuǎzi),  German: Klaue,  Russian: ко́готь ,  m ‎(kógotʹ),  talon,  /tælən
+Mandarin:护符 ,  ‎(hùfú), German: Talisman, Persian: طلسم ,  ‎(telesm),  Russian: талисма́н ,   ‎(talismán),  talisman,  /ˈtæl.ɪsˌmæn/
+Mandarin:,  谈话,  ‎(tánhuà), German: Gespräch,  Russian: разгово́р ,   ‎(razgovór),  talk,  /tɔːk/
+Mandarin: 高 ,  ‎(gāo),  German: groß,  Hebrew: גָּבוֹהַּ , (gavóah), Persian: بلند ,  ‎(boland), Russian: высо́кий ,  ‎(vysókij),  ‎,  tall,  /tɔːl/
+Mandarin:爪子 ,  ‎(zhuǎzi),  German: Klaue,  Russian: ко́готь ,   ‎(kógotʹ),  talon,  /tælən
 Russian:,  о́сыпь,  ‎(ósypʹ),  talus,  /ˈteɪləs/
 Russian:,  пя́льцы,  (pjálʹcy),  tambour,  /tɑ̃.buʁ/
 Mandarin:驯服的 ,  ‎(xúnfú de),  German: zahm,  Russian: приручённый ,  ‎(priručónnyj),  tame,  /teɪm/
-German: Tampon,  Russian: тампо́н ,  m ‎(tampón),  tampon,  [ˈtʰæmpʰɔn]
+German: Tampon,  Russian: тампо́н ,   ‎(tampón),  tampon,  [ˈtʰæmpʰɔn]
 Russian:,  прима́нивать,  (primánivatʹ),  tantalize,  /ˈtæntəlaɪz/
-Mandarin:发脾气 ,  ‎(fā píqi),  German:,  Wutanfall,  Russian: исте́рика ,  f ‎(istérika),  tantrum,  /ˈtæntɹəm/
+Mandarin:发脾气 ,  ‎(fā píqi),  German:,  Wutanfall,  Russian: исте́рика ,  ‎(istérika),  tantrum,  /ˈtæntɹəm/
 Mandarin:,  塔蘭苔拉,  ‎(Tǎlántáilā),  Russian:,  тарантелла,  ‎(tarantella),  tarantella,  /ˌtɛrənˈtɛlə/
-Mandarin:,  标的,  ‎(biāodì),  Hebrew: מטרה ‎(matara),  Russian: мише́нь ,  f ‎(mišénʹ),  target,  /ˈtɑɹɡɪt/
+Mandarin:,  标的,  ‎(biāodì),  Hebrew: מטרה ‎(matara),  Russian: мише́нь ,  ‎(mišénʹ),  target,  /ˈtɑɹɡɪt/
 German:,  sauer,  , ,  Persian:,  ترش,  ‎(torš),  Russian:,  те́рпкий,  (térpkij),  tart,  /ˈtɑː(r)t/
 German:,  Aufgabe,  Pflicht,  Persian:,  کار,  ‎(kaar),  Russian:,  зада́ние,  ‎(zadánije),  task,  /tɑːsk/
 Mandarin: 味道 ,  ‎(wèidao),  German:,  Geschmack,  Persian:,  طعم,  ‎(ta'm),  Russian:,  вкус,  ‎(vkus),  taste,  /teɪst/
-Mandarin:,  税,  ‎(shuì), German: Steuer,  Persian: مالیات ,  ‎(mâliyât),  Russian: нало́г ,  m ‎(nalóg),  tax,  /tæks/
+Mandarin:,  税,  ‎(shuì), German: Steuer,  Persian: مالیات ,  ‎(mâliyât),  Russian: нало́г ,   ‎(nalóg),  tax,  /tæks/
 German:,  Taxi,  Taxe,  Hebrew:,  מונית,  ‎(monít),  Persian:,  تاکسی,  ‎(tâksi),  Russian:,  такси́,  ‎(taksí),  taxi,  /ˈtæk.si/
 Mandarin:,  茶叶 ,  ‎(cháyè),  German:,  Teeblatt,  Teeblätter,  Persian:,  چای,  ‎(čây),  Russian:,  чай,  ‎(čaj),  tea,  /tiː/
 Mandarin:,   教师 ,  ‎(jiàoshī),  German:,  Lehrer,  Hebrew:,  מורה,  ‎(more),  Persian:,  آموزگار,  ‎(âmuzgâr),  
@@ -1916,9 +1917,9 @@ Russian:,  учи́тель,  ‎(učítelʹ),  teacher,  /ˈtitʃɚ/
 Russian:,  упря́жка,  ‎(uprjážka),  team,  /tiːm/
 Mandarin:撕破 ,  ‎(sīpò),  German:,  reißen,  , ,  Persian: دریدن ,  ‎(daridan),  Russian:,  рвать,  ‎(rvatʹ),  tear,  /tɛə/
 Russian:,  чеса́ть,  ‎(česátʹ),  tease,  /tiːz/
-Russian:дразни́лка ,  f ‎(draznílka),  teaser,  /tiːzə(r)
-German:,  technisch,  Russian: техни́ческий ,  m ‎(texníčeskij),  technical,  /ˈtɛk.nɪk.əl/
-Mandarin:,  技术,  ‎(jìshù),  German: Technik,  Hebrew: טֶכְנִיקָה ,  f ‎(tékhnika),  Persian: تکنیک ,  ‎(teknik),  Russian: те́хника ,  f ‎(téxnika),  technique,  /tɛkˈniːk/
+Russian:дразни́лка ,  ‎(draznílka),  teaser,  /tiːzə(r)
+German:,  technisch,  Russian: техни́ческий ,   ‎(texníčeskij),  technical,  /ˈtɛk.nɪk.əl/
+Mandarin:,  技术,  ‎(jìshù),  German: Technik,  Hebrew: טֶכְנִיקָה ,  ‎(tékhnika),  Persian: تکنیک ,  ‎(teknik),  Russian: те́хника ,  ‎(téxnika),  technique,  /tɛkˈniːk/
 Russian:,  бе́дствие,  ‎(bédstvije),  teen,  /tiːn/
 Russian:,  телефо́н,  ‎(telefón),  tel,  /teːl/
 Mandarin:,  电报,  ‎(diànbào),  telegram,  /ˈtɛləˌɡɹæm/
@@ -1928,18 +1929,18 @@ Mandarin:,  望远镜,  ‎(wàngyuǎnjìng),  German:,  Teleskop,  Fernrohr,  H
 Mandarin: 電电视 ,  ‎(diànshì),  German:,  FTelevision,  Hebrew:,  טלוויזיה,  ‎(televizia),  Persian:,  تلویزیون,  ‎(televizion),  Russian:,  телеви́дение,  ‎(televídenije),  television,  /ˈtɛlɪˌvɪʒən/
 Mandarin:,  告诉,  ‎(gàosu),  German:,  sagen,  , ,  Hebrew:אמר ,  ‎(amár),  Russian:,  ‎(govorítʹ),  tell,  /tɛl/
 German:,  Erzähler,  Erzählerin,  Russian:,  расска́зчик,  ‎(rasskázčik),  teller,  /ˈtɛlə/
-German:,  Kühnheit,  f,  Russian:,  де́рзость,  ‎(dérzostʹ),  temerity,  /tɪˈmɛɹəti/
+German:,  Kühnheit,   Russian:,  де́рзость,  ‎(dérzostʹ),  temerity,  /tɪˈmɛɹəti/
 Mandarin:脾气 ,  ‎(píqi),  German:,  Gereiztheit,  , ,  Russian:,  нрав,  ‎(nrav),  temper,  /tɛmpə(ɹ)
-Mandarin:模板 ,  ‎(múbǎn),  German:,  Schablone,  Hebrew:,  תבנית,  ‎(tavnít),  Persian:,  قالب,  ‎(qâleb),  Russian:,  шабло́н,  ‎(šablón),  tem, ate,  /ˈtɛmp.lət/
-Mandarin: 寺庙 ,  ‎(sìmiào),  German: Tempel,  Hebrew: מִקְדָּשׁ ,  m ‎(miqdash),  Persian: کده ,  ‎(kade),  Russian: храм ,  m ‎(xram),  tem, e,  /ˈtɛmp(ə)l/
+Mandarin:模板 ,  ‎(múbǎn),  German:,  Schablone,  Hebrew:,  תבנית,  ‎(tavnít),  Persian:,  قالب,  ‎(qâleb),  Russian:,  шабло́н,  ‎(šablón),  template,  /ˈtɛmp.lət/
+Mandarin: 寺庙 ,  ‎(sìmiào),  German: Tempel,  Hebrew: מִקְדָּשׁ ,   ‎(miqdash),  Persian: کده ,  ‎(kade),  Russian: храм ,   ‎(xram),  temple,  /ˈtɛmp(ə)l/
 Russian:,  темп,  ‎(temp),  tempo,  /ˈtɛm.pəʊ/
 Mandarin:,  诱惑,  ‎(yòuhuò),  German:,  Versuchung,  Verführung,  Russian:,  искуше́ние,  ‎(iskušénije),  temptation,  /tɛmpˈteɪʃən/
-Mandarin: 十 ,  ‎(shí),  German:,  zehn,  German:,  Hebrew:,  עֶשֶׂר,  ,  Persian:,  ده,  ‎(dah),  Russian:,  де́сять,  (désjatʹ),  ten,  /tɛn/
+Mandarin: 十 ,  ‎(shí),  German:,  zehn,  German:,  Hebrew:,  עֶשֶׂר, (sr) ,  Persian:,  ده,  ‎(dah),  Russian:,  де́сять,  (désjatʹ),  ten,  /tɛn/
 Russian:,  поджига́ть,  ‎(podžigátʹ),  tend,  /tɛnd/
 German:,  zart,  , ,  Russian:,  не́жный,  (néžnyj),  tender,  /ˈtɛn.də(ɹ)/
-Mandarin:,  网球,  ‎(wǎngqiú),  German: Tennis,  Hebrew: טֶנִיס ,  m ‎(tenis),  Persian: تنیس ,  ‎(tenis),  Russian: те́ннис ,  m ‎(tɛ́nnis),  tennis,  /ˈtɛ.nɪs/
+Mandarin:,  网球,  ‎(wǎngqiú),  German: Tennis,  Hebrew: טֶנִיס ,   ‎(tenis),  Persian: تنیس ,  ‎(tenis),  Russian: те́ннис ,   ‎(tɛ́nnis),  tennis,  /ˈtɛ.nɪs/
 Mandarin:时态 ,  ‎(shítài),  German:,  Zeit,  Russian:,  вре́мя,  ‎(vrémja),  tense,  /tɛns/
-Mandarin:不安 ,  ‎(bù'ān),  German: Spannung,  Russian: напряжённость ,  f ‎(naprjažónnostʹ),  tension,  /ˈtɛnʃən/
+Mandarin:不安 ,  ‎(bù'ān),  German: Spannung,  Russian: напряжённость ,  ‎(naprjažónnostʹ),  tension,  /ˈtɛnʃən/
 German:,  vorläufig,  , ,  Russian:,  про́бный ,  ‎(próbnyj),  tentative,  /ˈtɛntətɪv/
 Mandarin:,  恶心,  ‎(ěxin),  German:,  igitt,  , ,  Hebrew:,  איכס,  ‎(fui),  ugh,  /ɯx/
 Mandarin:难看 ,  ‎(nánkàn),  German: hässlich,  Hebrew: מכוער ,  ‎(m'kho'ár),  Persian: زشت ,  ‎(zešt),  Russian: безобра́зный ,  ‎(bezobráznyj),  ugly,  /ˈʌɡli/
@@ -1947,9 +1948,9 @@ Mandarin:  伞 ,  ‎(sǎn),  German:,  Schirm,  Sonnenschirm,  Hebrew:,  מטר
 Mandarin:不能 (bù néng),  Russian: неспосо́бный ,  ‎(nesposóbnyj),  unable,  /ʌnˈeɪbəl/
 Russian:,  единогла́сный,  ‎(jedinoglásnyj),  unanimous,  /juːˈnanɪməs/
 Russian:,  комо́к,  ‎(komók),  wad,  /ˈwɒd/
-German:,  watschelnder,  m,  waddle,  /ˈwɒd.əl/
+German:,  watschelnder,    waddle,  /ˈwɒd.əl/
 Mandarin: 威化饼 ‎(wēihuàbǐng),  German:,  Oblate,  Waffel,  Russian:,  ва́фля,  ‎(váflja),  wafer,  /ˈweɪfə/
 Russian:,  дуть,  (dutʹ),  waft,  /wɒft/
-Mandarin:,  工资 ,  ‎(gōngzī),  German:,  Lohn,  Hebrew:,  משכורת,  ‎(maskoret),  Persian:,  مزد,  ‎(mozd),  Russian:жа́лование ,  n ‎(žálovanije),  f,  wage,  /weɪd͡ʒ/
+Mandarin:,  工资 ,  ‎(gōngzī),  German:,  Lohn,  Hebrew:,  משכורת,  ‎(maskoret),  Persian:,  مزد,  ‎(mozd),  Russian:жа́лование ,  ‎(žálovanije),   wage,  /weɪd͡ʒ/
 Mandarin:,  赌,  ‎(dǔ),  German: Wette,  German: Wette,  wager,  /weɪdʒə(ɹ)/
 

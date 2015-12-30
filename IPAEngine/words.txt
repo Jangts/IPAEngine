@@ -1,43 +1,43 @@
 Mandarin:   (jiāomá)  German:  Abaka   Russian:  абака́   abaká    abaca    ˌæb.əˈkɑ 
 Russian:    аба́к  (abák)  German:  Abakus   Hebrew:  חשבונייה     kheshboniya    Persian:  چرتکه   čortke   Russian:  счёты  sčóty   abacus    ˈæb.ə.kəs 
 German:    achtern   Russian:    позади́    pzd    abaft    əˈbæft 
-Mandarin: 鲍鱼   (bàoyú)   German:    Abalone   Persian:    گوش  guš daryā    Russian:  абало́н   abalone    æb.əˈləʊ.ni 
+Mandarin: 鲍鱼   (bàoyú)   German:    Abalone   Persian:    گوش  gušdaryā    Russian:  абало́н   abalone    æb.əˈləʊ.ni 
 German:    Überlassen   Russian:    оставле́ние  (ostavlénije)   abandonment    əˈbæn.dn̩.mn̩t 
 Mandarin:    减弱   German:  nachlassen   Russian:  уменьша́ться    umenʹšátʹsja   abate    əˈbeɪt 
 German:    Äbtissin    Russian:    аббати́са  (abbatísa)   abbess    ˈæb.ɪs 
 Mandarin:    为了缩写  wèilesuōxiě)   German:  kürzen    Russian:  сокраща́ть  sokraščátʹ   abbreviate    ə.ˈbriː.vi.eɪt 
 Mandarin:  禅让    jùjué    German:  verweigern   Russian:  отка́зываться  otkázyvatʹsja    abdicate    ˈæb.dɪˌkeɪt 
 Mandarin:  腹部   (fùbù)   German:    Bauch   Persian:    شکم  (šekam)   Russian:    живо́т  (živót)   abdomen    ˈæb.də.mən 
-German:    abdominal   Unterleib   Russian:    брюшно́й   абдомина́льный   abdominal    æbˈdɒm.ə.nl̩ 
+German:    abdominal    Russian:    брюшно́й   абдомина́льный   abdominal    æbˈdɒm.ə.nl̩ 
 German:  entführen   Mandarin:    诱拐  (yòuguǎi)   Russian:  похища́ть  poxiščátʹ    abduct    æbˈdʌkt 
 German:  Anstifter    Mandarin:    bāngxiōng)   Russian:    посо́бник  (posóbnik)   abettor    əˈbɛt.ɚ 
-German:    Schwebezustand    Russian:  состоя́ние неопределённости   (sostojánije neopredeljónnosti)   abeyance    əˈbeɪ.ənts 
+German:    Schwebezustand    Russian:  состоя́ниенеопределённости   (sostojánijeneopredeljónnosti)   abeyance    əˈbeɪ.ənts 
 German:    Abscheu   Russian   отвраще́ние  otvraščénije    abhorrence    əbˈhɔɹ.n̩s 
 German:  weilen   Russian:  жить     žitʹ   abide    əˈbaɪd 
 German:    elend   Russian:  жа́лкий   (žálkij)   abject    ˈæb.d͡ʒɛkt 
 Russian:    отрече́ние  (otrečénije)   abjuration    ˌæb.d͡ʒʊˈreɪ.ʃn̩ 
 German:   abschwören   Russian:    отрека́ться  (otrekátʹsja)   abjure    æbˈdʒʊɹ 
 German:  lodernd   Mandarin:    起火  (qǐhuǒ)   Russian:  возбуждённый   (vozbuždjónnyj)   пы́лкий   (pýlkij)   горя́щий   (gorjáščij)   ablaze    əˈbleɪz 
-Mandarin:  能   (néng)   会   (huì)   可   (kě)   German:    imstande   Hebrew:  יָכֹל   (yachol)   Persian:  توانستن   (tavânestan)   Russian:  в состоя́нии   (v sostojánii)    спосо́бный   (sposóbnyj)  able    ˈeɪ.bl̩ 
+Mandarin:  能   (néng)   German:    imstande   Hebrew:  יָכֹל   (yachol)   Persian:  توانستن   (tavânestan)   Russian:  спосо́бный   (sposóbnyj)  able    ˈeɪ.bl̩ 
 Mandarin:    异常  (yìcháng)   German:  unnormal   ungewöhnlich    Persian:  غیر عادی   (qeyre âddi)   Russian:  ненорма́льный   (nenormálʹnyj)   abnormal    ˈæbˌnɔɹ.ml̩ 
-Mandarin:   上车   (shàngchē)   Russian:  на борту́   (na bortú) (location)   на́ борт   (ná bort)    aboard    əˈbɔːd 
+Mandarin:   上车   (shàngchē)   Russian:  наборту́   (nabortú)    aboard    əˈbɔːd 
 German:    Verweilen   Russian:    заде́ржка  (zadéržka)   abode    əˈbəʊd 
 Mandarin:   废除   (fèichú)   German:  abschaffen   Hebrew:  ביטל   (bitél)   Russian:  отменя́ть   (otmenjátʹ)   отмени́ть    pf   (otmenítʹ)   abolish    əˈbɒlɪʃ 
 German:    verabscheuungswürdig   Russian:    отврати́тельный   омерзи́тельный   abominable    əˈbɑm.ə.nə.bl̩ 
-Mandarin:    讨厌   (tǎoyàn)   German:  verabscheuen    Russian:  пита́ть отвраще́ние   (pitátʹ otvraščénije)   ненави́деть   (nenavídetʹ)   не выноси́ть   (ne vynosítʹ)   abominate    əˈbɒm.əˌnəɪt 
-Mandarin:    原住民   (yuánzhùmín)   土著   (tǔzhù)   German:    Aborigine   Urbewohner   Russian:    абориге́н  (aborigén)   aborigine    ˌæb.əˈɹɪdʒ.ə.ni 
+Mandarin:    讨厌   (tǎoyàn)   German:  verabscheuen    Russian:  пита́тьотвраще́ние   (pitátʹotvraščénije)   ненави́деть   (nenavídetʹ)   не выноси́ть   (ne vynosítʹ)   abominate    əˈbɒm.əˌnəɪt 
+Mandarin:    原住民   (yuánzhùmín)   土著   (tǔzhù)   German:    Aborigine   Russian:    абориге́н  (aborigén)   aborigine    ˌæb.əˈɹɪdʒ.ə.ni 
 Mandarin:     流产   (líuchǎn)    German:  Fehlgeburt    Hebrew:  הפלה  (hapalá)   Russian:  вы́кидыш  (výkidyš)   або́рт  (abórt)   Persian:  سقط   افگانه   (afgâne)   abortion  əbɔɹ.ʃn̩ 
 Mandarin:   约   (yuē)  German:   (herum)    Russian:  круго́м   (krugóm)   во́круг   (vókrug)
     əˈbaʊt 
 German:  Abrakadabra    Russian:    абракада́бра  (abrakadábra)   abracadabra    ˌabɹakəˈdabrə 
-German:    verkürzen   Russian:    сокраща́ть   укора́чивать   abridge    əˈbrɪd͡ʒ 
+German:    verkürzen   Russian:    сокраща́ть   skrst   abridge    əˈbrɪd͡ʒ 
 Mandarin:   国外   (guówài)   海外   (hǎiwài)    German:  i Ausland    Russian:    широко́   повсю́ду   abroad    əˈbɹɔd 
 German:    abrupt  Hebrew:  תלול  (talul)   Russian:  круто́й   (krutój)   обры́вистый   (obrývistyj)   abrupt    əˈbɹʌpt 
 German:  abrupt   ötzlich    unerwartet   Russian:  внеза́пно   (vnezápno)   неожи́данно   (neožídanno)   ре́зко   (rézko)   бесцеремо́нно   (besceremónno)   abruptly    əˈbɹʌp.li 
-Mandarin:  缺席   (quēxí)   不在   (bùzài)   German:    Abwesenheit   Absenz   Russian:  отсу́тствие  (otsútstvije)   отлу́чка  (otlúčka)   absence    ˈæb.sn̩s 
+Mandarin:  缺席   (quēxí)   不在   (bùzài)   German:      Absenz   Russian:  отсу́тствие  (otsútstvije)   отлу́чка  (otlúčka)   absence    ˈæb.sn̩s 
 Mandarin:    绝对  (juéduì)   German:  absolut    Russian:  абсолю́тный   (absoljútnyj)   absolute    ˈæb.səˌluːt 
 Mandarin:  絕對地   (juéduìde)   German:    absolut   Russian:  соверше́нно   (soveršénno)   абсолю́тно   (absoljútno)   absolutely    æb.səˈluːt.li 
-Mandarin:    使免除   (shǐmiǎnchú)  German:  entbinden   Russian:  освобожда́ть от   (osvoboždátʹ ot)   absolve    əbˈzɒlv 
+Mandarin:    使免除   (shǐmiǎnchú)  German:  entbinden   Russian:  освобожда́ть    (osvoboždátʹ)   absolve    əbˈzɒlv 
 Mandarin:    专心  (zhuānxīn)   German:  vertieft   Russian:  поглощённый   (pogloščónnyj)   увлечённый   (uvlečónnyj)   absorbed    æbˈsɔɹbd 
 German:    Absorber     Russian:    абсо́рбер  (absórber)   absorber    əbˈsɔɹ.bɚ 
 Russian:    увлека́тельный  (uvlekátelʹnyj)   absorbing    əbˈzɔː.bɪŋ 
@@ -45,14 +45,14 @@ German:    fliehen   davonmachen   absquatulate    æb.ˈskwɑtʃ.ʊ.leɪt
 Mandarin:  弃权   (qìquán)   German:  Enthaltung   Hebrew:  הימנעו   (himan'ut)  Russian:  воздержа́ние  (vozderžánije)   abstention    əbˈstɛn.ʃn̩ 
 German:    Enthaltsamkeit   Abstinenz   Russian:    воздержа́ние  (vozderžánije)   abstinence    ˈæb.stɪ.nn̩s 
 German:    abstinent   abstinent    ˈæb.stɪ.nn̩t 
-German:  Auszug   Zusammenfassung   Russian:    конспе́кт  (konspékt)   abstract    ˈæbˌstrækt 
+German:  Auszug   Russian:    конспе́кт  (konspékt)   abstract    ˈæbˌstrækt 
 Mandarin:  荒谬   (huāngmiù)   German:  absurd    Hebrew:  אבסורד    Russian:  абсу́рдный   (absúrdnyj)   absurd    əbˈsɜːd 
 Mandarin:  丰富   (fēngfù)   German:    reichlich   Russian:  оби́льный   (obílʹnyj)   abundant    əˈbʌn.dn̩t 
-German:    Missbrauch   Mißbrauch   Hebrew:  ניצול לרעה  (nitzúl l'rá’a)   Russian:    злоупотребле́ние  (zloupotreblénije)   abuse    əˈbjuːs 
+German:    Mißbrauch   Hebrew:  ניצוללרעה  (nitzúll'rá’a)   Russian:    злоупотребле́ние  (zloupotreblénije)   abuse    əˈbjuːs 
 Mandarin:   深渊   (shēnyuān)   German:  Abgrund       Russian:    про́пасть  (própastʹ)   abyss    əˈbɪs 
 Mandarin: 重音   (zhòngyīn)  German:  Betonung    accent  Hebrew:  דגש  (dagéš)  Russian:  ударе́ние  (udarénije)    ˈæk.sənt 
 German:    Zugang   Eingang   Hebrew:  גישה   (gisha)   Russian:  до́ступ  (dóstup)  access    ˈæk.sɛs 
-Mandarin:  事故   (shìgù)   意外   (yìwài)   German:  Unfall    accident   Hebrew:  תְאוּנָה   (te'una)   Persian:  تصادف   (tasâdof)  Russian:  несча́стный слу́чай  (nesčástnyj slúčaj)   ава́рия  (avárija)    ˈæk.sə.dənt 
+Mandarin:  事故   (shìgù)   意外   (yìwài)   German:  Unfall    accident   Hebrew:  תְאוּנָה   (te'una)   Persian:  تصادف   (tasâdof)  Russian:  несча́стныйслу́чай  (nesčástnyjslúčaj)   ава́рия  (avárija)    ˈæk.sə.dənt 
 German:    versehentlich   Hebrew:  מקרי  (miqry)   מקרית  (miqryt)  Russian:  случа́йный   (slučájnyj)   accidental    aksᵻˈdɛntl̩ 
 Russian:    подгото́виться   собраться   accinge    ækˈsɪndʒ 
 Russian:  акклиматизи́ровать   (akklimatizírovatʹ)   acclimate    ə.ˈklaɪ.mət 
@@ -72,22 +72,22 @@ Mandarin:    逸事   (yìshì)   German:  Anekdote    Russian:  эпизо́�
 Mandarin:    风速计  (fēngsùjì)  German:  Windmesser   Russian:  анемо́метр  (anemómetr)   ветроме́р  (vetromér)   anemometer    ænɪˈmɒmətə 
 German:    Windröschen   Anemone   Persian:    آلاله  (âlâle)   Russian:    анемо́н  (anemón)   anemone    əˈnɛm.ə.ni 
 Mandarin:    再   (zài)   German:    erneut  Hebrew:  מחדש   (me'khadash)  Russian:  за́ново   (zánovo)   anew    əˈnu 
-Mandarin:  天使   (tiānshǐ)   安琪兒    安琪儿   (ānqí'ér)  Hebrew:  מַלְאֲכָא  (malʾăḵā)   German:  Engel    Persian:  فرشته   (ferešte)  Russian:  а́нгел  (ángel)   angel    ˈeɪn.dʒəl 
+Mandarin:  天使   (tiānshǐ)   Hebrew:  מַלְאֲכָא  (malʾăḵā)   German:  Engel    Persian:  فرشته   (ferešte)  Russian:  а́нгел  (ángel)   angel    ˈeɪn.dʒəl 
 Mandarin:    发怒   (fānù)   German:    Ärger   Hebrew:    כעס  (kā‘ās)   Persian:    خشم  (xašm)   Russian:    гнев  (gnev)   anger    ˈæŋ.ɡɚ 
 Mandarin:     咽峡炎   (yānxiáyán)   Russian:    анги́на  (angína)   angina    ˈændʒɪnə 
 Mandarin:  角   (jiǎo)  Hebrew:  זווית  (zavít)  Persian:  زاویه   (zâviye)  Russian:  у́гол  (úgol)   angle    ˈæŋ.ɡəl 
-Mandarin:  恼怒   (nǎonù)   German:    böse  Persian:  خشمگین   (xašmgin)   عصبانی   (asabâni)   Russian:  серди́тый   (serdítyj)   злой   (zloj)   разгне́ванный   (razgnévannyj)   (e.g. tone) гне́вный   (gnévnyj)   Hebrew:  סר   (sar)  angry    ˈæŋ.ɡri 
+Mandarin:  恼怒   (nǎonù)   German:    böse  Persian:  خشمگین   (xašmgin)   عصبانی   (asabâni)   Russian:  серди́тый   (serdítyj)   Hebrew:  סר   (sar)  angry    ˈæŋ.ɡri 
 Russian:    тоска́  (toská)   angst    æŋ(k)st 
 German:    Kreuz   Persian:    غم  (ğam)   Russian:    му́ка  (múka)   anguish    ˈæŋɡwɪʃ 
 Russian:    кри́тика  (krítika)   animadversion    ˌænɪmædˈvɜːʃən 
-Mandarin:  动物   (dòngwù)   German:  Tier       Hebrew:  בַּעַל חַיִּים  (ba`ál ḥayyím)   חַיָּה  (ḥayyá)  Persian:  جانور   (jânvar)   حیوان   (heyvân)  ssian:  живо́тное  (živótnoje)   зверь  (zverʹ)   animal    ˈænəməl 
-Mandarin:  日本动画   (Rìběndònghuà)  German:  Anime       Hebrew:  אנימציה יפנית   (anime yapanít)   אנימה   (anime)   Persian:  انیمه   (anime)   Russian:  аниме́  (animɛ́) ( анимэ́  )   anime    ˈænɪmeɪ 
+Mandarin:  动物   (dòngwù)   German:  Tier       Hebrew:     חַיָּה  (ḥayyá)  Persian:  جانور   (jânvar)   حیوان   (heyvân)  Russsian: зверь  (zverʹ)   animal    ˈænəməl 
+Mandarin:  日本动画   (Rìběndònghuà)  German:  Anime       Hebrew:    אנימה   (anime)   Persian:  انیمه   (anime)   Russian:  аниме́  (animɛ́) ( анимэ́  )   anime    ˈænɪmeɪ 
 Mandarin:  T形十字章   (xíngshízìzhāng)   German:  Anch   Russian:  анх  (anx)   ankh    æŋk 
-Mandarin:  脚腕子   (jiǎowànzi)   German:    Knöchel   Fußknöchel   Hebrew:    קרסול  (qarsol)   Persian:    قوزک  (quzak)   Russian:    лоды́жка  (lodýžka)   ankle    ˈæŋ.kəl 
-Mandarin:    歼灭  (jiānmiè)   German:  vernichten    Persian:  نابود کردن   (nâbud kardan)   Russian:  уничтожа́ть   (uničtožátʹ)   annihilate    əˈnaɪə.leɪt 
-Mandarin:    周年  (zhōunián)   German:  Jahrestag    Russian:  годовщи́на  (godovščína)   юбиле́й  (jubiléj)   anniversary    ˌænɪˈvɜːs(ə)ɹi 
+Mandarin:  脚腕子   (jiǎowànzi)   German:    Knöchel    Hebrew:    קרסול  (qarsol)   Persian:    قوزک  (quzak)   Russian:    лоды́жка  (lodýžka)   ankle    ˈæŋ.kəl 
+Mandarin:    歼灭  (jiānmiè)   German:  vernichten    Persian:  نابودکردن   (nâbudkardan)   Russian:  уничтожа́ть   (uničtožátʹ)   annihilate    əˈnaɪə.leɪt 
+Mandarin:    周年  (zhōunián)   German:  Jahrestag    Russian:  годовщи́на  (godovščína)   юбиле́й  (jubiléj)   anniversary    ˌæniˈvɜːs(ə)ɹi 
 Mandarin:    搅扰   (jiǎorǎo)   German:    stören   Russian:    надоеда́ть  (nadojedátʹ)   annoy    əˈnɔɪ 
-Mandarin:    烦恼  (fánnǎo)   German:    Ärger   Ärgernis   Hebrew:  הצקה  (hátsáká)   Russian:    доса́да  (dosáda)   annoyance    əˈnɔɪəns 
+Mandarin:    烦恼  (fánnǎo)   German:    Ärger      Hebrew:  הצקה  (hátsáká)   Russian:    доса́да  (dosáda)   annoyance    əˈnɔɪəns 
 Mandarin:     恼火   (nǎohuǒ)   German:    verärgert   Russian:    раздражённый  (razdražónnyj)   annoyed    əˈnɔɪd 
 Mandarin:    年度   (niándù)   German:  jährlich    Hebrew:  שנתי  (shnaty)  Russian:  ежего́дный   (ježegódnyj)   annual    ˈæn.ju.əl 
 Mandarin:    阳极  (yángjí)   anode    ˈæn.əʊd 
@@ -99,34 +99,34 @@ German:    früher   Russian:    предше́ствующий  (predšéstvuju
 Mandarin:  炭疽病   (tànjūbìng)   German:  Milzbrand    Hebrew:  גחלת    Persian:  سیاه‌زخم   (siyâh-zaxm)   Russian:  сиби́рская я́зва  (sibírskaja jázva)   anthrax    ˈæn.θræks 
 Mandarin:  人类学   (rénlèixué)   German:  Anthropologie   Persian:  مردم‌شناسی   (mardom-šenâsi)   Russian:  антрополо́гия  (antropológija)  anthropology    ˌænθɹəˈpɒlədʒi 
 Mandarin:  预料   (yùliào)  German:  voraussehen   Russian:    опережа́ть  (operežátʹ)   anticipate    ænˈtɪs.ɪ.peɪt 
-Russian:    ожида́ние   (ožidánije)   предчу́вствие   (predčúvstvije)   предвкуше́ние   (predvkušénije)   anticipation    æn.tɪs.əˈpe.ʃən 
+Russian:    ожида́ние   (ožidánije)   anticipation    æn.tɪs.əˈpe.ʃən 
 Mandarin:    反时针方向的 (fănshízhēnfāngxiàng )   German:  Gegenuhrzeigersinn    Russian:  про́тивчасово́йстре́лки   (prótivčasovójstrélki) anticlockwise    ˌæntiˈklɒk.waɪz 
 Mandarin:     解药   (jiěyào)   German:    Gegenmittel   Russian:    противоя́дие  (protivojádije)   antidote    ˈæn.tə.dot 
 Mandarin: 废话   (fèihuà)  German:  Geapper   Persian:  دراییدن   (darāyidan)  Russian:  болтовня́  (boltovnjá)   babble   [ˈbæb.əɫ]
 Russian:    мила́шка  (miláška)   babe    beɪb 
-Mandarin:    婴儿  (yīng'ér)   宝宝   (bǎobǎo)   German:    Baby   Säugling   Hebrew:    תינוק  (tinoq)   Persian:    بچه  (bačče)   Russian:    младе́нец  (mladénec)   baby    ˈbeɪbi 
+Mandarin:    婴儿  (yīng'ér)   宝宝   (bǎobǎo)   German:    Baby Hebrew:    תינוק  (tinoq)   Persian:    بچه  (bačče)   Russian:    младе́нец  (mladénec)   baby    ˈbeɪbi 
 Mandarin:    代人照看孩子   (dàirénzhàokànháizi)   German:  babysitten   Hebrew:  שמירטף   (shmirtéf)   Russian:  ня́ньчиться   (njánʹčitʹsja)   babysit    ˈbeɪbiː.sɪt 
 Mandarin:    骨干   (gǔgàn)   German:     Wirbelsäule   Russian:    позвоно́чник  (pozvonóčnik)   backbone    ˈbækˌbəʊn 
 Russian:    подде́ржка  (poddéržka)   backing    ˈbæk.ɪŋ(ɡ) 
 Mandarin:  背包   (bēibāo)   German:  Rucksack  Hebrew:  יַלְקוּט   (yalkut)   תַּרְמִיל   (tarmil)   תִּיק גַּב  (tik gav)  Persian:  کیف کوله   (kif-e kule)  Russian:  рюкза́к  (rjukzák)   ра́нец  (ránec)    backpack    ˈbæk.pæk 
-German:    Backslash   Rückwärtsschrägstrich   Russian:    обра́тная коса́я  (obrátnaja kosája)   backslash    ˈbækˌslæʃ 
+German:    Backslash   Rückwärtsschrägstrich   Russian:    обра́тнаякоса́я  (obrátnajakosája)   backslash    ˈbækˌslæʃ 
 Mandarin:  熏咸肉   (xūnxiánròu)   German:  Speck   Russian:  беко́н  (bekón)   bacon    ˈbeɪkən 
 Mandarin:  细菌   (xìjūn)   German:  Bakterien   Russian:  бакте́рия  (baktɛ́rija)   bacteria    bækˈtɪɹ.i.ə 
 Mandarin:  细菌   (xìjūn)   German:       Bakterie   Hebrew:    חיידק  (khaydák)   Persian:    باکتری  (bâkteri)   Russian:    бакте́рия  (baktɛ́rija)   bacterium    bækˈtɪəɹ.ɪəm 
 Mandarin:    坏  (huài)   German:    schlecht  Hebrew:  רַע   (rāʿ)   Russian:  плохо́й   (  oxój)   bad    bæd 
-Mandarin:    迷惑   (míhuò)   German:    verblüffen   verwirren   Russian: Russian:  озада́чивать   (ozadáčivatʹ)   baffle    ˈbæfl̩ 
-Mandarin:   包   (bāo)   German:    Beutel     Hebrew:  תיק   (tik)   Persian:  کیسه   (kise)   کیف   (kif)   ساک   (sâk)   Russian:  су́мка  (súmka)   bag    bæɡ 
+Mandarin:    迷惑   (míhuò)   German:    verblüffen   Russian:  озада́чивать   (ozadáčivatʹ)   baffle    ˈbæfl̩ 
+Mandarin:   包   (bāo)   German:    Beutel     Hebrew:  תיק   (tik)   Persian:  ساک   (sâk)   Russian:  су́мка  (súmka)   bag    bæɡ 
 Mandarin:    诱饵   (yòuěr)   German:  Köder       Russian:  нажи́вка  (nažívka)   bait    beɪt 
 Mandarin:  烤   (kǎo)  German:  backen    Hebrew:  אפה  Russian:  печь   (pečʹ)   bake    beɪk 
 Mandarin:    面包店  (miànbāodiàn)   German:  Bäckerei   Hebrew:  מַאֲפִיָּה (maafia)   Persian:  نانوائی   (nânvâ'i )      Russian:  пека́рня  (pekárnja)   bakery    ˈbeɪ.kə.ri 
 Mandarin:   (guǒrénmìbĭng)   蜜糖果仁千层酥   German:  Baklava    Hebrew:  בַּקְלָוָה   (baklavá)   Persian:  باقلوا   (bâqlavâ)   baklava    ˈbæk.lə.və 
-Mandarin: 巴拉克拉瓦   (bālākèlāwǎ)  Hebrew:  ברדס   German:    Biwakmütze   Russian:  вя́заныйшлем  (vjázanyjšlem)   балакла́ва  (balakláva)   balaclava    ˌbæl.əˈklɑː.və 
+Mandarin: 巴拉克拉瓦   (bālākèlāwǎ)  Hebrew:  ברדס   German:    Biwakmütze   Russian:    балакла́ва  (balakláva)   balaclava    ˌbæl.əˈklɑː.və 
 Mandarin:    阳台   (yángtái)  German:  Balkon   Hebrew:  מִרְפֶּסֶת  (mirpéset)   גְּזוּזְטְרָה   (gzuztrá)  Persian:  بالکن   (bâlkon)  Russian:  балко́н  (balkón)   balcony    ˈbælkəni 
 Mandarin:    秃头的   (tūtóude)   German:    kahl   Hebrew:    קירח  (kireakh)   Persian:    طاس  (tâs)   کچل   (kačal)   Russian:  лы́сый   (lýsyj)   плеши́вый   (  ešívyj)   bald   bɔːld 
 Mandarin: 捆包   (kǔnbāo)  German:  Ballen   Persian:  بغچه   (boqče)   بلغنده   (balqande)  Russian:  тюк  (tjuk)   ки́па  (kípa)   bale    beɪ̯l 
 Mandarin: 民谣   (mínyáo)  German:  Ballade   Hebrew:  בָּלָדָה  (balada)  Persian:  چکامه   (čakâme)  Russian:  балла́да  (balláda)   ballad    ˈbæləd 
 Mandarin: 芭蕾舞   (bālěiwǔ)  German:  Ballett   Hebrew:  בלט   Persian:  باله   (bâle)   Russian:  бале́т  (balét)   ballet    ˈbæl.eɪ 
-Mandarin:    气球  (qìqiú)   German:  Ballon   Persian:  بالون   (bâlon)  Russian:  возду́шный шар  (vozdúšnyj šar)  balloon    bəˈluːn 
+Mandarin:    气球  (qìqiú)   German:  Ballon   Persian:  بالون   (bâlon)  Russian:  возду́шныйшар  (vozdúšnyjšar)  balloon    bəˈluːn 
 German:    Eier   Hebrew:  ביצים (betzim)   Klöten   Persian:  خايه   (xâye)   Russian:  я́йца   (jájca)   balls    bɔːlz 
 Russian:    шуми́ха  (šumíxa)   ballyhoo    bæliˈhuː 
 Mandarin:  香脂   (xiāngzhī)   German:  Balsam    balsam   Russian:  бальза́м  (balʹzám)    ˈbɔːlsəm 
@@ -146,7 +146,7 @@ Mandarin: 宴会   (yànhuì)   German:    Festmahl   Bankett   Persian:    ب�
 Mandarin: 报丧女妖   (bàosāng nǚyāo)   German:  Banshee      Russian:  ба́нши  (bánši)   banshee    bænˈʃiː 
 German:    Gealbere   Wortge  änkel   banter    ˈbæntə 
 Mandarin: 猴面包树   (hóumiànbāoshù)  German:  Affenbrotbaum    Russian:    баоба́б  (baobáb)   baobab    ˈbaʊbæb 
-Mandarin:    洗礼  (xǐlǐ)   German:  Taufe    Russian:  креще́ние  (kreščénije) (ceremony)   бапти́зм  (baptízm)    baptism    ˈbæptɪzəm 
+Mandarin:    洗礼  (xǐlǐ)   German:  Taufe    Russian:  бапти́зм  (baptízm)    baptism    ˈbæptɪzəm 
 German:    Block   Hebrew:  סורג  (sorág)   Persian:  میله   (mile)  Russian:  прут  (prut)   Barren   bar    bɑː 
 Mandarin:    蛮  (mán)   German:  barbarisch    Persian:  بربری   (barbari)   Russian:  ва́рварский   (várvarskij)   barbarian    bɑː(ɹ).ˈbɛə.ɹi.ən 
 German:  Barbiturat    Russian:    барбитура́т  (barbiturát)   barbiturate    ˌbɑː(ɹ)ˈbɪtʃəɹɪt 
@@ -155,18 +155,18 @@ German:  bar    Persian:  برهنه   (berahne)   Russian:    едва́   do
 Mandarin:    契约  (qìyuē)   Russian:    сде́лка  (sdélka)   bargain    ˈbɑː(ɹ)ɡən 
 Mandarin:  汪汪叫   (wāngwāng jiào)   吠   (fèi)   German:  bellen    Hebrew:  נבח   (navákh)  Persian:  لاییدن   (lâyidan)  Russian:  ла́ять   (lájatʹ)   bark    bɑː(ɹ)k 
 Mandarin: 大麦   (dàmài)   German:  Gerste    Hebrew:  שעורה  (s‘ora)   Persian:  جو   (jow)   Russian:  ячме́нь  (jačménʹ)   barley    ˈbɑɹli 
-Mandarin: 谷仓   (gǔcāng)   German:  Scheune   Stall   Persian:  گمرا   (gamrá)   Russian:  ови́н  (ovín)   амба́р  (ambár)   сара́й  (saráj)   barn    bɑrn 
+Mandarin: 谷仓   (gǔcāng)   German:  Scheune     Persian:  گمرا   (gamrá)   Russian:  ови́н  (ovín)   амба́р  (ambár)   сара́й  (saráj)   barn    bɑrn 
 Mandarin: 气压表   (qìyābiǎo)   German:  Barometer    Persian:  فشارسنج   (fešâr-sanj)   Russian:  баро́метр  (barómetr)   barometer    bəɹˈɒmətə(ɹ) 
 Russian:  барк  (bark)   barque    bɑː(r)k 
 Mandarin:  弹幕   (dànmù)   Russian:    загражде́ние  (zagraždénije)   barrage    ˈbæɹɑːʒ 
-German:    steril   Russian:  беспло́дный   (bes  ódnyj)   barren    ˈbæɹən 
+German:    steril   Russian:  беспло́дный   (besplódnyj)   barren    ˈbæɹən 
 German:    Haarspange   Russian:    зако́лка  (zakólka)   barrette    bəˈrɛt 
 German:  Barriere    Russian:    барье́р  (barʹjér)   barrier    ˈbæɹɪə(ɹ) 
 Mandarin: 坟冢   (fénzhǒng)   German:  Grabhügel    Russian:  курга́н  (kurgán)   barrow    ˈbær.əʊ 
 Russian:    барио́н  (barión)   baryon    ˈbæɹɪɒn 
 Mandarin: 玄武岩   (xuánwǔyán)   German:  Basalt   Persian:  بازالت   (bâzâlt)   Russian:  база́льт  (bazálʹt)   basalt    ˈbæsɒlt 
-Mandarin:    基础  (jīchǔ)   German:    Basis   Grundlage   Hebrew:    בסיס  (basys)   Persian:    بُنیاد  (bonyād)   Russian:    осно́ва  (osnóva)   base    beɪs 
-Mandarin:  罗勒   (luólè)   German:  Basilikum    Hebrew:  בזיליקום  (basilikum)   ריחן    (reihen)    Persian:  ریحان   (reyhân)   Russian:  базили́к  (bazilík)  basil    ˈbæz.əl 
+Mandarin:    基础  (jīchǔ)   German:    Basis     Hebrew:    בסיס  (basys)   Persian:    بُنیاد  (bonyād)   Russian:    осно́ва  (osnóva)   base    beɪs 
+Mandarin:  罗勒   (luólè)   German:  Basilikum    Hebrew:  בזיליקום  (basilikum)  Persian:  ریحان   (reyhân)   Russian:  базили́к  (bazilík)  basil    ˈbæz.əl 
 German:    Basis   Grundlage   Russian:    осно́ва  (osnóva)   basis    ˈbeɪsɪs 
 Mandarin:   篮子   (lánzi)   German:  Korb    Hebrew:  סל  (sal)  Persian:  سبد   (sabad)   Russian:  корзи́на  (korzína)   basket    ˈbɑːskɪt 
 German:  bass   Russian:  ба́совый   (básovyj)   bass   beɪs

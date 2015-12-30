@@ -164,6 +164,8 @@ class Utils(object):
     def convertDiphtongsToIpa(wordWithDiphtongs):
         wordTemp = string.replace(wordWithDiphtongs, 'dj', 'j')
         wordTemp = string.replace(wordTemp, 'ch', 'k')
+        wordTemp = string.replace(wordTemp, 'Sch', 's')
+        wordTemp = string.replace(wordTemp, 'sch', 's')
         wordTemp = string.replace(wordTemp, 'y', 'j')
         wordTemp = string.replace(wordTemp, 'd͡ʒ', 'z')
         wordTemp = string.replace(wordTemp, 'dʒ', 'z')

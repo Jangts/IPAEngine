@@ -10,7 +10,7 @@ from src.annakeren.ipa.engine.main import Engine
 import string
 
 if __name__ == '__main__':
-    lines = Utils.Utils.readLinesToListFromFile("/Users/annakeren/words.txt")
+    lines = Utils.Utils.readLinesToListFromFile("/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/words.txt")
     connection = SqlitePersistence.SqlitePersistence.connect("//Users//annakeren//Documents//workspace//IPAEngine//IPAEngine//ipa.sqlite")
     cursor = connection.cursor()
     for line in lines:

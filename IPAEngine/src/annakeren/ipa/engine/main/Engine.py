@@ -13,7 +13,7 @@ class Engine(object):
     g=['0x67','0x0261', '0x0260', '0x0262', '0x029B', '0x11f']
     h=['0x68','0x78', '0x0266', '0x0267', '0x0127', '0x0265', '0x029C']
     j=['0x6a','0x029D', '0x026D', '0x026C', '0x026B', '0x026E', '0x17e', '0x292']
-    k=['0x6b', '0x967', '0x78'] #h
+    k=['0x6b', '0x967', '0x78', '0x71'] #h
     l=['0x6c','0x029F', '0x26b']
     m=['0x6d','0x0271', '0x026F', '0x0270']
     n=['0x6e','0x014B', '0x0273', '0x0272', '0x0274', '0x14b']
@@ -38,11 +38,23 @@ class Engine(object):
         
     @staticmethod    
     def percentage(firstWordLength, secondWordLength):
+        
+        
+            
+        
         percent = 0
-        if secondWordLength <> 0:
-            percent = (float(firstWordLength)/float(secondWordLength))*100.0
-            if percent > 100:
-                percent = percent - 100
+        if firstWordLength == secondWordLength:
+            if secondWordLength <> 0:
+                percent = (float(firstWordLength)/float(secondWordLength))*100.0
+        
+        
+        if firstWordLength < secondWordLength:
+            if secondWordLength <> 0:
+                percent = (float(firstWordLength)/float(secondWordLength))*100.0
+        
+        if firstWordLength > secondWordLength:
+            if firstWordLength <> 0:
+                percent = (float(secondWordLength)/float(firstWordLength))*100.0
         return percent
       
     @staticmethod
@@ -61,7 +73,7 @@ class Engine(object):
         shiftGroupGJHK = ['0x67','0x0261', '0x0260', '0x0262', '0x029B', '0x11f',#g 
                         '0x6a','0x029D', '0x026D', '0x026C', '0x026B', '0x026E', '0x292',#j 
                         '0x68','0x78', '0x0266', '0x0267', '0x0127', '0x0265', '0x029C',#h 
-                        '0x6b', '0x967']#k
+                        '0x6b', '0x967', '0x71']#k
         shiftGroupLMNR = [
                         '0x6c','0x029F', '0x26b', #l 
                           '0x6d',

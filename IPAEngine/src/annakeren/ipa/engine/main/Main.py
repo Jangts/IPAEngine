@@ -36,8 +36,8 @@ if __name__ == '__main__':
             firstIpa = firstPair[2]
             secondIpa = secondPair[2]
             
-            firstIpaConverted = Utils.Utils.convertDiphtongsToIpa(firstIpa)
-            secondIpaConverted = Utils.Utils.convertDiphtongsToIpa(secondIpa)
+            firstIpaConverted = Utils.Utils.convertDiphtongsToIpa(firstIpa.lower())
+            secondIpaConverted = Utils.Utils.convertDiphtongsToIpa(secondIpa.lower())
             
             firstIpaWithoutVowels = Utils.Utils.getWordWithoutVowels(firstIpaConverted)
             secondIpaWithoutVowels = Utils.Utils.getWordWithoutVowels(secondIpaConverted)
@@ -45,10 +45,11 @@ if __name__ == '__main__':
             firstConsonants = ""
             for character in firstIpaWithoutVowels:
                 firstConsonants = firstConsonants + character
-                
+
             secondConsonants = ""
             for character in secondIpaWithoutVowels:
                 secondConsonants = secondConsonants + character
+            
 #             ENGINE running
             matchCount = Engine.Engine.findMatch(firstConsonants, secondConsonants)
         

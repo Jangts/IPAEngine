@@ -84,6 +84,11 @@ class Test(unittest.TestCase):
         convertedWordToAssert = 'Biwakmüte'
         result = Utils.Utils.convertDiphtongsToIpa(unconvertedWord)
         self.assertEquals(result, convertedWordToAssert, "Failed to convert some diphtongs")
+        
+        unconvertedWord = 'Index'
+        convertedWordToAssert = 'Indeks'
+        result = Utils.Utils.convertDiphtongsToIpa(unconvertedWord)
+        self.assertEquals(result, convertedWordToAssert, "Failed to convert some diphtongs")
 #         
 if __name__ == "__main__":
     #import sys;sys.argv = ['', 'Test.testThatICanReturnLinesFromFile']

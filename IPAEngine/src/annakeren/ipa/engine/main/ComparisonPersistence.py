@@ -31,14 +31,9 @@ class ComparisonPersistence(object):
     '''
     @staticmethod 
     def compareAndPerist(params, dbConnection):
-        firstWord = params[0]                   
-        languageFirst = params[1]
-        transcriptFirst = params[2]
+        
         consonantsFirst = params[3]
         
-        secondWord = params[4]
-        languageSecond = params[5]
-        transcriptSecond = params[6]
         consonantsSecond = params[7]
 
 
@@ -46,28 +41,5 @@ class ComparisonPersistence(object):
         
         firstWordLength = len(consonantsFirst)
         secondWordLength = len(consonantsSecond)
-        matchPercentage = Engine.Engine.percentage(firstWordLength, secondWordLength)
+        Engine.Engine.percentage(matchCount, firstWordLength, secondWordLength)
         
-        x = firstWord + " " + languageFirst + " "  +  secondWord + " " + transcriptSecond
-        post = {
-                    '_id':x,
-                     'matchCount':matchCount,
-                     'matchPercentage':matchPercentage,
-                     'words':
-                    [
-                      {
-                       'word':firstWord, 
-                       'language':languageFirst, 
-                       'consonantTranscript':consonantsFirst, 
-                       'fullTranscript':transcriptFirst
-                       },
-                     {
-                       'word':secondWord, 
-                       'language':languageSecond, 
-                       'consonantTranscript':consonantsSecond, 
-                       'fullTranscript':transcriptSecond
-                       }
-                    ]
-                }
-        
-#         MongoPersistence.MongoPersistence.insert(dbConnection, post)

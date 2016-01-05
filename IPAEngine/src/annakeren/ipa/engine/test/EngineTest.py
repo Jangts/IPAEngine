@@ -42,7 +42,6 @@ class EngineTest(unittest.TestCase):
         print '(kot)' + kot + ' vs ' + hatul + '(hatul)'
         ComparisonPersistence.ComparisonPersistence.compareAndPerist(wordsKotHatul, self.dbConnection)
         
-#         print self.dbConnection.posts.find()
         
     
     def testComparePersistSugarSaharSukar(self):
@@ -110,7 +109,7 @@ class EngineTest(unittest.TestCase):
         stamb = unichr(0x73)+unichr(0x74)+unichr(0x6d)+unichr(0x62)
         print '(stand)' + stand + ' vs ' + stamb + '(like in stand back)'
         actual = Engine.Engine.findMatch(stamb, stand)
-        self.assertEqual(4, actual, "msg")
+        self.assertEqual(3, actual, "msg")
              
     def testNaiceNaish(self):
         print "English consonant shift in connected speech:"
@@ -136,7 +135,7 @@ class EngineTest(unittest.TestCase):
         print '(sneg)' + sneg + ' vs ' + snow + '(snow)'
      
         actualSnegSnow = Engine.Engine.findMatch(sneg, snow)
-        self.assertEqual(3, actualSnegSnow, "msg")
+        self.assertEqual(2, actualSnegSnow, "msg")
              
         print 'English and Hebrew'
         print '(snow)' + snow + ' vs ' + sheleg + '(sheleg)'
@@ -174,7 +173,7 @@ class EngineTest(unittest.TestCase):
         zvezda = unichr(0x7a) + unichr(0x76) + unichr(0x7a) + unichr(0x64)
         print '(star)' + star + ' vs ' + zvezda + '(zvezda)'
         actualStarZvezda = Engine.Engine.findMatch(star, zvezda)
-        self.assertEqual(2, actualStarZvezda, "msg")
+        self.assertEqual(3, actualStarZvezda, "msg")
             
     def testWindVeter(self):  
         print 'English and Russian'

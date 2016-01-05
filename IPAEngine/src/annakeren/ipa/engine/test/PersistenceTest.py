@@ -5,7 +5,6 @@ Created on 28 Jun 2015
 @author: annakeren
 '''
 import unittest
-import sqlite3
 from src.annakeren.ipa.persist import SqlitePersistence
 
 class Test(unittest.TestCase):

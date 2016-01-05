@@ -26,7 +26,11 @@ class Engine(object):
     v=['0x76','0x028B', '0x2C71', '0x77']
     
     soundDictionary = [
-                            b, c, d, f, g, h, j, k, 
+                            b, 
+                            c, 
+                            d, 
+                            f, 
+                            g, h, j, k, 
                             l, 
                            m, n, 
                             r, 
@@ -37,24 +41,21 @@ class Engine(object):
                             ]
         
     @staticmethod    
-    def percentage(firstWordLength, secondWordLength):
-        
-        
-            
-        
+    def percentage(matchCount, firstWordLength, secondWordLength):    
         percent = 0
-        if firstWordLength == secondWordLength:
-            if secondWordLength <> 0:
-                percent = (float(firstWordLength)/float(secondWordLength))*100.0
-        
-        
-        if firstWordLength < secondWordLength:
-            if secondWordLength <> 0:
-                percent = (float(firstWordLength)/float(secondWordLength))*100.0
-        
-        if firstWordLength > secondWordLength:
-            if firstWordLength <> 0:
-                percent = (float(secondWordLength)/float(firstWordLength))*100.0
+        if matchCount > 0:
+            if firstWordLength == secondWordLength:
+                if secondWordLength <> 0:
+                    percent = (float(firstWordLength)/float(secondWordLength))*100.0
+            
+            
+            if firstWordLength < secondWordLength:
+                if secondWordLength <> 0:
+                    percent = (float(firstWordLength)/float(secondWordLength))*100.0
+            
+            if firstWordLength > secondWordLength:
+                if firstWordLength <> 0:
+                    percent = (float(secondWordLength)/float(firstWordLength))*100.0
         return percent
       
     @staticmethod
@@ -106,25 +107,11 @@ class Engine(object):
                                 foundCounter = foundCounter + 1
                 if soundIterator > foundCounter & foundCounter< len(firstWord):
                     for shiftGroup in shiftDictionary:
-                        if hex(ord(c)) in shiftGroup:
-                            foundCounter = foundCounter + 1
+                        hexC = hex(ord(c))
+                        if hexC in shiftGroup:
+                            for c2 in secondWord:
+                                for shift in shiftGroup:
+                                    if unichr(int(shift, 16))== c2:
+                                        foundCounter = foundCounter + 1
         
-        firstWordLength = len(firstWord)
-        halffirstWordLength = firstWordLength/2
-        secondWordLength = len(secondWord)
-        
-        percent = Engine.percentage(firstWordLength, secondWordLength)
-        if foundCounter >=halffirstWordLength:
-            print 'high probability of common origin, 50 % or more consonants match' 
-            
-        if foundCounter >= 40.0:
-            print 'medium probability'
-            
-        if foundCounter >= 30.0:
-            print 'low probability'
-        
-        print 'number of match consonants: '
-        print foundCounter
-        print "%:"
-        print percent 
         return foundCounter

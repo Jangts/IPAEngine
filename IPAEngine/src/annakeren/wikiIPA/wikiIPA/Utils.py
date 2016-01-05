@@ -7,6 +7,8 @@ Created on 23 Aug 2015
 import os
 import string
 import itertools
+import codecs
+import re
 from src.annakeren.ipa.engine.main.Engine import Engine
 
 class Utils(object):
@@ -53,6 +55,7 @@ class Utils(object):
             
     @staticmethod
     def readLinesToListFromFile(fname):
+#         f = codecs.open(fname, encoding='utf-8')
         with open(fname) as f:
             content = f.readlines()
         f.close()
@@ -60,6 +63,7 @@ class Utils(object):
     
     @staticmethod
     def appendToSpecificLanguageList(languagesList, specificList, currentWord):
+#         currentWordTrimmed = re.sub(ur"\p{P}+", "", currentWord)
         currentWordTrimmed = currentWord.translate(None, string.punctuation)
         if not currentWordTrimmed in languagesList:
             specificList.append(currentWordTrimmed)
@@ -88,11 +92,12 @@ class Utils(object):
         russianList = []
         englishList = []
         if(splitLineLength > 2):
-            englishList.append(splitLine[splitLineLength - 1])
             englishList.append(splitLine[splitLineLength - 2])
+            englishList.append(splitLine[splitLineLength - 1])
         index = 0
         
         for splitWord in splitLine:
+#             splitWord = re.sub(ur"\p{P}+", "", splitWord)
             splitWord = splitWord.translate(None, string.punctuation)
             if splitWord.startswith(mandarin):
                 currentWord = splitLine[index + 1]
@@ -168,7 +173,6 @@ class Utils(object):
         wordTemp = string.replace(wordTemp, 'sch', 's')
         wordTemp = string.replace(wordTemp, 'y', 'j')
         wordTemp = string.replace(wordTemp, 'd͡ʒ', 'z')
-        wordTemp = string.replace(wordTemp, 'dʒ', 'z')
         wordTemp = string.replace(wordTemp, 'sh', 's')
         wordTemp = string.replace(wordTemp, 'zh', 'z')
         wordTemp = string.replace(wordTemp, 'sh', 's')
@@ -188,55 +192,41 @@ class Utils(object):
     @staticmethod
     def getWordWithoutVowels(wordWithVowels):
         wordWithoutVowels = []
-        for character in wordWithVowels:
+        u = unicode(wordWithVowels, "utf-8")
+#         wordWithVowelsList = list(wordWithVowels)
+        for character in u:
             hexCharacter = hex(ord(character))
             if hexCharacter in Engine.b:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.c:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.d:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.f:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.h:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.g:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.j:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.k:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.l:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.m:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.n:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.r:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.p:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.s:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.t:
-                print character
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.v:
-                print character
                 wordWithoutVowels.append(character)
         
         return wordWithoutVowels

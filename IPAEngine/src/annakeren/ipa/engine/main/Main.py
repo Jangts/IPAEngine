@@ -7,7 +7,6 @@ Created on 28 Dec 2015
 from src.annakeren.wikiIPA.wikiIPA import Utils
 from src.annakeren.ipa.persist import SqlitePersistence
 from src.annakeren.ipa.engine.main import Engine
-import string
 
 if __name__ == '__main__':
     lines = Utils.Utils.readLinesToListFromFile("/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/words.txt")
@@ -55,7 +54,7 @@ if __name__ == '__main__':
         
             firstWordLength = len(firstIpaWithoutVowels)
             secondWordLength = len(secondIpaWithoutVowels)
-            matchPercentage = Engine.Engine.percentage(firstWordLength, secondWordLength)
+            matchPercentage = Engine.Engine.percentage(matchCount, firstWordLength, secondWordLength)
 #             ENGINE running
             
 #             Persist pair comparison results

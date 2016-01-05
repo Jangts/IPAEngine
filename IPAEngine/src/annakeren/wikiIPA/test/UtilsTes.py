@@ -11,8 +11,8 @@ class Test(unittest.TestCase):
 
 
     def testThatICanReturnLinesFromFile(self):
-        lines = Utils.Utils.readLinesToListFromFile("/Users/annakeren/words.txt")
-        if len(lines) < 1961:
+        lines = Utils.Utils.readLinesToListFromFile("/Users/annakeren/Documents/workspace/IPAEngine/IPAEngine/words.txt")
+        if len(lines) < 1945:
             self.fail("Failed to read the file")
         else: 
             pass

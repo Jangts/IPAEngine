@@ -182,7 +182,6 @@ class Utils(object):
         wordTemp = string.replace(wordTemp, 'ss', 's')
         wordTemp = string.replace(wordTemp, 'tt', 't')
         wordTemp = string.replace(wordTemp, 'jj', 'j')
-        wordTemp = string.replace(wordTemp, 'x', 'ks')
         return wordTemp
         
     @staticmethod

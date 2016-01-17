@@ -173,7 +173,7 @@ class EngineTest(unittest.TestCase):
         zvezda = unichr(0x7a) + unichr(0x76) + unichr(0x7a) + unichr(0x64)
         print '(star)' + star + ' vs ' + zvezda + '(zvezda)'
         actualStarZvezda = Engine.Engine.findMatch(star, zvezda)
-        self.assertEqual(3, actualStarZvezda, "msg")
+        self.assertEqual(2, actualStarZvezda, "msg")
             
     def testWindVeter(self):  
         print 'English and Russian'

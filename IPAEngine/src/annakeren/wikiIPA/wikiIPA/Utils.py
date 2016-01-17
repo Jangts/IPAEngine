@@ -7,8 +7,7 @@ Created on 23 Aug 2015
 import os
 import string
 import itertools
-import codecs
-import re
+
 from src.annakeren.ipa.engine.main.Engine import Engine
 
 class Utils(object):
@@ -55,7 +54,6 @@ class Utils(object):
             
     @staticmethod
     def readLinesToListFromFile(fname):
-#         f = codecs.open(fname, encoding='utf-8')
         with open(fname) as f:
             content = f.readlines()
         f.close()
@@ -63,14 +61,12 @@ class Utils(object):
     
     @staticmethod
     def appendToSpecificLanguageList(languagesList, specificList, currentWord):
-#         currentWordTrimmed = re.sub(ur"\p{P}+", "", currentWord)
         currentWordTrimmed = currentWord.translate(None, string.punctuation)
         if not currentWordTrimmed in languagesList:
             specificList.append(currentWordTrimmed)
     
     @staticmethod
     def getPermutations(line):
-# line = German:  abschwören,  Russian:,  отрека́ться,  ‎(otrekátʹsja),  abjure,  /æbˈdʒʊɹ/
         splitLine = line.split() 
         splitLineLength = len(splitLine) 
         mandarin = "Mandarin"
@@ -97,7 +93,6 @@ class Utils(object):
         index = 0
         
         for splitWord in splitLine:
-#             splitWord = re.sub(ur"\p{P}+", "", splitWord)
             splitWord = splitWord.translate(None, string.punctuation)
             if splitWord.startswith(mandarin):
                 currentWord = splitLine[index + 1]
@@ -168,9 +163,10 @@ class Utils(object):
     @staticmethod
     def convertDiphtongsToIpa(wordWithDiphtongs):
         wordTemp = string.replace(wordWithDiphtongs, 'dj', 'j')
-        wordTemp = string.replace(wordTemp, 'ch', 'k')
+        wordTemp = string.replace(wordTemp, 'ch', 'č')
         wordTemp = string.replace(wordTemp, 'Sch', 's')
         wordTemp = string.replace(wordTemp, 'sch', 's')
+        wordTemp = string.replace(wordTemp, 'sz', 's')
         wordTemp = string.replace(wordTemp, 'y', 'j')
         wordTemp = string.replace(wordTemp, 'd͡ʒ', 'z')
         wordTemp = string.replace(wordTemp, 'sh', 's')
@@ -222,7 +218,7 @@ class Utils(object):
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.p:
                 wordWithoutVowels.append(character)
-            if hexCharacter in Engine.s:
+            if hexCharacter in Engine.s or hexCharacter == '0x282':
                 wordWithoutVowels.append(character)
             if hexCharacter in Engine.t:
                 wordWithoutVowels.append(character)

@@ -1,13 +1,5 @@
 To Do 
 
-Feed type:
-  - accept an input of a stream of words
-  
-Crawler of some source of IPA words:
-  - source (Wiktionary or http://www.etymonline.com)
-  - check if it possible to use these sources
-  - create a crawler (or use the one in haskell https://github.com/annakeren/ExCrawler)
-  
 Formal base for the project
   - find the formal rules
   - explain the reason for consonant shifts
@@ -18,6 +10,4 @@ Vectors
   
 Bugs:
   - fix percentage calculations
-  - sort out consonant vowel shifts
-  - sort out -ght sounds 
 

@@ -155,7 +155,7 @@ class EngineTest(unittest.TestCase):
         print '(solnze)' + solnze + ' vs ' + sun + '(sun)'
     
         actualSolnzeSun = Engine.Engine.findMatch(solnze, sun)
-        self.assertEqual(5, actualSolnzeSun, "msg")
+        self.assertEqual(2, actualSolnzeSun, "msg")
             
         print 'English and Hebrew'
         print  '(sun)' + sun + ' vs ' + shemesh + '(shemesh)'  
@@ -165,7 +165,7 @@ class EngineTest(unittest.TestCase):
         print 'Russian and Hebrew'
         print '(solnze)' + solnze + ' vs ' + shemesh + '(shemesh)'
         actualSolnzeShemesh = Engine.Engine.findMatch(solnze, shemesh)
-        self.assertEqual(5, actualSolnzeShemesh, "msg")
+        self.assertEqual(3, actualSolnzeShemesh, "msg")
             
     def testStarZvezda(self):  
         print 'English and Russian'
@@ -206,7 +206,7 @@ class EngineTest(unittest.TestCase):
       
     def testNasichKnyazi(self):
         print 'Hebrew and Russian'
-        nasich = unichr(0x64) + unichr(0x73) + unichr(0x967)
+        nasich = unichr(0x014B) + unichr(0x73) + unichr(0x967)
         knyazi = unichr(0x6b) + unichr(0x6e) + unichr(0x7a)
         actualNasichKnyazi =Engine.Engine.findMatch(nasich, knyazi)
         self.assertEqual(3, actualNasichKnyazi, 'msg')

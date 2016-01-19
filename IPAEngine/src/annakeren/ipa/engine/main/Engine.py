@@ -21,7 +21,7 @@ class Engine(object):
     p=['0x70']
     s=['0x10d', '0x73', '0x282',
             '0x7a','0x5a','0x0282', 
-            '0x0283', '0x161']
+            '0x0283', '0x161', '0xdf']
     t=['0x74','0x0288', '0x02A7']
     v=['0x76','0x028B', '0x2C71', '0x77']
     
@@ -59,7 +59,7 @@ class Engine(object):
                           '0x70',#p 
                           '0x76','0x028B', '0x2C71', '0x77']#v 
         shiftGroupDTS = [
-                         '0x10d', '0x0283', '0x161', '0x17e', '0x282',#s
+                         '0x10d', '0x0283', '0x161', '0x17e', '0x282', '0xdf',#s
                         '0x64','0x0257', '0x0256', '0x00F0', '0x02A4',#d 
                         '0x74','0x0288', '0x02A7', #t
                          '0x73', 
@@ -86,31 +86,31 @@ class Engine(object):
                     hexC2 = hex(ord(c2)) 
                     if hexC2 in shiftGroupBPFV:
                         foundCounter = foundCounter + 1
-                        firstWord = firstWord.replace(c1, "")
-                        secondWord = secondWord.replace(c2, "")
+                        firstWord = firstWord.replace(c1, "", 1)
+                        secondWord = secondWord.replace(c2, "", 1)
                         break
             if hexC1 in shiftGroupGJHK:
                 for c2 in secondWord:
                     hexC2 = hex(ord(c2)) 
                     if hexC2 in shiftGroupGJHK:
                         foundCounter = foundCounter + 1
-                        firstWord = firstWord.replace(c1, "")
-                        secondWord = secondWord.replace(c2, "")
+                        firstWord = firstWord.replace(c1, "", 1)
+                        secondWord = secondWord.replace(c2, "", 1)
                         break
             if hexC1 in shiftGroupDTS:
                 for c2 in secondWord:
                     hexC2 = hex(ord(c2)) 
                     if hexC2 in shiftGroupDTS:
                         foundCounter = foundCounter + 1
-                        firstWord = firstWord.replace(c1, "")
-                        secondWord = secondWord.replace(c2, "")
+                        firstWord = firstWord.replace(c1, "", 1)
+                        secondWord = secondWord.replace(c2, "", 1)
                         break
             if hexC1 in shiftGroupLMNR:
                 for c2 in secondWord:
                     hexC2 = hex(ord(c2)) 
                     if hexC2 in shiftGroupLMNR:
                         foundCounter = foundCounter + 1
-                        firstWord = firstWord.replace(c1, "")
-                        secondWord = secondWord.replace(c2, "")
+                        firstWord = firstWord.replace(c1, "", 1)
+                        secondWord = secondWord.replace(c2, "", 1)
                         break
         return foundCounter

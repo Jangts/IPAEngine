@@ -1938,7 +1938,7 @@ Mandarin:   伞  (sǎn)   German:    Schirm  Hebrew:  מטריה  (mitriá)   Pe
 Mandarin:  不能  (bùnéng)   Russian:  неспосо́бный   (nesposóbnyj)   unable    ʌneɪbəl 
 Russian:    единогла́сный  (jedinoglásnyj)   unanimous    juːnanɪməs 
 Russian:    комо́к  (komók)   wad     wɒd 
-German:    watschelnder     waddle     wɒd.əl 
+German:    watschelnder  waddle     wɒd.əl 
 Mandarin:  工资  gngz   German:    Lohn   Hebrew:    משכורת  (maskoret)   Persian:    مزد  (mozd)   Russian:  жа́лование   (žálovanije)    wage    weɪd͡ʒ 
 Mandarin:  威化饼  (wēihuàbǐng)   German:    Oblate   Waffel   Russian:    ва́фля  (váflja)   wafer     weɪfə 
 Russian:    дуть   (dutʹ)   waft    wɒft 

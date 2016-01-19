@@ -43,20 +43,12 @@ class Engine(object):
         
     @staticmethod    
     def percentage(matchCount, firstWordLength, secondWordLength):    
-        percent = 0
-        if matchCount > 0:
-            if firstWordLength == secondWordLength:
-                if secondWordLength <> 0:
-                    percent = (float(firstWordLength)/float(secondWordLength))*100.0
-            
-            
-            if firstWordLength < secondWordLength:
-                if secondWordLength <> 0:
-                    percent = (float(firstWordLength)/float(secondWordLength))*100.0
-            
-            if firstWordLength > secondWordLength:
-                if firstWordLength <> 0:
-                    percent = (float(secondWordLength)/float(firstWordLength))*100.0
+        if firstWordLength == 0 or secondWordLength ==  0:
+            return 0
+        persentOfWord1 = (float(matchCount) / float(firstWordLength)) * 100.0
+        persentOfWord2 = (float(matchCount) / float(secondWordLength)) * 100.0
+        
+        percent = (persentOfWord1 + persentOfWord2) / 2.0
         return percent
       
     @staticmethod
@@ -94,23 +86,31 @@ class Engine(object):
                     hexC2 = hex(ord(c2)) 
                     if hexC2 in shiftGroupBPFV:
                         foundCounter = foundCounter + 1
+                        firstWord = firstWord.replace(c1, "")
+                        secondWord = secondWord.replace(c2, "")
                         break
             if hexC1 in shiftGroupGJHK:
                 for c2 in secondWord:
                     hexC2 = hex(ord(c2)) 
                     if hexC2 in shiftGroupGJHK:
                         foundCounter = foundCounter + 1
+                        firstWord = firstWord.replace(c1, "")
+                        secondWord = secondWord.replace(c2, "")
                         break
             if hexC1 in shiftGroupDTS:
                 for c2 in secondWord:
                     hexC2 = hex(ord(c2)) 
                     if hexC2 in shiftGroupDTS:
                         foundCounter = foundCounter + 1
+                        firstWord = firstWord.replace(c1, "")
+                        secondWord = secondWord.replace(c2, "")
                         break
             if hexC1 in shiftGroupLMNR:
                 for c2 in secondWord:
                     hexC2 = hex(ord(c2)) 
                     if hexC2 in shiftGroupLMNR:
                         foundCounter = foundCounter + 1
+                        firstWord = firstWord.replace(c1, "")
+                        secondWord = secondWord.replace(c2, "")
                         break
         return foundCounter

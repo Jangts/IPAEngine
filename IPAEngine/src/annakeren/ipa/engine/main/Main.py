@@ -61,7 +61,7 @@ if __name__ == '__main__':
             match = str(matchPercentage)
             beginning = "INSERT INTO words VALUES('"
             ending = ");"
-            insertString = beginning + firstPair[0] + "', '" + firstPair[1] + "', '" + firstPair[2] + "', '" + secondPair[0] + "', '" + secondPair[1] + "', '" + secondPair[2] + "', "  + match + ending 
+            insertString = beginning + firstPair[0] + "', '" + firstPair[1] + "', '" + firstPair[2] + "', '" + secondPair[0] + "', '" + secondPair[1] + "', '" + secondPair[2] + "', "  + match + ", " + str(matchCount) + ending 
           
             cursor.execute(insertString)
             connection.commit()

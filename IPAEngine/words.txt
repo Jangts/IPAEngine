@@ -1854,7 +1854,7 @@ German:  Saga  Russian:  са́га   (sága)   saga     sɑːɡə
 Mandarin:  西米   (ximǐ)   German:  Sago   Russian:  са́го   (ságo)   sago     seɪɡəʊ
 Persian:    مذکور  (mazkur)   Russian:    упомя́нутый   (upomjánutyj)   said    sɛd 
 Mandarin:   帆   (fān)   German:  Segel   Hebrew:  מפרש       (mifrás)   Persian:  بادبان   (bâdbân)   Russian:  па́рус       (párus)   sail    seɪl 
-Mandarin:    水手   (shuǐshǒu)   German:    Matrose   Seemann   Hebrew:    מלח  (malaħ)   Persian:    ملاح  (malah)   Russian:    матро́с  (matrós)   sailor     seɪlɚ 
+Mandarin:    水手   (shuǐshǒu)   German:    Matrose   Hebrew:    מלח  (malaħ)   Persian:    ملاح  (malah)   Russian:    матро́с  (matrós)   sailor     seɪlɚ 
 Mandarin:   圣人   (shèngrén)   German:    Heiliger   Heilige   Persian:    مقدس  (moqaddas)   Russian:    свято́й  (svjatój)   saint    seɪnt 
 Russian:    причи́на  (pričína)   sake    seɪk 
 Mandarin:  沙拉   (shālā)   German:  Salat   Hebrew:  סָלָט       (salát)   Persian:  سالاد   (sâlâd)   Russian:  сала́т       (salát)   salad     saləd 

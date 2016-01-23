@@ -38,7 +38,7 @@ class Test(unittest.TestCase):
         connection = self.connectToSqlite()
         cursor = connection.cursor()
         
-        cursor.execute("INSERT INTO words VALUES('Mandarin','鲍鱼','bàoyú', 'German', 'Abalone', 'Abalone', 20);")
+        cursor.execute("INSERT INTO words VALUES('Mandarin','鲍鱼','bàoyú', 'German', 'Abalone', 'Abalone', 20, 2);")
         connection.commit()
         cursor.execute("SELECT * FROM words LIMIT 1;")
     
@@ -48,6 +48,7 @@ class Test(unittest.TestCase):
         self.assert_(data[4] == 'Abalone', "Failed to insert data to sqlite3")
         self.assert_(data[5] == 'Abalone', "Failed to insert data to sqlite3")
         self.assert_(data[6] == 20.0, "Failed to insert data to sqlite3")
+        self.assert_(data[7] == 2.0, "Failed to insert data to sqlite3")
         self.commitAndClose(connection)
         
     

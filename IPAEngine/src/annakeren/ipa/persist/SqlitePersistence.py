@@ -26,7 +26,7 @@ class SqlitePersistence(object):
     def createTableWords(connection):
         cursor = connection.cursor()
         cursor.execute("drop table if exists words;")
-        cursor.execute("CREATE TABLE words (language1 text, original1 text, ipa1 text, language2 text, original2 text, ipa2 text, resemblance real);")
+        cursor.execute("CREATE TABLE words (language1 text, original1 text, ipa1 text, language2 text, original2 text, ipa2 text, resemblance real, matches real);")
         
     @staticmethod
     def insert(db, post):

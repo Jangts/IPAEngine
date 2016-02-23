@@ -167,7 +167,7 @@ class Utils(object):
         wordTemp = string.replace(wordTemp, 'Sch', 's')
         wordTemp = string.replace(wordTemp, 'sch', 's')
         wordTemp = string.replace(wordTemp, 'sz', 's')
-        wordTemp = string.replace(wordTemp, 'y', 'j')
+#         wordTemp = string.replace(wordTemp, 'y', 'j')
         wordTemp = string.replace(wordTemp, 'd͡ʒ', 'z')
         wordTemp = string.replace(wordTemp, 'sh', 's')
         wordTemp = string.replace(wordTemp, 'zh', 'z')

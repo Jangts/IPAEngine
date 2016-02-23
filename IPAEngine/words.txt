@@ -1,3 +1,4 @@
+Mandarin:  角   (jiǎo)   German:  Horn   Hebrew:  קֶרֶן  (keren)   Persian:  شاخ   (sâx)   Russian:  рог  (rog)   horn    hɔːn
 Mandarin:    茶叶   (cháyè)   German:    Teeblatt     Persian:    چای  (talkây)   Russian:  чай  (čaj)   tea    tiː 
 Mandarin:    锗  (zhě)   German: Germanium    Hebrew:  גרמניום (germányum)   Russian:  герма́ний  (germánij)    germanium    dʒɚmeɪniəm 
 Mandarin:  四   (sì)   German:    vier   Hebrew:    אַרְבַּע  (arbá)   Persian:    چهار  (čahâr)   four   fɔː
@@ -722,7 +723,7 @@ German:    Kleckserei    Russian:    штукату́рка  (stukatúrka)   dau
 Mandarin:  女儿   (nǚ'ér)   German:  Tochter    Hebrew:  בַּת  (bat)   Persian:  دختر   (doxtar)   Russian:  дочь  (dočʹ)   daughter     dɔːtə(ɹ) 
 Russian:    дофи́н  (dofín)   dauphin     dɔːfæn 
 Russian:    наступа́ть   (nastupátʹ)   dawn    doːn 
-Mandarin:  天   (tiān)   German:  Tag    Hebrew:  יממה  (yemama)   Persian:  روز   (ruz)   Russian:  су́тки  (sútki)   день  (denʹ)   day    deɪ 
+Mandarin:  天   (tiān)   German:  Tag    Hebrew:  יממה  (yemama)   Persian:  روز   (ruz)   Russian:  день  (denʹ)   day    deɪ 
 Mandarin:    聋  (lóng)   German:    taub   Hebrew:  חֵירֵשׁ   (kheresh)   Persian:  کر   (kar)   Russian:  глухо́й   (gluxój)   deaf    dɛf 
 German:    Anteil   Portion   Russian:    разда́ча  (razdáča)    deal    dɪəɫ 
 Mandarin:    亲爱的  (qīn'àide)   German:  lieb    Hebrew:  יקיר   (yaqyr)   Persian:  گرامی   (gerâmi)   Russian:  дорого́й   (dorogój)   dear    dɪɹ 
@@ -1295,8 +1296,7 @@ Russian:    прыжо́к  (pryžók)   hop    hɒp
 Hebrew:    הוֹרָה  (hóra)   Persian:    پنزه  (panze)   hora    ɦora 
 Mandarin:    地平线  (dìpíngxiàn)   German:  Horizont  Hebrew:  אֹפֶק  (ófek)  Persian:  افق   (ofoq)   Russian:  горизо́нт  (gorizónt)    horizon    həraɪzən 
 Mandarin:  水平   (shuǐpíng)   German:    horizontal   Russian:  горизонта́льный   (gorizontálʹnyj)   horizontal    ˌhɒɹɪzɒntəl 
-Mandarin:  激素   (jīsù)   German:  Hormon  Persian:  هورمون   (hurmun)   Russian:  гормо́н  (gormón)    hormone     hɔːməʊn 
-Mandarin:  角   (jiǎo)   German:  Horn   Hebrew:  קֶרֶן  (keren)   Persian:  شاخ   (sâx)   Russian:  рог  (rog)   horn    hɔːn 
+Mandarin:  激素   (jīsù)   German:  Hormon  Persian:  هورمون   (hurmun)   Russian:  гормо́н  (gormón)    hormone     hɔːməʊn  
 Mandarin:  恐怖   (kǒngbù)   German:    Angst   Furcht   Russian:    у́жас  (úžas)   horror     hɔɹɚ 
 Mandarin:  马   (mǎ)    Hebrew:    סוּס  (sus)   Persian:    اسب  (asb)   Russian:    ло́шадь  (lósadʹ)   horse    hɔː(ɹ)s 
 Mandarin:    马力  (mǎlì)   horsepower     hɔɹsˌpaʊɚ 
@@ -1659,7 +1659,7 @@ Mandarin:    镍  (niè)   German:  Nickel   Hebrew:  ניקל   (nikl)   Persi
 Mandarin: 侄女   (zhínǚ)  German:  Nichte   Hebrew:  אחיינית  (akhyanít)   Russian:  племя́нница  (plemjánnica)   niece    niːs 
 Mandarin:  黑鬼   (hēiguǐ)   German:    Neger   Hebrew:    כושון  (kúsi)   Persian:    غلام  (qolâmsiyâh)   Russian:    негрито́с  (negritós)   nigger     nɪɡə(ɹ) 
 German:    nahe   bei   Persian:    نزدیک  (nazdik)   Russian:    бли́жний   (blížnij)   nigh    naɪ 
-Mandarin:  夜晚   (yèwǎn)   German:    Nacht   Middle   Hebrew:    לילה  (lailah)   Persian:    شب  (sab)   Russian:    ночь  (nočʹ)   night    naɪt 
+Mandarin:  夜晚   (yèwǎn)   German:    Nacht    Hebrew:    לילה  (lailah)   Persian:    شب  (sab)   Russian:    ночь  (nočʹ)   night    naɪt 
 Mandarin:    夜总会  (yèzǒnghuì)  Russian:  ночно́йклуб  (nočnójklub)   nightclub     najt.klub 
 Mandarin:    夜莺  (yèyīng)  German:  Nachtigall    Hebrew:  זָמִיר  (zamir)   Persian:  بلبل   (bolbol)   Russian:  солове́й  (solovéj)   nightingale     naɪtɪŋɡeɪl 
 Mandarin:    噩梦   (èmèng)   German:    Albtraum   Hebrew:    סִיּוּט  (siyút)   Persian:    کابوس  (kâbus)   Russian:    кошма́р  (kosmár)   nightmare    naɪt.mɛə 
@@ -1854,7 +1854,7 @@ German:  Saga  Russian:  са́га   (sága)   saga     sɑːɡə
 Mandarin:  西米   (ximǐ)   German:  Sago   Russian:  са́го   (ságo)   sago     seɪɡəʊ
 Persian:    مذکور  (mazkur)   Russian:    упомя́нутый   (upomjánutyj)   said    sɛd 
 Mandarin:   帆   (fān)   German:  Segel   Hebrew:  מפרש       (mifrás)   Persian:  بادبان   (bâdbân)   Russian:  па́рус       (párus)   sail    seɪl 
-Mandarin:    水手   (shuǐshǒu)   German:    Matrose   Hebrew:    מלח  (malaħ)   Persian:    ملاح  (malah)   Russian:    матро́с  (matrós)   sailor     seɪlɚ 
+Mandarin:    水手   (shuǐshǒu)   German:    Matrose   Seemann   Hebrew:    מלח  (malaħ)   Persian:    ملاح  (malah)   Russian:    матро́с  (matrós)   sailor     seɪlɚ 
 Mandarin:   圣人   (shèngrén)   German:    Heiliger   Heilige   Persian:    مقدس  (moqaddas)   Russian:    свято́й  (svjatój)   saint    seɪnt 
 Russian:    причи́на  (pričína)   sake    seɪk 
 Mandarin:  沙拉   (shālā)   German:  Salat   Hebrew:  סָלָט       (salát)   Persian:  سالاد   (sâlâd)   Russian:  сала́т       (salát)   salad     saləd 
@@ -1943,4 +1943,17 @@ Mandarin:  工资  gngz   German:    Lohn   Hebrew:    משכורת  (maskoret) 
 Mandarin:  威化饼  (wēihuàbǐng)   German:    Oblate   Waffel   Russian:    ва́фля  (váflja)   wafer     weɪfə 
 Russian:    дуть   (dutʹ)   waft    wɒft 
 Mandarin:    赌  (dǔ)   German:  Wette  wager  weɪdʒə(ɹ) 
-
+Mandarin: 星 xīng  German: Sterne  Hebrew: כוכב  khv  Persian: اختر setɑ:rə Russian: звезда  zvzda  star  stɑɹ
+Mandarin: 太阳  tàiyang  Hebrew שמש  shemesh   Persian:  افتاب khorʃi:d German: Sonne  Russian: солнце  sont͡sɘ  sun  sʌn
+Mandarin: 年  nián  German: Jahr  Russian: год  got  Persian: سال    Hebrew  שנה shana   year  jɜː
+Mandarin: 天  tiān  German: Himmel  Hebrew  שמיים  shamaim  Persian: آسمان  asmānam   Russian: небо  nebo  sky  skaɪ
+Mandarin: 云  yún  German: Wolke  Persian: ابر    Hebrew   עָנָן   anan  Russian:облако o̞bləkə  cloud  klaʊd
+Mandarin: 海  hǎi  German: See  Hebrew   יָם  yam  Russian: мо́ре  móre  Persian: دریا  daryâ  sea  si
+Mandarin: 河   hé  German: Fluss  Hebrew  נהר   nahár  Persian: رود  rud  Russian: река́  reká   river  ɹɪvə
+Mandarin:  石头  shítou  German:  Stein   Hebrew  אבן  éven  Persian: سنگ  sang Russian: ка́мень  kámen   stone  stəʊn
+Mandarin:  石头  shítou  German: Fels  Hebrew: אֶבֶן   even  Persian:  تختهسنگ  taxtaesang  Russian: ка́мень  kámen   rock  ɹɒk
+Mandarin: 土  ‎tǔ  German: Erde  Hebrew  אֲדָמָה  adamá  Persian: خاک  xâk  Russian: земля́  zemljá  soil  sɔɪl
+Mandarin: 烟  yān  German: Rauch  Hebrew  עשן  ashán  Persian: دود  dud  Russian: дым  dym   smoke  sməʊk
+Mandarin: 灰  huī  German: Staub  Hebrew  אבק  avák  Persian: خاک  xâk  Russian: пыль  pyl  dust  dʌst
+Mandarin: 水  shuǐ  German: Wasser  Hebrew  מַיִם  máyim  Persian: آب  âb  Russian: вода́  vodá  water  wɔːtə
+Russian: вода́  vodá  German: Wind  Hebrew  רוח rúakh  Persian: باد  bâd  Russian: ве́тер  véter  wind  wind

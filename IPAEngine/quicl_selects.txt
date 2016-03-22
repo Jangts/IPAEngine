@@ -1,0 +1,23 @@
+conn <- connectSqlite3 "urls.db"
+
+
+quickQuery' conn "SELECT sql FROM sqlite_master WHERE tbl_name = 'urls' AND type = 'table'" []
+
+quickQuery' conn "SELECT * FROM linksTitles" []
+
+
+
+
+
+:main ["create"]
+:main ["saved"]
+
+:main ["savedAt", "2014-12-25 19:54:01", "2014-12-25 23:00:01"]
+
+let d="2014-12-25 19:54"
+let fd = readTime defaultTimeLocale "%Y-%b-%d %l:%M" d:: UTCTime
+print $ formatTime defaultTimeLocale "%Y-%b-%d %l:%M" fd
+
+--run conn "DROP TABLE IF EXISTS linksTitles" []
+       	--run conn "DROP TABLE IF EXISTS urls" []
+       	--run conn "DROP TABLE IF EXISTS dateQuery" []

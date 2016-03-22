@@ -1,0 +1,14 @@
+Mandarin: 星 xīng  German: Sterne  Hebrew: כוכב  khv  Russian: звезда  zvzda  star  stɑɹ
+Mandarin: 太阳  tàiyang  Hebrew שמש  shemesh   Persian: آفتاب  sl  German: Sonne  Russian: солнце  sont͡sɘ  sun  sʌn
+Mandarin: 年  nián  German: Jahr  Russian: год  got  Persian: سال    Hebrew  שנה shana   year  jɜː
+Mandarin: 天  tiān  German: Himmel  Hebrew  שמיים  shamaim  Persian: آسمان  asmānam   Russian: небо  nebo  sky  skaɪ
+Mandarin: 云  yún  German: Wolke  Persian: ابر    Hebrew   עָנָן   anan  Russian:облако o̞bləkə  cloud  klaʊd
+Mandarin: 海  hǎi  German: See  Hebrew   יָם  yam  Russian: мо́ре  móre  Persian: دریا  daryâ  sea  si
+Mandarin: 河   hé  German: Fluss  Hebrew  נהר   nahár  Persian: رود  rud  Russian: река́  reká   river  ɹɪvə
+Mandarin:  石头  shítou  German:  Stein   Hebrew  אבן  éven  Persian: سنگ  sang Russian: ка́мень  kámen   stone  stəʊn
+Mandarin:  石头  shítou  German: Fels  Hebrew: אֶבֶן   even  Persian:  تختهسنگ  taxtaesang  Russian: ка́мень  kámen   rock  ɹɒk
+Mandarin: 土  ‎tǔ  German: Erde  Hebrew  אֲדָמָה  adamá  Persian: خاک  xâk  Russian: земля́  zemljá  soil  sɔɪl
+Mandarin: 烟  yān  German: Rauch  Hebrew  עשן  ashán  Persian: دود  dud  Russian: дым  dym   smoke  sməʊk
+Mandarin: 灰  huī  German: Staub  Hebrew  אבק  avák  Persian: خاک  xâk  Russian: пыль  pyl  dust  dʌst
+Mandarin: 水  shuǐ  German: Wasser  Hebrew  מַיִם  máyim  Persian: آب  âb  Russian: вода́  vodá  water  wɔːtə
+Russian: вода́  vodá  German: Wind  Hebrew  רוח rúakh  Persian: باد  bâd  Russian: ве́тер  véter  wind  wind

@@ -847,7 +847,7 @@ Mandarin:  手指   (shǒuzhǐ)   German:  Finger   Hebrew:  אֶצְבַּע 
 Mandarin:    指甲   (zhǐjia)   German:  Fingernagel    Persian:  ناخن   (nâxun)  Russian:  но́готь  (nógotʹ)   fingernail     fɪŋɡɚˌneɪl 
 Mandarin:    终结  (zhōngjié)  German:  Ende    Russian:  коне́ц  (konéc)   finish     fɪnɪʃ 
 Russian:    зако́нченный   (zakónčennyj)   finished     fɪnɪʃt 
-Mandarin:  火   (huǒ)   German:    Feuer   Alemannic   Hebrew:    אֵשׁ  (es)   Persian:    آتش  (âtas)   Russian:    ого́нь  (ogónʹ)   fire     faɪ̯ə(ɹ) 
+Mandarin:  火   (huǒ)   German:    Feuer    Hebrew:    אֵשׁ  (es)   Persian:    آتش  (âtas)   Russian:    ого́нь  (ogónʹ)   fire     faɪ̯ə(ɹ) 
 German:    Brandmauer   Brandwand   Russian:    брандма́уэр  (brandmáuer)   firewall     faɪə.wɔəl 
 Mandarin:    企业  (qǐyè)  German:  Firma    Hebrew:  חברה  (khevrá)   Russian:  фи́рма  (fírma)     firm    fɝm 
 Mandarin:  第一   (dìyī)   German:    erster   Hebrew:  רִאשׁוֹן  (rishón)   Persian:  اولین   (avvalin)   Russian:  пе́рвый  (pérvyj)   first    fɜːst 

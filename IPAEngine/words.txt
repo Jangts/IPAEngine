@@ -1049,7 +1049,7 @@ Mandarin:    目标  (mùbiāo)   German:    Ziel   Hebrew:  מטרה   (matara)
 German:    Goalie   goalie     ɡəʊl.i 
 Mandarin:     羊   (yáng)   German:    Ziege      Hebrew:    עֵז  (ez)   Persian:    بز  (boz)   Russian:    коза́  (kozá)   goat    ɡəʊt 
 Mandarin:    妖怪  (yāoguài)  German:  Kobold   Russian:  го́блин  (góblin)    goblin     ɡɑb.lɪn 
-Mandarin:  神   (shén)   German:    Gott     Hebrew:  אלוהים   (elohím)     Persian:    خدا  (xodâ)   Russian:    бог  (bog)   god    ɡɒd 
+Mandarin:  神   (shén)   German:    Gott     Hebrew:  אלוהים   (elohim)     Persian:    خدا  (xodâ)   Russian:    бог  (box)   god    ɡɒd 
 Mandarin:    教父   (jiàofù)   German:  Pate    Hebrew:  סנדק  (sandak)   Russian:  крёстныйоте́ц  (krjóstnyjotéc)   godfather     ɡɑdfɑðɚ 
 Mandarin:    护眼镜   (hùyǎnjìng)   German:  Schutzbrille  Russian:  защи́тныеочки́    (zasčítnyjeočkí)    goggles     ɡɑ.ɡəlz 
 Mandarin:    甲状腺肿  (jiǎzhuàngxiànzhǒng)   German:    Kropf   Russian:    зоб  (zob)   goitre     ɡɔɪ.tə 
@@ -1946,7 +1946,7 @@ Mandarin:    赌  (dǔ)   German:  Wette  wager  weɪdʒə(ɹ)
 Mandarin: 星 xīng  German: Sterne  Hebrew: כוכב  khv  Persian: اختر setɑ:rə Russian: звезда  zvzda  star  stɑɹ
 Mandarin: 太阳  tàiyang  Hebrew שמש  shemesh   Persian:  افتاب khorʃi:d German: Sonne  Russian: солнце  sont͡sɘ  sun  sʌn
 Mandarin: 年  nián  German: Jahr  Russian: год  got  Persian: سال    Hebrew  שנה shana   year  jɜː
-Mandarin: 天  tiān  German: Himmel  Hebrew  שמיים  shamaim  Persian: آسمان  asmānam   Russian: небо  nebo  sky  skaɪ
+Mandarin: 天  tiān  German: Himmel  Hebrew  שמיים  ʃamajim  Persian: آسمان  asmānam   Russian: небо  nebo  sky  skaɪ
 Mandarin: 云  yún  German: Wolke  Persian: ابر    Hebrew   עָנָן   anan  Russian:облако o̞bləkə  cloud  klaʊd
 Mandarin: 海  hǎi  German: See  Hebrew   יָם  yam  Russian: мо́ре  móre  Persian: دریا  daryâ  sea  si
 Mandarin: 河   hé  German: Fluss  Hebrew  נהר   nahár  Persian: رود  rud  Russian: река́  reká   river  ɹɪvə
@@ -1956,4 +1956,4 @@ Mandarin: 土  ‎tǔ  German: Erde  Hebrew  אֲדָמָה  adamá  Persian: خ
 Mandarin: 烟  yān  German: Rauch  Hebrew  עשן  ashán  Persian: دود  dud  Russian: дым  dym   smoke  sməʊk
 Mandarin: 灰  huī  German: Staub  Hebrew  אבק  avák  Persian: خاک  xâk  Russian: пыль  pyl  dust  dʌst
 Mandarin: 水  shuǐ  German: Wasser  Hebrew  מַיִם  máyim  Persian: آب  âb  Russian: вода́  vodá  water  wɔːtə
-Russian: вода́  vodá  German: Wind  Hebrew  רוח rúakh  Persian: باد  bâd  Russian: ве́тер  véter  wind  wind
+Russian: вода́  vodá  German: Wind  Hebrew  רוח ʁuaħ  Persian: باد  bâd  Russian: ве́тер  véter  wind  wind

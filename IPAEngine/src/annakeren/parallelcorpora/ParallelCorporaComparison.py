@@ -91,6 +91,6 @@ if __name__ == '__main__':
         
         
     else:
-        print "Only two texts to compare should be in a folder"    
+        print"Only two texts to compare should be in a folder"    
     
     pass

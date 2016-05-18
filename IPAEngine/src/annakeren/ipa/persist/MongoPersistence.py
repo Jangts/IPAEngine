@@ -10,7 +10,7 @@ class MongoPersistence(object):
     classdocs
     '''
 
-    @staticmethod 
+@staticmethod 
     def connect(params):
         host = params[0]
         port = params[1]
@@ -18,7 +18,7 @@ class MongoPersistence(object):
         db = client.ipa_engine
         return db
     
-    @staticmethod
+@staticmethod
     def insert(db, post):
         posts = db.posts
         posts.insert_one(post)

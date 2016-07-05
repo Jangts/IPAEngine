@@ -17,18 +17,18 @@ class SqlitePersistence(object):
         '''
         
     
-    @staticmethod 
+@staticmethod 
     def connect(fileName):
         connection = sqlite3.connect(fileName)
         return connection
     
-    @staticmethod
+@staticmethod
     def createTableWords(connection):
         cursor = connection.cursor()
         cursor.execute("drop table if exists words;")
         cursor.execute("CREATE TABLE words (language1 text, original1 text, ipa1 text, language2 text, original2 text, ipa2 text, resemblance real, matches real);")
         
-    @staticmethod
+@staticmethod
     def insert(db, post):
         posts = db.posts
         posts.insert_one(post)

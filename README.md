@@ -9,3 +9,7 @@ The training data is generated containg 15000 pairs of compared words in the fol
 
 This software is not in public domain, refer to Copyright file for copyright information. The results of the training data are available for public use by downloading ipa.sqlite file.
 
+Usage of training data in terminal:
+>sqlite3
+>.open IPAEngine/IPAEngine/ipa.sqlite
+>select * from words;

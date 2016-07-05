@@ -9,6 +9,7 @@ from src.annakeren.ipa.persist import SqlitePersistence
 
 
 def getAccumulatedCount(text, language1, language2):
+    print language1 + "/" + language2
     allList = []
     selectPart1 = "select matches, resemblance from words where (ipa2='"
     selectPart2 = "' or ipa1='"
@@ -22,6 +23,7 @@ def getAccumulatedCount(text, language1, language2):
     cursor = connection.cursor()
     match = 0
     resemblance = 0.0
+    wordsCountCompared = 0
     for word in words:
         wordStripped = word.strip()
         if len(wordStripped) > 1:
@@ -33,11 +35,15 @@ def getAccumulatedCount(text, language1, language2):
             data = cursor.fetchone()
             if data is not None:
                 match = match + data[0]
-                resemblance = resemblance +data[1]
+                resemblance = resemblance + data[1]
+                wordsCountCompared = wordsCountCompared + 1
+                print data[1]
 
     connection.close()
     allList.append(match)
-    allList.append(resemblance)
+    if wordsCountCompared != 0:
+        resemblance = float(resemblance)/ float(wordsCountCompared)
+    allList.append(str(resemblance))
     return allList
 
 def getLanguage(fileName):
@@ -65,7 +71,7 @@ def getLanguage(fileName):
 if __name__ == '__main__':
     files = Utils.Utils.readAllFilesFromFolder("/Users/annakeren/ParalleCorpra/")
     
-    if len(files) < 3:
+    if len(files) != 3:
         
         texts =[[None]]*2
         languages = [[None]]*2
@@ -83,10 +89,10 @@ if __name__ == '__main__':
         print languages[0] +" vs " + languages[1] + " Genesis"
         
         result1 = getAccumulatedCount(texts[0], languages[1], languages[0])
-        print languages[1] +" resemblance to " + languages[0] + " " + str(result1[0])
+        print languages[1] +" resemblance to " + languages[0] + " " + str(result1[0]) + ", by percentage " + str(result1[1])
         
         result2 = getAccumulatedCount(texts[1], languages[0], languages[1])
-        print languages[0] +" resemblance to " + languages[1] + " " + str(result2[0])
+        print languages[0] +" resemblance to " + languages[1] + " " + str(result2[0])+ ", by percentage " + str(result2[1])
         
         
         

@@ -89,10 +89,10 @@ if __name__ == '__main__':
         print languages[0] +" vs " + languages[1] + " Genesis"
         
         result1 = getAccumulatedCount(texts[0], languages[1], languages[0])
-        print languages[1] +" resemblance to " + languages[0] + " " + str(result1[0]) + ", by percentage " + str(result1[1])
+        print languages[1] +" compared to " + languages[0] + " absolute resemblance is " + str(result1[0]) + ", ratio is " + str(result1[1])
         
         result2 = getAccumulatedCount(texts[1], languages[0], languages[1])
-        print languages[0] +" resemblance to " + languages[1] + " " + str(result2[0])+ ", by percentage " + str(result2[1])
+        print languages[0] +" compared to " + languages[1] + " absolute resemblance is " + str(result2[0])+ ", ratio is  " + str(result2[1])
         
         
         
